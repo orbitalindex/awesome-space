@@ -9,9 +9,12 @@ Curated space-related packages and resources.
 * [Satellites](#satellites)
 * [Data](#data)
   * [Imagry](#imagry)
-* [General Software](#general-software)
+  * [Extrasolar Planets](#extrasolar planets)
+* [General Software](#general software)
 
 ## Satellites
+
+* https://satnogs.org/
 
 ## Data
 
@@ -19,6 +22,14 @@ Curated space-related packages and resources.
 * https://data.nasa.gov/
 * http://data.globalforestwatch.org/
 * https://earthdata.nasa.gov/earth-observation-data/near-real-time
+* [The Sloan Digital Sky Survey three-dimensional maps of the Universe](https://www.sdss.org/)
+* https://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html
+* https://pds.jpl.nasa.gov/
+
+### Extrasolar Planets
+
+* https://archive.stsci.edu/kepler/published_planets/search.php
+* http://exoplanet.eu/
 
 ### Imagry
 
@@ -36,6 +47,9 @@ Curated space-related packages and resources.
 
 * https://software.nasa.gov/ and https://code.nasa.gov/
 * http://www.pdas.com/aerosoft.html
+* https://github.com/typpo/astrokit
+* https://github.com/dstndstn/astrometry.net
+* https://www.nasa.gov/centers/johnson/engineering/tools/index.html
 
 ## License
 
