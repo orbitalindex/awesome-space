@@ -1,6 +1,8 @@
+(This project is very alpha at the moment and unfinished.)
+
 # Awesome Space
 
-Curated space-related packages and resources.
+A curated list of space-related code, data, and resources.
 
 [Please contribute!](CONTRIBUTING.md)
 
