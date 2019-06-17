@@ -4,19 +4,27 @@
 
 A curated list of space-related code, data, and resources.
 
-[Please contribute!](CONTRIBUTING.md)
+[Please contribute!](contributing.md)
 
 ## Table of contents
 
 * [Satellites](#satellites)
+  * [Satellite Software](#satellite-software)
+  * [Ground Stations](#ground-stations)
 * [Data](#data)
   * [Imagry](#imagry)
-  * [Extrasolar Planets](#extrasolar planets)
-* [General Software](#general software)
+  * [Extrasolar Planets](#extrasolar-planets)
+* [General Software](#general-software)
 
 ## Satellites
 
-* https://satnogs.org/
+### Satellite Software
+
+* [KubOS](https://www.kubos.com/kubos/) - An open-source flight software framework for satellites
+
+### Ground Stations
+
+* [SatNOGS](https://satnogs.org/) - A global network of satellite ground stations, designed as an open source participatory project
 
 ## Data
 
@@ -44,7 +52,6 @@ A curated list of space-related code, data, and resources.
 * https://worldview.earthdata.nasa.gov
 * http://www.geoportal.org/
 
-
 ## General Software
 
 * https://software.nasa.gov/ and https://code.nasa.gov/
@@ -55,4 +62,4 @@ A curated list of space-related code, data, and resources.
 
 ## License
 
-[![Creative Commons Attribution 4.0 International License](https://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
+[![Creative Commons Attribution-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
