@@ -6,6 +6,8 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ## Table of contents
 
+* [Hardware](#hardware)
+  * [Satellite Hardware](#hardware)
 * [Software](#software)
   * [Software Directories](#software-directories)
   * [Satellite Software](#satellite-software)
@@ -21,25 +23,36 @@ A curated list of space-related code, APIs, data, and other resources.
   * [Astronomy Data](#astronomy-data)
     * [Extrasolar Planet Data](#extrasolar-planet-data)
 
+## Hardware
+
+### Satellite Hardware
+
+* [FossaSat-1](https://fossa.systems/fossasat/) - Hardware designs and software for the FossaSat-1 Pocketqube satellite ([GitHub](https://github.com/Bambofy/FossaSat-1))
+* [UPSat](https://upsat.gr/) - Open source satellite software and hardware
+
 ## Software
 
 ### Software Directories
 
 * [Public Domain Aeronautical Software](http://www.pdas.com/aerosoft.html)
-* [software.nasa.gov](https://software.nasa.gov/)
+* [software.nasa.gov](https://software.nasa.gov/) and [code.nasa.gov](https://code.nasa.gov/)
 
 ### Satellite Software
 
+* [FossaSat-1](https://fossa.systems/fossasat/) - Hardware designs and software for the FossaSat-1 Pocketqube satellite ([GitHub](https://github.com/Bambofy/FossaSat-1))
 * [KubOS](https://www.kubos.com/kubos/) - An open-source flight software framework for satellites
+* [LibreCube](https://librecube.org/) - Open source space and Earth exploration. Defining a generic architecture of system of systems that have standardized interfaces makes it possible to combine and reuse elements for various applications
+* [UPSat](https://upsat.gr/) - Open source satellite software and hardware
 
 ### Ground Station Software
 
+* [Open Satellite Project](https://limemicro.com/community/open-satellite-project/) - Ongoing effort to develop open-source software for the receipt and decoding of satellite data using software-defined radio (SDR) hardware
 * [SatNOGS](https://satnogs.org/) - A global network of satellite ground stations, designed as an open source participatory project
 
 ### Astronomy Software
 
-* [astrometry.net](http://astrometry.net/use.html) - Code and an API for generating astrometric calibration meta-data
 * [AstroKit](https://github.com/typpo/astrokit) - A web-based toolset for performing lightcurve photometry
+* [astrometry.net](http://astrometry.net/use.html) - Code and an API for generating astrometric calibration meta-data
 
 ## APIs
 
@@ -61,13 +74,13 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [earthdata.nasa.gov](https://earthdata.nasa.gov/earth-observation-data) - Portal to NASA's Earth observation data
 * [ESA's GEOSS Portal](http://www.geoportal.org/) - Query for Earth imagery across a suite of space systems
-* [Worldview](https://worldview.earthdata.nasa.gov/) - A NASA app that provides the capability to interactively browse over 800 global, full-resolution satellite imagery layers and then download the underlying data
 * [Global Forest Watch Open Data Portal](http://data.globalforestwatch.org/) - Identify areas of tree cover loss and gain
-* [NASA Land-Cover and Land-Use Change (LCLUC) Program](http://lcluc.umd.edu/content/data-initiatives)
 * [High Definition Earth-Viewing System (HDEV)](https://eol.jsc.nasa.gov/ESRS/HDEV/) - Realtime stream of Earth from the ISS
+* [Landsat data sources](https://landsat.gsfc.nasa.gov/data/where-to-get-data/)
+* [NASA Land-Cover and Land-Use Change (LCLUC) Program](http://lcluc.umd.edu/content/data-initiatives)
 * [USGS EarthExplorer](https://earthexplorer.usgs.gov/) - A tool that provides users the ability to query, search, and retrieve satellite images, aerial photographs, and cartographic products from several sources
 * [Visible Earth](https://visibleearth.nasa.gov/) - A catalog of NASA images and animations of our home planet
-* [Landsat data sources](https://landsat.gsfc.nasa.gov/data/where-to-get-data/)
+* [Worldview](https://worldview.earthdata.nasa.gov/) - A NASA app that provides the capability to interactively browse over 800 global, full-resolution satellite imagery layers and then download the underlying data
 
 ### Solar System Data
 
