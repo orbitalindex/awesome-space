@@ -84,6 +84,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### Solar System Data
 
+* [IAU Minor Planet Center](https://minorplanetcenter.net/data) - Clearing house for observations of asteroids and other smaller solar system bodies
 * [NASA's Planetary Data System](https://pds.jpl.nasa.gov/) - A long-term archive of digital data products returned from NASA's planetary missions
 
 ### Astronomy Data
