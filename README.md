@@ -117,6 +117,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### General Software
 
+* [European Space Software Repository](https://essr.esa.int/)
 * [Public Domain Aeronautical Software](http://www.pdas.com/aerosoft.html)
 * [software.nasa.gov](https://software.nasa.gov/) and [code.nasa.gov](https://code.nasa.gov/)
 
