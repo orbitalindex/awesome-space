@@ -28,7 +28,9 @@ A curated list of space-related code, APIs, data, and other resources.
   * [Mission Design](#mission-design)
   * [Orbit Determination](#orbit-determination)
   * [Spacecraft Hardware](#spacecraft-hardware)
+    * [Radios](#radios)
   * [Spacecraft Software](#spacecraft-software)
+    * [Legacy](#legacy)
 
 <!-- End TOC (do not remove me) -->
 
@@ -148,15 +150,27 @@ A curated list of space-related code, APIs, data, and other resources.
 * [NASA Outgassing Db](https://data.nasa.gov/resource/r588-f7pr.json) - A dataset of materials intended for spacecraft use from the Goddard Space Flight Center, the Stanford Research Institute, and the Jet Propulsion Laboratory.
 * [UPSat](https://upsat.gr/) - Open source satellite software and hardware
 
+#### Radios
+
+* OpenLST transceiver [hardware](https://github.com/OpenLST/openlst-hw) and [firmware](https://github.com/OpenLST/openlst) - OpenLST is an open source, proven radio design for communicating with remote instruments, vehicles, and stations using low-cost commercial components. Based on Planet Labs' telemetry/command radio.
+* [LFR transceiver](http://lfradio.space/) - LFR is an open source, command, telemetry, and data radio for cubesats.
+
 ### Spacecraft Software
 
-* [Apollo 11 Guidance Code](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules
 * [FossaSat-1](https://fossa.systems/fossasat/) - Hardware designs and software for the FossaSat-1 Pocketqube satellite ([GitHub](https://github.com/Bambofy/FossaSat-1))
+* [JPL F Prime](https://github.com/nasa/fprime) - F Prime (FÊ¹) is a component-driven framework that enables rapid development and deployment of spaceflight and other embedded software applications, originally developed at the Jet Propulsion Laboratory.
 * [KubOS](https://www.kubos.com/kubos/) - An open-source flight software framework for satellites
 * [LibreCube](https://librecube.org/) - Open source space and Earth exploration. Defining a generic architecture of system of systems that have standardized interfaces makes it possible to combine and reuse elements for various applications
+* [NASA Core Flight System](https://cfs.gsfc.nasa.gov/) - A platform and project independent reusable software framework and set of reusable software applications for spaceflight missions.
 * [UPSat](https://upsat.gr/) - Open source satellite software and hardware
 
+#### Legacy
+
+* [Apollo 11 Guidance Code](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules
+
 <!-- End Links (do not remove me) -->
+
+
 
 
 
