@@ -10,6 +10,6 @@ Please make sure that your pull request follows the following guidelines:
 - Additions should be added in alphabetical order in the relevant category.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
-- New categories, or improvements to the existing categories, are encouraged.
+- New categories, or improvements to the existing categories, are encouraged. (After adding your links, you can optionally run `ruby ./bin/reformat.rb` to regenerate the table of contents and ensure correct sorting.)
 
 Thank you for contributing!
