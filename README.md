@@ -20,17 +20,18 @@ A curated list of space-related code, APIs, data, and other resources.
   * [Launches](#launches)
   * [Solar System Data](#solar-system-data)
     * [Orbits](#orbits)
+* [Other](#other)
 * [Spacecraft](#spacecraft)
   * [General Software](#general-software)
   * [Ground Stations](#ground-stations)
   * [Mission Control](#mission-control)
   * [Mission Design](#mission-design)
   * [Orbit Determination](#orbit-determination)
-  * [Other](#other)
   * [Spacecraft Hardware](#spacecraft-hardware)
   * [Spacecraft Software](#spacecraft-software)
 
 <!-- End TOC (do not remove me) -->
+
 
 
 
@@ -106,6 +107,10 @@ A curated list of space-related code, APIs, data, and other resources.
 * [JPL's HORIZONS](https://ssd.jpl.nasa.gov/horizons.cgi) - Generate ephemerides for solar-system bodies
 * [Space Physics Data Facility](https://spdf.gsfc.nasa.gov/data_orbits.html) - Web-based services for survey and high resolution data and trajectories
 
+## Other
+
+* [Resources and references on the topic of space exploration](https://space.meta.stackexchange.com/questions/249/resources-and-references-on-the-topic-of-space-exploration) - StackExchange list of books, manuals, courses, and more.
+
 ## Spacecraft
 
 ### General Software
@@ -137,10 +142,6 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Gpredict](http://gpredict.oz9aec.net/) - Open source, real-time satellite tracking and orbit prediction application.
 * [Space-Track.org](https://www.space-track.org/documentation#api) - Programmatic access to Two-Line Elements, Orbital Mean-Elements, satellite catalog information, and more.
 
-### Other
-
-* [Resources and references on the topic of space exploration](https://space.meta.stackexchange.com/questions/249/resources-and-references-on-the-topic-of-space-exploration) - StackExchange list of books, manuals, courses, and more.
-
 ### Spacecraft Hardware
 
 * [FossaSat-1](https://fossa.systems/fossasat/) - Hardware designs and software for the FossaSat-1 Pocketqube satellite ([GitHub](https://github.com/Bambofy/FossaSat-1))
@@ -156,6 +157,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [UPSat](https://upsat.gr/) - Open source satellite software and hardware
 
 <!-- End Links (do not remove me) -->
+
 
 
 
