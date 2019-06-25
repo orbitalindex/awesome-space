@@ -60,6 +60,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Harmony of the Spheres](https://github.com/TheHappyKoala/Harmony-of-the-Spheres) - Newtonian gravity and space simulator that runs in your browser
 * [NASA Eyes](https://eyes.nasa.gov/) - Immersible apps to explore the Earth and solar system
 * [Orbit Simulator](http://www.orbitsimulator.com/gravity/articles/what.html) - A powerful numerical integration tool. "By performing n-body simulations, you can study the orbits of planets, moons, asteroids, or any object in the universe."
+* [Orb Viewer](https://parsecsreach.com/orbviewer) - Visulisation of all the asteroids in the MPC database.
 * [Stellarium](http://stellarium.org/) - Open source planetarium for your computer
 
 ## Data
@@ -145,6 +146,7 @@ A curated list of space-related code, APIs, data, and other resources.
 ### Orbit Determination
 
 * [Gpredict](http://gpredict.oz9aec.net/) - Open source, real-time satellite tracking and orbit prediction application.
+* [Orb Calc](https://github.com/wselwood/orbcalc) - Generate positions of objects from orbital parameters.
 * [Space-Track.org](https://www.space-track.org/documentation#api) - Programmatic access to Two-Line Elements, Orbital Mean-Elements, satellite catalog information, and more.
 
 ### Spacecraft Hardware
