@@ -31,8 +31,10 @@ A curated list of space-related code, APIs, data, and other resources.
     * [Radios](#radios)
   * [Spacecraft Software](#spacecraft-software)
     * [Legacy](#legacy)
+  * [Visualization](#visualization)
 
 <!-- End TOC (do not remove me) -->
+
 
 
 
@@ -51,16 +53,16 @@ A curated list of space-related code, APIs, data, and other resources.
 ### Astronomy Software
 
 * [AstroKit](https://github.com/typpo/astrokit) - A web-based toolset for performing lightcurve photometry
+* [AstroPy](https://www.astropy.org) - Collection of software packages written in Python and designed for use in astronomy.
 * [astrometry.net](http://astrometry.net/use.html) - Code and an API for generating astrometric calibration meta-data
-* [AstroPy](https://www.astropy.org) - Collection of software packages written in Python and designed for use in astronomy. 
 
 ### Interactive Planetariums
 
 * [Celestia](https://celestia.space/) - Free real-time 3D visualization of space. (See also [Celestia Motherload](http://www.celestiamotherlode.net/) for many addons.)
 * [Harmony of the Spheres](https://github.com/TheHappyKoala/Harmony-of-the-Spheres) - Newtonian gravity and space simulator that runs in your browser
 * [NASA Eyes](https://eyes.nasa.gov/) - Immersible apps to explore the Earth and solar system
-* [Orbit Simulator](http://www.orbitsimulator.com/gravity/articles/what.html) - A powerful numerical integration tool. "By performing n-body simulations, you can study the orbits of planets, moons, asteroids, or any object in the universe."
 * [Orb Viewer](https://parsecsreach.com/orbviewer) - Visulization of all the asteroids in the MPC database.
+* [Orbit Simulator](http://www.orbitsimulator.com/gravity/articles/what.html) - A powerful numerical integration tool. "By performing n-body simulations, you can study the orbits of planets, moons, asteroids, or any object in the universe."
 * [Stellarium](http://stellarium.org/) - Open source planetarium for your computer
 
 ## Data
@@ -131,6 +133,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### Mission Control
 
+* [COSMOS](https://cosmosrb.com/) - Open source desktop mission control software
 * [Open MCT](https://github.com/nasa/openmct) - Ames's next-generation mission control framework for visualization of data on desktop and mobile devices.
 
 ### Mission Design
@@ -140,6 +143,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Delta V calculator for LEO/MEO/GEO injection](http://www.satsig.net/orbit-research/delta-v-geo-injection-calculator.htm)
 * [Flight Club](https://www2.flightclub.io/) - Orbital launch simulator and trajectory visualisation software
 * [NASA Ames Research Center Trajectory Browser](https://trajbrowser.arc.nasa.gov/traj_browser.php) - A tool to find spacecraft trajectories to planets and small-bodies
+* [NOS3](https://github.com/nasa/nos3) - NASA Operational Simulator for Small Satellites
 * [SPICE](https://naif.jpl.nasa.gov/naif/toolkit.html) - Ephemerides library used by JPL for their missions. [SpiceyPy](https://github.com/AndrewAnnex/SpiceyPy) is a Python wrapper.
 * [poliastro](https://github.com/poliastro/poliastro) - Poliastro is an open source pure Python package dedicated to problems arising in Astrodynamics and Orbital Mechanics. Focuses on interplanetary design.
 * [smd](https://github.com/ChristopherRabotin/smd) - A SPICE-enhanced continuous thrust interplanetary mission propagator and visualizer.
@@ -149,6 +153,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Gpredict](http://gpredict.oz9aec.net/) - Open source, real-time satellite tracking and orbit prediction application.
 * [Orb Calc](https://github.com/wselwood/orbcalc) - Generate positions of objects from orbital parameters.
 * [Space-Track.org](https://www.space-track.org/documentation#api) - Programmatic access to Two-Line Elements, Orbital Mean-Elements, satellite catalog information, and more.
+* [jspredict](https://github.com/nsat/jspredict) - A Javascript port of the popular predict satellite tracking library.
 
 ### Spacecraft Hardware
 
@@ -175,7 +180,12 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [Apollo 11 Guidance Code](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules
 
+### Visualization
+
+* [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps
+
 <!-- End Links (do not remove me) -->
+
 
 
 
