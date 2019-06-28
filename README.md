@@ -135,6 +135,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### Mission Design
 
+* [42](https://software.nasa.gov/software/GSC-16720-1) - Attitude and trajectory simulation of Spacecraft (NASA)
 * [Basilisk](https://bitbucket.org/avslab/basilisk/src/develop/) - C/C++ astrodynamics and attitude control simulation (includes Python scripting).
 * [Delta V calculator for LEO/MEO/GEO injection](http://www.satsig.net/orbit-research/delta-v-geo-injection-calculator.htm)
 * [Flight Club](https://www2.flightclub.io/) - Orbital launch simulator and trajectory visualisation software
