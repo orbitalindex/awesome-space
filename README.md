@@ -20,20 +20,24 @@ A curated list of space-related code, APIs, data, and other resources.
   * [Launches](#launches)
   * [Solar System Data](#solar-system-data)
     * [Orbits](#orbits)
+  * [Space Debris](#space-debris)
 * [Other](#other)
 * [Spacecraft](#spacecraft)
   * [General Software](#general-software)
   * [Ground Stations](#ground-stations)
   * [Mission Control](#mission-control)
   * [Mission Design](#mission-design)
-  * [Orbit Determination](#orbit-determination)
   * [Spacecraft Hardware](#spacecraft-hardware)
     * [Radios](#radios)
   * [Spacecraft Software](#spacecraft-software)
     * [Legacy](#legacy)
-  * [Visualization](#visualization)
+  * [Tracking & Orbit Determination](#tracking--orbit-determination)
+* [Visualization](#visualization)
 
 <!-- End TOC (do not remove me) -->
+
+
+
 
 
 
@@ -46,7 +50,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### Astronomy APIs
 
-* [AstroBin API](http://www.astrobin.com/help/api/)
+* [AstroBin API](http://www.astrobin.com/help/api/) - AstroBin is an image hosting website specifically targeted to astrophotographers. Its API offers a basic set of RESTful endpoints. Currently the API is read-only, and  allows you to get data about images, and perform basic searches.
 * [Open Astronomy Catalog API](https://astrocats.space/) - The Open Astronomy Catalog API (OACAPI) offers a lightweight, simple way to access data available via the Open Astronomy Catalogs (e.g. the Open Supernova, Tidal Disruption, Kilonova, and Fast Stars Catalogs).
 * [astrometry.net](http://astrometry.net/) - "If you have astronomical imaging of the sky with celestial coordinates you do not know—or do not trust—then Astrometry.net is for you. Input an image and we'll give you back astrometric calibration meta-data, plus lists of known objects falling inside the field of view."
 
@@ -113,8 +117,13 @@ A curated list of space-related code, APIs, data, and other resources.
 
 #### Orbits
 
+* [Celestrak](http://celestrak.com) - Celestrak is the world's oldest source for orbital element sets (and related software and educational materials).
 * [JPL's HORIZONS](https://ssd.jpl.nasa.gov/horizons.cgi) - Generate ephemerides for solar-system bodies
 * [Space Physics Data Facility](https://spdf.gsfc.nasa.gov/data_orbits.html) - Web-based services for survey and high resolution data and trajectories
+
+### Space Debris
+
+* [Stuff In Space](http://stuffin.space) - Stuff in Space is a realtime 3D map of objects in Earth orbit, visualized using WebGL. Updates daily.
 
 ## Other
 
@@ -151,13 +160,6 @@ A curated list of space-related code, APIs, data, and other resources.
 * [poliastro](https://github.com/poliastro/poliastro) - Poliastro is an open source pure Python package dedicated to problems arising in Astrodynamics and Orbital Mechanics. Focuses on interplanetary design.
 * [smd](https://github.com/ChristopherRabotin/smd) - A SPICE-enhanced continuous thrust interplanetary mission propagator and visualizer.
 
-### Orbit Determination
-
-* [Gpredict](http://gpredict.oz9aec.net/) - Open source, real-time satellite tracking and orbit prediction application.
-* [Orb Calc](https://github.com/wselwood/orbcalc) - Generate positions of objects from orbital parameters.
-* [Space-Track.org](https://www.space-track.org/documentation#api) - Programmatic access to Two-Line Elements, Orbital Mean-Elements, satellite catalog information, and more.
-* [jspredict](https://github.com/nsat/jspredict) - A Javascript port of the popular predict satellite tracking library.
-
 ### Spacecraft Hardware
 
 * [FossaSat-1](https://fossa.systems/fossasat/) - Hardware designs and software for the FossaSat-1 Pocketqube satellite ([GitHub](https://github.com/Bambofy/FossaSat-1))
@@ -183,11 +185,23 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [Apollo 11 Guidance Code](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules
 
-### Visualization
+### Tracking & Orbit Determination
+
+* [Gpredict](http://gpredict.oz9aec.net/) - Open source, real-time satellite tracking and orbit prediction application.
+* [Orb Calc](https://github.com/wselwood/orbcalc) - Generate positions of objects from orbital parameters.
+* [Space-Track.org](https://www.space-track.org/documentation#api) - Programmatic access to Two-Line Elements, Orbital Mean-Elements, satellite catalog information, space debris, and more.
+* [jspredict](https://github.com/nsat/jspredict) - A Javascript port of the popular predict satellite tracking library.
+* [python-sgp4](https://github.com/brandon-rhodes/python-sgp4) - Python implementation of most recent version of the SGP4 satellite tracking algorithm
+* [satellite.js](https://github.com/shashwatak/satellite-js) - A library to make satellite propagation via TLEs possible on the web. Provides the functions necessary for SGP4/SDP4 calculations, as callable javascript. Also provides functions for coordinate transforms.
+
+## Visualization
 
 * [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps
 
 <!-- End Links (do not remove me) -->
+
+
+
 
 
 
