@@ -128,6 +128,8 @@ A curated list of space-related code, APIs, data, and other resources.
 ## Other
 
 * [Resources and references on the topic of space exploration](https://space.meta.stackexchange.com/questions/249/resources-and-references-on-the-topic-of-space-exploration) - StackExchange list of books, manuals, courses, and more.
+* [A taxonomy as a RDF vocabulary about Astronomy and Space Exploration concepts](https://github.com/chronos-pramantha/RDFvocab)
+* [A Python backend to munch OCO-2 HDF5 data into SQL](https://github.com/chronos-pramantha/orbital-cotwo-web)
 
 ## Spacecraft
 
