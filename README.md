@@ -43,6 +43,8 @@ A curated list of space-related code, APIs, data, and other resources.
 
 
 
+
+
 <!-- Start Links (do not remove me) -->
 
 
@@ -127,9 +129,9 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ## Other
 
+* [RDFvocab](https://github.com/chronos-pramantha/RDFvocab) - A collection of linked data ontologies (semantically linked representations) that describe astronomical and space engineering concepts. Can be used to link popular data sets like [DBPedia](https://www.google.com/search?client=safari&rls=en&q=DBPedia&ie=UTF-8&oe=UTF-8).
 * [Resources and references on the topic of space exploration](https://space.meta.stackexchange.com/questions/249/resources-and-references-on-the-topic-of-space-exploration) - StackExchange list of books, manuals, courses, and more.
-* [A taxonomy as a RDF vocabulary about Astronomy and Space Exploration concepts](https://github.com/chronos-pramantha/RDFvocab)
-* [A Python backend to munch OCO-2 HDF5 data into SQL](https://github.com/chronos-pramantha/orbital-cotwo-web)
+* [orbital-cotwo-web](https://github.com/chronos-pramantha/orbital-cotwo-web) - A data processing pipeline and web server that can dump [HDF5](https://earthdata.nasa.gov/esdis/eso/standards-and-references/hdf5) files from NASA's [Orbital Carbon Observatory 2](https://www.nasa.gov/mission_pages/oco2/index.html) mission into an SQL database.
 
 ## Spacecraft
 
@@ -192,18 +194,20 @@ A curated list of space-related code, APIs, data, and other resources.
 * [AstriaGraph](http://astria.tacc.utexas.edu/AstriaGraph/) - Open source data and visualization of all known objects in Earth’s orbit
 * [Gpredict](http://gpredict.oz9aec.net/) - Open source, real-time satellite tracking and orbit prediction application.
 * [Orb Calc](https://github.com/wselwood/orbcalc) - Generate positions of objects from orbital parameters.
+* [Predict](https://github.com/shupp/Predict) - PHP implementation of the SGP4 and SDP4 models for prediction, based on [Gpredict](http://gpredict.oz9aec.net/)
 * [Space-Track.org](https://www.space-track.org/documentation#api) - Programmatic access to Two-Line Elements, Orbital Mean-Elements, satellite catalog information, space debris, and more.
+* [Where the ISS at?](https://wheretheiss.at) - Real time tracking of the International Space Station, with email push notifications for upcoming passes and a REST API for integrations.  Baesd on [Predict](https://github.com/shupp/Predict)
 * [jspredict](https://github.com/nsat/jspredict) - A Javascript port of the popular predict satellite tracking library.
 * [python-sgp4](https://github.com/brandon-rhodes/python-sgp4) - Python implementation of most recent version of the SGP4 satellite tracking algorithm
 * [satellite.js](https://github.com/shashwatak/satellite-js) - A library to make satellite propagation via TLEs possible on the web. Provides the functions necessary for SGP4/SDP4 calculations, as callable javascript. Also provides functions for coordinate transforms.
-* [Predict](https://github.com/shupp/Predict) - PHP implementation of the SGP4 and SDP4 models for prediction, based on [Gpredict](http://gpredict.oz9aec.net/)
-* [Where the ISS at?](https://wheretheiss.at) - Real time tracking of the International Space Station, with email push notifications for upcoming passes and a REST API for integrations.  Baesd on [Predict](https://github.com/shupp/Predict)
 
 ## Visualization
 
 * [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps
 
 <!-- End Links (do not remove me) -->
+
+
 
 
 
