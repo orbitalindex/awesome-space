@@ -193,6 +193,8 @@ A curated list of space-related code, APIs, data, and other resources.
 * [jspredict](https://github.com/nsat/jspredict) - A Javascript port of the popular predict satellite tracking library.
 * [python-sgp4](https://github.com/brandon-rhodes/python-sgp4) - Python implementation of most recent version of the SGP4 satellite tracking algorithm
 * [satellite.js](https://github.com/shashwatak/satellite-js) - A library to make satellite propagation via TLEs possible on the web. Provides the functions necessary for SGP4/SDP4 calculations, as callable javascript. Also provides functions for coordinate transforms.
+* [Predict](https://github.com/shupp/Predict) - PHP implementation of the SGP4 and SDP4 models for prediction, based on [Gpredict](http://gpredict.oz9aec.net/)
+* [Where the ISS at?](https://wheretheiss.at) - Real time tracking of the International Space Station, with email push notifications for upcoming passes and a REST API for integrations.  Baesd on [Predict](https://github.com/shupp/Predict)
 
 ## Visualization
 
