@@ -39,7 +39,7 @@ readme.each_line do |line|
   end
 end
 
-sections.sort_by! { |section| section[:sort_header] }
+sections.sort_by! { |section| section[:sort_header].downcase }
 
 File.open(readme_path, 'w') do |f|
   rewritten_readme.each do |line|
@@ -56,7 +56,7 @@ File.open(readme_path, 'w') do |f|
         f.puts(('#' * section[:depth]) + ' ' + section[:header])
         if section[:links].length > 0
           f.puts
-          section[:links].sort.uniq.each do |link|
+          section[:links].sort_by { |i| i.downcase }.uniq.each do |link|
             f.puts link
           end
         end

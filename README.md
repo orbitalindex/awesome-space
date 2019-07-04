@@ -45,6 +45,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 
 
+
 <!-- Start Links (do not remove me) -->
 
 
@@ -53,14 +54,14 @@ A curated list of space-related code, APIs, data, and other resources.
 ### Astronomy APIs
 
 * [AstroBin API](http://www.astrobin.com/help/api/) - AstroBin is an image hosting website specifically targeted to astrophotographers. Its API offers a basic set of RESTful endpoints. Currently the API is read-only, and  allows you to get data about images, and perform basic searches.
-* [Open Astronomy Catalog API](https://astrocats.space/) - The Open Astronomy Catalog API (OACAPI) offers a lightweight, simple way to access data available via the Open Astronomy Catalogs (e.g. the Open Supernova, Tidal Disruption, Kilonova, and Fast Stars Catalogs).
 * [astrometry.net](http://astrometry.net/) - "If you have astronomical imaging of the sky with celestial coordinates you do not know—or do not trust—then Astrometry.net is for you. Input an image and we'll give you back astrometric calibration meta-data, plus lists of known objects falling inside the field of view."
+* [Open Astronomy Catalog API](https://astrocats.space/) - The Open Astronomy Catalog API (OACAPI) offers a lightweight, simple way to access data available via the Open Astronomy Catalogs (e.g. the Open Supernova, Tidal Disruption, Kilonova, and Fast Stars Catalogs).
 
 ### Astronomy Software
 
 * [AstroKit](https://github.com/typpo/astrokit) - A web-based toolset for performing lightcurve photometry
-* [AstroPy](https://www.astropy.org) - Collection of software packages written in Python and designed for use in astronomy.
 * [astrometry.net](http://astrometry.net/use.html) - Code and an API for generating astrometric calibration meta-data
+* [AstroPy](https://www.astropy.org) - Collection of software packages written in Python and designed for use in astronomy.
 
 ### Interactive Planetariums
 
@@ -79,13 +80,14 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### Data Directories
 
-* [MAST](https://archive.stsci.edu/index.html) - A NASA-funded site that provides astronomical data archives focused on scientific data sets in the optical, ultraviolet, and near-IR.
 * [api.nasa.gov](https://api.nasa.gov/) - NASA's API portal
 * [data.nasa.gov](https://data.nasa.gov/) - Continually growing catalog of publicly available NASA datasets, APIs, visualizations, and more
 * [images.nasa.gov](https://images.nasa.gov/) - Search NASA's informational image and video archive
+* [MAST](https://archive.stsci.edu/index.html) - A NASA-funded site that provides astronomical data archives focused on scientific data sets in the optical, ultraviolet, and near-IR.
 
 ### Earth
 
+* [earthdata.nasa.gov](https://earthdata.nasa.gov/earth-observation-data) - Portal to NASA's Earth observation data
 * [ESA's GEOSS Portal](http://www.geoportal.org/) - Query for Earth imagery across a suite of space systems
 * [Global Forest Watch Open Data Portal](http://data.globalforestwatch.org/) - Identify areas of tree cover loss and gain
 * [High Definition Earth-Viewing System (HDEV)](https://eol.jsc.nasa.gov/ESRS/HDEV/) - Realtime stream of Earth from the ISS
@@ -95,7 +97,6 @@ A curated list of space-related code, APIs, data, and other resources.
 * [USGS EarthExplorer](https://earthexplorer.usgs.gov/) - A tool that provides users the ability to query, search, and retrieve satellite images, aerial photographs, and cartographic products from several sources
 * [Visible Earth](https://visibleearth.nasa.gov/) - A catalog of NASA images and animations of our home planet
 * [Worldview](https://worldview.earthdata.nasa.gov/) - A NASA app that provides the capability to interactively browse over 800 global, full-resolution satellite imagery layers and then download the underlying data
-* [earthdata.nasa.gov](https://earthdata.nasa.gov/earth-observation-data) - Portal to NASA's Earth observation data
 
 ### Extrasolar Planets
 
@@ -129,9 +130,9 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ## Other
 
+* [orbital-cotwo-web](https://github.com/chronos-pramantha/orbital-cotwo-web) - A data processing pipeline and web server that can dump [HDF5](https://earthdata.nasa.gov/esdis/eso/standards-and-references/hdf5) files from NASA's [Orbital Carbon Observatory 2](https://www.nasa.gov/mission_pages/oco2/index.html) mission into an SQL database.
 * [RDFvocab](https://github.com/chronos-pramantha/RDFvocab) - A collection of linked data ontologies (semantically linked representations) that describe astronomical and space engineering concepts. Can be used to link popular data sets like [DBPedia](https://wiki.dbpedia.org).
 * [Resources and references on the topic of space exploration](https://space.meta.stackexchange.com/questions/249/resources-and-references-on-the-topic-of-space-exploration) - StackExchange list of books, manuals, courses, and more.
-* [orbital-cotwo-web](https://github.com/chronos-pramantha/orbital-cotwo-web) - A data processing pipeline and web server that can dump [HDF5](https://earthdata.nasa.gov/esdis/eso/standards-and-references/hdf5) files from NASA's [Orbital Carbon Observatory 2](https://www.nasa.gov/mission_pages/oco2/index.html) mission into an SQL database.
 
 ## Spacecraft
 
@@ -160,9 +161,9 @@ A curated list of space-related code, APIs, data, and other resources.
 * [GMAT](https://sourceforge.net/projects/gmat/) - The General Mission Analysis Tool (GMAT) is a space trajectory optimization and mission analysis system (NASA)
 * [NASA Ames Research Center Trajectory Browser](https://trajbrowser.arc.nasa.gov/traj_browser.php) - A tool to find spacecraft trajectories to planets and small-bodies
 * [NOS3](https://github.com/nasa/nos3) - NASA Operational Simulator for Small Satellites
-* [SPICE](https://naif.jpl.nasa.gov/naif/toolkit.html) - Ephemerides library used by JPL for their missions. [SpiceyPy](https://github.com/AndrewAnnex/SpiceyPy) is a Python wrapper.
 * [poliastro](https://github.com/poliastro/poliastro) - Poliastro is an open source pure Python package dedicated to problems arising in Astrodynamics and Orbital Mechanics. Focuses on interplanetary design.
 * [smd](https://github.com/ChristopherRabotin/smd) - A SPICE-enhanced continuous thrust interplanetary mission propagator and visualizer.
+* [SPICE](https://naif.jpl.nasa.gov/naif/toolkit.html) - Ephemerides library used by JPL for their missions. [SpiceyPy](https://github.com/AndrewAnnex/SpiceyPy) is a Python wrapper.
 
 ### Spacecraft Hardware
 
@@ -173,8 +174,8 @@ A curated list of space-related code, APIs, data, and other resources.
 
 #### Radios
 
-* OpenLST transceiver [hardware](https://github.com/OpenLST/openlst-hw) and [firmware](https://github.com/OpenLST/openlst) - OpenLST is an open source, proven radio design for communicating with remote instruments, vehicles, and stations using low-cost commercial components. Based on Planet Labs' telemetry/command radio.
 * [LFR transceiver](http://lfradio.space/) - LFR is an open source, command, telemetry, and data radio for cubesats.
+* OpenLST transceiver [hardware](https://github.com/OpenLST/openlst-hw) and [firmware](https://github.com/OpenLST/openlst) - OpenLST is an open source, proven radio design for communicating with remote instruments, vehicles, and stations using low-cost commercial components. Based on Planet Labs' telemetry/command radio.
 
 ### Spacecraft Software
 
@@ -193,19 +194,20 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [AstriaGraph](http://astria.tacc.utexas.edu/AstriaGraph/) - Open source data and visualization of all known objects in Earth’s orbit
 * [Gpredict](http://gpredict.oz9aec.net/) - Open source, real-time satellite tracking and orbit prediction application.
+* [jspredict](https://github.com/nsat/jspredict) - A Javascript port of the popular predict satellite tracking library.
 * [Orb Calc](https://github.com/wselwood/orbcalc) - Generate positions of objects from orbital parameters.
 * [Predict](https://github.com/shupp/Predict) - PHP implementation of the SGP4 and SDP4 models for prediction, based on [Gpredict](http://gpredict.oz9aec.net/)
-* [Space-Track.org](https://www.space-track.org/documentation#api) - Programmatic access to Two-Line Elements, Orbital Mean-Elements, satellite catalog information, space debris, and more.
-* [Where the ISS at?](https://wheretheiss.at) - Real time tracking of the International Space Station, with email push notifications for upcoming passes and a REST API for integrations.  Baesd on [Predict](https://github.com/shupp/Predict)
-* [jspredict](https://github.com/nsat/jspredict) - A Javascript port of the popular predict satellite tracking library.
 * [python-sgp4](https://github.com/brandon-rhodes/python-sgp4) - Python implementation of most recent version of the SGP4 satellite tracking algorithm
 * [satellite.js](https://github.com/shashwatak/satellite-js) - A library to make satellite propagation via TLEs possible on the web. Provides the functions necessary for SGP4/SDP4 calculations, as callable javascript. Also provides functions for coordinate transforms.
+* [Space-Track.org](https://www.space-track.org/documentation#api) - Programmatic access to Two-Line Elements, Orbital Mean-Elements, satellite catalog information, space debris, and more.
+* [Where the ISS at?](https://wheretheiss.at) - Real time tracking of the International Space Station, with email push notifications for upcoming passes and a REST API for integrations.  Baesd on [Predict](https://github.com/shupp/Predict)
 
 ## Visualization
 
 * [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps
 
 <!-- End Links (do not remove me) -->
+
 
 
 
