@@ -1,6 +1,6 @@
 #!/usr/bin/env ruby
 
-readme_path = File.expand_path(File.join(File.dirname(__FILE__), '..', 'README.md'))
+readme_path = ARGV[0] || File.expand_path(File.join(File.dirname(__FILE__), '..', 'README.md'))
 readme = File.read(readme_path)
 
 state = nil
