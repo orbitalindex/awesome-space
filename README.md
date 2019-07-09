@@ -164,7 +164,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 #### Radios
 
-* [LFR transceiver](http://lfradio.space/) - LFR is an open source, command, telemetry, and data radio for cubesats.
+* [LFR transceiver](http://lfradio.space/) - Little Free Radio (LFR) is an open source, command, telemetry, and data radio for cubesats.
 * OpenLST transceiver [hardware](https://github.com/OpenLST/openlst-hw) and [firmware](https://github.com/OpenLST/openlst) - OpenLST is an open source, proven radio design for communicating with remote instruments, vehicles, and stations using low-cost commercial components. Based on Planet Labs' telemetry/command radio.
 
 ### Spacecraft Software
