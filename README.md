@@ -36,6 +36,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 <!-- End TOC (do not remove me) -->
 
+
 <!-- Start Links (do not remove me) -->
 
 
@@ -159,6 +160,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [FossaSat-1](https://fossa.systems/fossasat/) - Hardware designs and software for the FossaSat-1 Pocketqube satellite ([GitHub](https://github.com/Bambofy/FossaSat-1))
 * [NASA Outgassing Db](https://data.nasa.gov/resource/r588-f7pr.json) - A dataset of materials intended for spacecraft use from the Goddard Space Flight Center, the Stanford Research Institute, and the Jet Propulsion Laboratory.
+* [PyCubed](https://www.notion.so/PyCubed-4cbfac7e9b684852a2ab2193bd485c4d) - An Open-Source, Radiation-Tested CubeSat Framework Programmable Entirely in Python.
 * [SatSearch](http://satsearch.co), [CubeSatShop](https://www.cubesatshop.com/) - Search engines for satellite parts and their datasheets
 * [Smallsat Parts on Orbit Now (SPOON)](http://spoonsite.com) - A one-stop-shop database of smallsat parts.
 * [UPSat](https://upsat.gr/) - Open source satellite software and hardware
@@ -199,6 +201,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Gaia Sky](https://zah.uni-heidelberg.de/institutes/ari/gaia/outreach/gaiasky/) - Real-time, 3D, astronomy visualization software developed in the framework of ESA's Gaia mission. Runs on Windows, Linux and macOS.
 
 <!-- End Links (do not remove me) -->
+
 
 ## License
 
