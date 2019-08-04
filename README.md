@@ -38,6 +38,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 
 
+
 <!-- Start Links (do not remove me) -->
 
 
@@ -136,6 +137,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### Ground Stations
 
+* [FoxTelem](https://www.g0kla.com/foxtelem/) - FoxTelem is used by a network of ground stations to retrieve the telemetry and experiment data from the Fox Satellites.
 * [Open Satellite Project](https://limemicro.com/community/open-satellite-project/) - Ongoing effort to develop open-source software for the receipt and decoding of satellite data using software-defined radio (SDR) hardware
 * [SatNOGS](https://satnogs.org/) - A global network of satellite ground stations, designed as an open source participatory project
 
@@ -203,6 +205,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Gaia Sky](https://zah.uni-heidelberg.de/institutes/ari/gaia/outreach/gaiasky/) - Real-time, 3D, astronomy visualization software developed in the framework of ESA's Gaia mission. Runs on Windows, Linux and macOS.
 
 <!-- End Links (do not remove me) -->
+
 
 
 
