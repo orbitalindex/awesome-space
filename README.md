@@ -39,6 +39,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 
 
+
 <!-- Start Links (do not remove me) -->
 
 
@@ -52,9 +53,10 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### Astronomy Software
 
+* [ASCL.net](http://ascl.net/) - A free online registry for source code of interest to astronomers and astrophysicists
 * [AstroKit](https://github.com/typpo/astrokit) - A web-based toolset for performing lightcurve photometry
 * [astrometry.net](http://astrometry.net/use.html) - Code and an API for generating astrometric calibration meta-data
-* [AstroPy](https://www.astropy.org) - Collection of software packages written in Python and designed for use in astronomy.
+* [AstroPy](https://www.astropy.org) - Collection of software packages written in Python and designed for use in astronomy
 
 ### Interactive Planetariums
 
@@ -95,6 +97,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [Kepler Confirmed Planets Information](https://archive.stsci.edu/kepler/published_planets/search.php)
 * [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/docs/data.html)
+* [Open Exoplanet Catalogue](http://www.openexoplanetcatalogue.com/) - an open source database of all discovered extrasolar planets
 * [The Extrasolar Planets Encyclopaedia](http://exoplanet.eu/)
 
 ### Launches
@@ -205,6 +208,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Gaia Sky](https://zah.uni-heidelberg.de/institutes/ari/gaia/outreach/gaiasky/) - Real-time, 3D, astronomy visualization software developed in the framework of ESA's Gaia mission. Runs on Windows, Linux and macOS.
 
 <!-- End Links (do not remove me) -->
+
 
 
 
