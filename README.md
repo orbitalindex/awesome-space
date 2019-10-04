@@ -58,6 +58,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [astrometry.net](http://astrometry.net/use.html) - Code and an API for generating astrometric calibration meta-data
 * [AstroPy](https://www.astropy.org) - Collection of software packages written in Python and designed for use in astronomy
 * [Rebound](https://github.com/hannorein/rebound) - A multi-purpose N-body integrator
+* [KStars](https://edu.kde.org/kstars/) - KStars is free, open source, cross-platform astronomy software. It provides many features, including a graphical simulation of the night sky, observing planner, a sky calendar tool, an FOV editor, and more.
 
 ### Interactive Planetariums
 
