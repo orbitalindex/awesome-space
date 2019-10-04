@@ -58,12 +58,12 @@ A curated list of space-related code, APIs, data, and other resources.
 * [astrometry.net](http://astrometry.net/use.html) - Code and an API for generating astrometric calibration meta-data
 * [AstroPy](https://www.astropy.org) - Collection of software packages written in Python and designed for use in astronomy
 * [Rebound](https://github.com/hannorein/rebound) - A multi-purpose N-body integrator
-* [KStars](https://edu.kde.org/kstars/) - KStars is free, open source, cross-platform astronomy software. It provides many features, including a graphical simulation of the night sky, observing planner, a sky calendar tool, an FOV editor, and more.
 
 ### Interactive Planetariums
 
 * [Celestia](https://celestia.space/) - Free real-time 3D visualization of space. (See also [Celestia Motherload](http://www.celestiamotherlode.net/) for many addons.)
 * [Harmony of the Spheres](https://github.com/TheHappyKoala/Harmony-of-the-Spheres) - Newtonian gravity and space simulator that runs in your browser
+* [KStars](https://edu.kde.org/kstars/) - KStars is free, open source, cross-platform astronomy software. It provides many features, including a graphical simulation of the night sky, observing planner, a sky calendar tool, an FOV editor, and more.
 * [NASA Eyes](https://eyes.nasa.gov/) - Immersible apps to explore the Earth and solar system
 * [Orb Viewer](https://parsecsreach.com/orbviewer) - Visualization of all the asteroids in the MPC database.
 * [Orbit Simulator](http://www.orbitsimulator.com/gravity/articles/what.html) - A powerful numerical integration tool. "By performing n-body simulations, you can study the orbits of planets, moons, asteroids, or any object in the universe."
