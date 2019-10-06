@@ -51,7 +51,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [astrometry.net](http://astrometry.net/) - "If you have astronomical imaging of the sky with celestial coordinates you do not know—or do not trust—then Astrometry.net is for you. Input an image and we'll give you back astrometric calibration meta-data, plus lists of known objects falling inside the field of view."
 * [Open Astronomy Catalog API](https://astrocats.space/) - The Open Astronomy Catalog API (OACAPI) offers a lightweight, simple way to access data available via the Open Astronomy Catalogs (e.g. the Open Supernova, Tidal Disruption, Kilonova, and Fast Stars Catalogs).
 
-### Astronomy Software
+### SDKs &amp; Software Development Tools
 
 * [ASCL.net](http://ascl.net/) - A free online registry for source code of interest to astronomers and astrophysicists
 * [AstroKit](https://github.com/typpo/astrokit) - A web-based toolset for performing lightcurve photometry
@@ -59,7 +59,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [AstroPy](https://www.astropy.org) - Collection of software packages written in Python and designed for use in astronomy
 * [Rebound](https://github.com/hannorein/rebound) - A multi-purpose N-body integrator
 
-### Interactive Planetariums
+### Astronomy Software
 
 * [Celestia](https://celestia.space/) - Free real-time 3D visualization of space. (See also [Celestia Motherload](http://www.celestiamotherlode.net/) for many addons.)
 * [Harmony of the Spheres](https://github.com/TheHappyKoala/Harmony-of-the-Spheres) - Newtonian gravity and space simulator that runs in your browser
