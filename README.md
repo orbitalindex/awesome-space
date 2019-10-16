@@ -136,6 +136,8 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### Blogs and Social Media
 
+* [Nuit Blanche](https://nuit-blanche.blogspot.com/) - Igor Carron's blog on compressive sensing, machine learning and big data.
+
 ## Spacecraft
 
 ### General Software
