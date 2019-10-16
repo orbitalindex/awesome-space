@@ -12,6 +12,8 @@ A curated list of space-related code, APIs, data, and other resources.
   * [Astronomy APIs](#astronomy-apis)
   * [Astronomy Software](#astronomy-software)
   * [Interactive Planetariums](#interactive-planetariums)
+* [Community](#community)
+  * [Learning Materials](#learning-materials)
 * [Data](#data)
   * [Astronomy Data](#astronomy-data)
   * [Data Directories](#data-directories)
@@ -21,8 +23,6 @@ A curated list of space-related code, APIs, data, and other resources.
   * [Solar System Data](#solar-system-data)
     * [Orbits](#orbits)
   * [Space Debris](#space-debris)
-* [Other](#other)
-  * [Learning Materials](#learning-materials)
 * [Spacecraft](#spacecraft)
   * [General Software](#general-software)
   * [Ground Stations](#ground-stations)
@@ -69,6 +69,13 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Orb Viewer](https://parsecsreach.com/orbviewer) - Visualization of all the asteroids in the MPC database.
 * [Orbit Simulator](http://www.orbitsimulator.com/gravity/articles/what.html) - A powerful numerical integration tool. "By performing n-body simulations, you can study the orbits of planets, moons, asteroids, or any object in the universe."
 * [Stellarium](http://stellarium.org/) - Open source planetarium for your computer
+
+## Community
+
+### Learning Materials
+
+* [RDFvocab](https://github.com/chronos-pramantha/RDFvocab) - A collection of linked data ontologies (semantically linked representations) that describe astronomical and space engineering concepts. Can be used to link popular data sets like [DBPedia](https://wiki.dbpedia.org).
+* [Resources and references on the topic of space exploration](https://space.meta.stackexchange.com/questions/249/resources-and-references-on-the-topic-of-space-exploration) - StackExchange list of books, manuals, courses, and more.
 
 ## Data
 
@@ -131,13 +138,6 @@ A curated list of space-related code, APIs, data, and other resources.
 ### Space Debris
 
 * [Stuff In Space](http://stuffin.space) - Stuff in Space is a realtime 3D map of objects in Earth orbit, visualized using WebGL. Updates daily.
-
-## Other
-
-### Learning Materials
-
-* [RDFvocab](https://github.com/chronos-pramantha/RDFvocab) - A collection of linked data ontologies (semantically linked representations) that describe astronomical and space engineering concepts. Can be used to link popular data sets like [DBPedia](https://wiki.dbpedia.org).
-* [Resources and references on the topic of space exploration](https://space.meta.stackexchange.com/questions/249/resources-and-references-on-the-topic-of-space-exploration) - StackExchange list of books, manuals, courses, and more.
 
 ## Spacecraft
 
