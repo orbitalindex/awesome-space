@@ -137,6 +137,7 @@ A curated list of space-related code, APIs, data, and other resources.
 ### Space Hackathons and Challenges
 
 * [ActInSpace](https://entreprises.cnes.fr/fr/actinspace) - A hackathon about space app, every even year, launched by the french CNES.
+* [Space Apps Challenge](https://www.spaceappschallenge.org/) - NASA-led initiative organized in collaboration with Booz Allen Hamilton, Mindgrub and SecondMuse.
 
 ## Spacecraft
 
