@@ -136,6 +136,8 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### Space Hackathons and Challenges
 
+* [ActInSpace](https://entreprises.cnes.fr/fr/actinspace) - A hackathon about space app, every even year, launched by the french CNES.
+
 ## Spacecraft
 
 ### General Software
