@@ -12,6 +12,9 @@ A curated list of space-related code, APIs, data, and other resources.
   * [Astronomy APIs](#astronomy-apis)
   * [Astronomy Software](#astronomy-software)
   * [SDKs &amp; Software Development Tools](#sdks-amp-software-development-tools)
+* [Community](#community)
+  * [Learning Materials](#learning-materials)
+  * [Space Hackathons and Challenges](#space-hackathons-and-challenges)
 * [Data](#data)
   * [Astronomy Data](#astronomy-data)
   * [Data Directories](#data-directories)
@@ -21,9 +24,6 @@ A curated list of space-related code, APIs, data, and other resources.
   * [Solar System Data](#solar-system-data)
     * [Orbits](#orbits)
   * [Space Debris](#space-debris)
-* [Other](#other)
-  * [Learning Materials](#learning-materials)
-  * [Space Hackathons and Challenges](#space-hackathons-and-challenges)
 * [Spacecraft](#spacecraft)
   * [General Software](#general-software)
   * [Ground Stations](#ground-stations)
@@ -72,6 +72,19 @@ A curated list of space-related code, APIs, data, and other resources.
 * [AstroPy](https://www.astropy.org) - Collection of software packages written in Python and designed for use in astronomy
 * [Rebound](https://github.com/hannorein/rebound) - A multi-purpose N-body integrator
 * [Skyfield](https://rhodesmill.org/skyfield/) - Skyfield computes positions for the stars, planets, and satellites in orbit around the Earth.
+
+## Community
+
+### Learning Materials
+
+* [NITARP](https://nitarp.ipac.caltech.edu/page/other_epo_programs) - NITARP, the NASA/IPAC Teacher Archive Research Program, gets teachers & students involved in authentic astronomical research.
+* [RDFvocab](https://github.com/chronos-pramantha/RDFvocab) - A collection of linked data ontologies (semantically linked representations) that describe astronomical and space engineering concepts. Can be used to link popular data sets like [DBPedia](https://wiki.dbpedia.org).
+* [Resources and references on the topic of space exploration](https://space.meta.stackexchange.com/questions/249/resources-and-references-on-the-topic-of-space-exploration) - StackExchange list of books, manuals, courses, and more.
+
+### Space Hackathons and Challenges
+
+* [ActInSpace](https://entreprises.cnes.fr/fr/actinspace) - A hackathon about space app, every even year, launched by the french CNES.
+* [Space Apps Challenge](https://www.spaceappschallenge.org/) - NASA-led initiative organized in collaboration with Booz Allen Hamilton, Mindgrub and SecondMuse.
 
 ## Data
 
@@ -136,19 +149,6 @@ A curated list of space-related code, APIs, data, and other resources.
 ### Space Debris
 
 * [Stuff In Space](http://stuffin.space) - Stuff in Space is a realtime 3D map of objects in Earth orbit, visualized using WebGL. Updates daily.
-
-## Other
-
-### Learning Materials
-
-* [NITARP](https://nitarp.ipac.caltech.edu/page/other_epo_programs) - NITARP, the NASA/IPAC Teacher Archive Research Program, gets teachers & students involved in authentic astronomical research.
-* [RDFvocab](https://github.com/chronos-pramantha/RDFvocab) - A collection of linked data ontologies (semantically linked representations) that describe astronomical and space engineering concepts. Can be used to link popular data sets like [DBPedia](https://wiki.dbpedia.org).
-* [Resources and references on the topic of space exploration](https://space.meta.stackexchange.com/questions/249/resources-and-references-on-the-topic-of-space-exploration) - StackExchange list of books, manuals, courses, and more.
-
-### Space Hackathons and Challenges
-
-* [ActInSpace](https://entreprises.cnes.fr/fr/actinspace) - A hackathon about space app, every even year, launched by the french CNES.
-* [Space Apps Challenge](https://www.spaceappschallenge.org/) - NASA-led initiative organized in collaboration with Booz Allen Hamilton, Mindgrub and SecondMuse.
 
 ## Spacecraft
 
