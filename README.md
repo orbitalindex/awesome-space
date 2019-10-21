@@ -22,6 +22,7 @@ A curated list of space-related code, APIs, data, and other resources.
     * [Orbits](#orbits)
   * [Space Debris](#space-debris)
 * [Other](#other)
+  * [Space Hackathons and Challenges](#space-hackathons-and-challenges)
 * [Spacecraft](#spacecraft)
   * [General Software](#general-software)
   * [Ground Stations](#ground-stations)
@@ -133,6 +134,11 @@ A curated list of space-related code, APIs, data, and other resources.
 * [orbital-cotwo-web](https://github.com/chronos-pramantha/orbital-cotwo-web) - A data processing pipeline and web server that can dump [HDF5](https://earthdata.nasa.gov/esdis/eso/standards-and-references/hdf5) files from NASA's [Orbital Carbon Observatory 2](https://www.nasa.gov/mission_pages/oco2/index.html) mission into an SQL database.
 * [RDFvocab](https://github.com/chronos-pramantha/RDFvocab) - A collection of linked data ontologies (semantically linked representations) that describe astronomical and space engineering concepts. Can be used to link popular data sets like [DBPedia](https://wiki.dbpedia.org).
 * [Resources and references on the topic of space exploration](https://space.meta.stackexchange.com/questions/249/resources-and-references-on-the-topic-of-space-exploration) - StackExchange list of books, manuals, courses, and more.
+
+### Space Hackathons and Challenges
+
+* [ActInSpace](https://entreprises.cnes.fr/fr/actinspace) - A hackathon about space app, every even year, launched by the french CNES.
+* [Space Apps Challenge](https://www.spaceappschallenge.org/) - NASA-led initiative organized in collaboration with Booz Allen Hamilton, Mindgrub and SecondMuse.
 
 ## Spacecraft
 
