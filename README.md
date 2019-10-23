@@ -11,7 +11,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Astronomy](#astronomy)
   * [Astronomy APIs](#astronomy-apis)
   * [Astronomy Software](#astronomy-software)
-  * [Interactive Planetariums](#interactive-planetariums)
+  * [SDKs &amp; Software Development Tools](#sdks-amp-software-development-tools)
 * [Data](#data)
   * [Astronomy Data](#astronomy-data)
   * [Data Directories](#data-directories)
@@ -41,6 +41,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 
 
+
 <!-- Start Links (do not remove me) -->
 
 
@@ -52,14 +53,6 @@ A curated list of space-related code, APIs, data, and other resources.
 * [astrometry.net](http://astrometry.net/) - "If you have astronomical imaging of the sky with celestial coordinates you do not know—or do not trust—then Astrometry.net is for you. Input an image and we'll give you back astrometric calibration meta-data, plus lists of known objects falling inside the field of view."
 * [Open Astronomy Catalog API](https://astrocats.space/) - The Open Astronomy Catalog API (OACAPI) offers a lightweight, simple way to access data available via the Open Astronomy Catalogs (e.g. the Open Supernova, Tidal Disruption, Kilonova, and Fast Stars Catalogs).
 
-### SDKs &amp; Software Development Tools
-
-* [ASCL.net](http://ascl.net/) - A free online registry for source code of interest to astronomers and astrophysicists
-* [AstroKit](https://github.com/typpo/astrokit) - A web-based toolset for performing lightcurve photometry
-* [astrometry.net](http://astrometry.net/use.html) - Code and an API for generating astrometric calibration meta-data
-* [AstroPy](https://www.astropy.org) - Collection of software packages written in Python and designed for use in astronomy
-* [Rebound](https://github.com/hannorein/rebound) - A multi-purpose N-body integrator
-
 ### Astronomy Software
 
 * [Celestia](https://celestia.space/) - Free real-time 3D visualization of space. (See also [Celestia Motherload](http://www.celestiamotherlode.net/) for many addons.)
@@ -70,18 +63,28 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Orbit Simulator](http://www.orbitsimulator.com/gravity/articles/what.html) - A powerful numerical integration tool. "By performing n-body simulations, you can study the orbits of planets, moons, asteroids, or any object in the universe."
 * [Stellarium](http://stellarium.org/) - Open source planetarium for your computer
 
+### SDKs &amp; Software Development Tools
+
+* [ASCL.net](http://ascl.net/) - A free online registry for source code of interest to astronomers and astrophysicists
+* [AstroKit](https://github.com/typpo/astrokit) - A web-based toolset for performing lightcurve photometry
+* [astrometry.net](http://astrometry.net/use.html) - Code and an API for generating astrometric calibration meta-data
+* [AstroPy](https://www.astropy.org) - Collection of software packages written in Python and designed for use in astronomy
+* [Rebound](https://github.com/hannorein/rebound) - A multi-purpose N-body integrator
+* [Skyfield](https://rhodesmill.org/skyfield/) - Skyfield computes positions for the stars, planets, and satellites in orbit around the Earth.
+
 ## Data
 
 ### Astronomy Data
 
+* [Gaia Data Releases](https://www.cosmos.esa.int/web/gaia/release)
 * [The Sloan Digital Sky Survey](https://www.sdss.org/) - Three-dimensional maps of the Universe
 
 ### Data Directories
 
 * [api.nasa.gov](https://api.nasa.gov/) - NASA's API portal
+* [Data.gov - NASA](https://catalog.data.gov/dataset?organization=nasa-gov) The US Federal government's open data portal page for NASA data sets. If you search by Bureaus, Organizations, or Publishers, you'll find additional space-related data sets from NASA/GSFC, NOAA, the Space Science Technology Directorate, selected universities, and more.
 * [data.nasa.gov](https://data.nasa.gov/) - Continually growing catalog of publicly available NASA datasets, APIs, visualizations, and more
 * [images.nasa.gov](https://images.nasa.gov/) - Search NASA's informational image and video archive
-* [Data.gov - NASA](https://catalog.data.gov/dataset?organization=nasa-gov) The US Federal government's open data portal page for NASA data sets. If you search by Bureaus, Organizations, or Publishers, you'll find additional space-related data sets from NASA/GSFC, NOAA, the Space Science Technology Directorate, selected universities, and more.
 * [MAST](https://archive.stsci.edu/index.html) - A NASA-funded site that provides astronomical data archives focused on scientific data sets in the optical, ultraviolet, and near-IR.
 
 ### Earth
@@ -113,6 +116,7 @@ A curated list of space-related code, APIs, data, and other resources.
 ### Solar System Data
 
 * [Asterank](http://www.asterank.com/) - Asterank is a scientific and economic database of over 600,000 asteroids.
+* [astorbDB](https://asteroid.lowell.edu/) - A database of orbital elements and observed physical properties (when available) for all known minor planets in the Solar System.
 * [IAU Minor Planet Center](https://minorplanetcenter.net/data) - Clearing house for observations of asteroids and other smaller solar system bodies
 * [LROC QuickMap](https://quickmap.lroc.asu.edu) - Quality 2D and 3D maps of the moon
 * [NASA's Planetary Data System](https://pds.jpl.nasa.gov/) - A long-term archive of digital data products returned from NASA's planetary missions
@@ -220,6 +224,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Gaia Sky](https://zah.uni-heidelberg.de/institutes/ari/gaia/outreach/gaiasky/) - Real-time, 3D, astronomy visualization software developed in the framework of ESA's Gaia mission. Runs on Windows, Linux and macOS.
 
 <!-- End Links (do not remove me) -->
+
 
 
 
