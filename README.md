@@ -101,7 +101,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [images.nasa.gov](https://images.nasa.gov/) - Search NASA's informational image and video archive
 * [MAST](https://archive.stsci.edu/index.html) - A NASA-funded site that provides astronomical data archives focused on scientific data sets in the optical, ultraviolet, and near-IR.
 
-### Data Wrangling Tools
+### Data Wrangling Tools
 
 * [orbital-cotwo-web](https://github.com/chronos-pramantha/orbital-cotwo-web) - A data processing pipeline and web server that can dump [HDF5](https://earthdata.nasa.gov/esdis/eso/standards-and-references/hdf5) files from NASA's [Orbital Carbon Observatory 2](https://www.nasa.gov/mission_pages/oco2/index.html) mission into an SQL database.
 
