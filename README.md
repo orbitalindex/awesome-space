@@ -45,6 +45,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 
 
+
 <!-- Start Links (do not remove me) -->
 
 
@@ -156,8 +157,8 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### General Software
 
-* [European Space Software Repository](https://essr.esa.int/)
 * [European Space Agency GitHub Repository](https://github.com/esa)
+* [European Space Software Repository](https://essr.esa.int/)
 * [Public Domain Aeronautical Software](http://www.pdas.com/aerosoft.html)
 * [software.nasa.gov](https://software.nasa.gov/) and [code.nasa.gov](https://code.nasa.gov/)
 
@@ -203,12 +204,12 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### Spacecraft Software
 
-* [NanoSat MO Framework](http://nanosat-mo-framework.github.io) - A software framework for nanosatellites based on the latest CCSDS standards. Developed by ESA and used in OPS-SAT mission ([GitHub](https://github.com/esa/nanosat-mo-framework))
 * [Core Flight System](https://github.com/nasa/cfs) - NASA portable and extendable flight software framework with extensive flight heritage and a growing suite of applications and platform ports
 * [FossaSat-1](https://fossa.systems/fossasat/) - Hardware designs and software for the FossaSat-1 Pocketqube satellite ([GitHub](https://github.com/Bambofy/FossaSat-1))
 * [JPL F Prime](https://github.com/nasa/fprime) - F Prime (FÊ¹) is a component-driven framework that enables rapid development and deployment of spaceflight and other embedded software applications, originally developed at the Jet Propulsion Laboratory.
 * [KubOS](https://www.kubos.com/kubos/) - An open-source flight software framework for satellites
 * [LibreCube](https://librecube.org/) - Open source space and Earth exploration. Defining a generic architecture of system of systems that have standardized interfaces makes it possible to combine and reuse elements for various applications
+* [NanoSat MO Framework](http://nanosat-mo-framework.github.io) - A software framework for nanosatellites based on the latest CCSDS standards. Developed by ESA and used in OPS-SAT mission ([GitHub](https://github.com/esa/nanosat-mo-framework))
 * [UPSat](https://upsat.gr/) - Open source satellite software and hardware
 
 #### Legacy
@@ -235,6 +236,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Gaia Sky](https://zah.uni-heidelberg.de/institutes/ari/gaia/outreach/gaiasky/) - Real-time, 3D, astronomy visualization software developed in the framework of ESA's Gaia mission. Runs on Windows, Linux and macOS.
 
 <!-- End Links (do not remove me) -->
+
 
 
 
