@@ -11,6 +11,8 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Astronomy](#astronomy)
   * [Astronomy APIs](#astronomy-apis)
   * [Astronomy Software](#astronomy-software)
+    * [Radio Astronomy](#radio-astronomy)
+    * [Visualization](#visualization)
   * [SDKs &amp; Software Development Tools](#sdks-amp-software-development-tools)
 * [Community](#community)
   * [Learning Materials](#learning-materials)
@@ -46,6 +48,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 
 
+
 <!-- Start Links (do not remove me) -->
 
 
@@ -58,6 +61,12 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Open Astronomy Catalog API](https://astrocats.space/) - The Open Astronomy Catalog API (OACAPI) offers a lightweight, simple way to access data available via the Open Astronomy Catalogs (e.g. the Open Supernova, Tidal Disruption, Kilonova, and Fast Stars Catalogs).
 
 ### Astronomy Software
+
+#### Radio Astronomy
+
+* [VIRGO](https://github.com/0xCoto/VIRGO) - An open-source Spectrometer for Radio Astronomy
+
+#### Visualization
 
 * [Celestia](https://celestia.space/) - Free real-time 3D visualization of space. (See also [Celestia Motherload](http://www.celestiamotherlode.net/) for many addons.)
 * [Harmony of the Spheres](https://github.com/TheHappyKoala/Harmony-of-the-Spheres) - Newtonian gravity and space simulator that runs in your browser
@@ -193,6 +202,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [FossaSat-1](https://fossa.systems/fossasat/) - Hardware designs and software for the FossaSat-1 Pocketqube satellite ([GitHub](https://github.com/Bambofy/FossaSat-1))
 * [NASA Outgassing Db](https://data.nasa.gov/resource/r588-f7pr.json) - A dataset of materials intended for spacecraft use from the Goddard Space Flight Center, the Stanford Research Institute, and the Jet Propulsion Laboratory.
 * [PyCubed](https://www.notion.so/PyCubed-4cbfac7e9b684852a2ab2193bd485c4d) - An Open-Source, Radiation-Tested CubeSat Framework Programmable Entirely in Python.
+* [Radiation Test Database](http://radwg.web.cern.ch/content/radiation-test-database) - Radiation test results for many components.
 * [SatSearch](http://satsearch.co), [CubeSatShop](https://www.cubesatshop.com/) - Search engines for satellite parts and their datasheets
 * [Smallsat Parts on Orbit Now (SPOON)](http://spoonsite.com) - A one-stop-shop database of smallsat parts.
 * [UPSat](https://upsat.gr/) - Open source satellite software and hardware
@@ -236,6 +246,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Gaia Sky](https://zah.uni-heidelberg.de/institutes/ari/gaia/outreach/gaiasky/) - Real-time, 3D, astronomy visualization software developed in the framework of ESA's Gaia mission. Runs on Windows, Linux and macOS.
 
 <!-- End Links (do not remove me) -->
+
 
 
 
