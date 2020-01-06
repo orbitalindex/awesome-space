@@ -49,6 +49,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 
 
+
 <!-- Start Links (do not remove me) -->
 
 
@@ -168,6 +169,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [European Space Agency GitHub Repository](https://github.com/esa)
 * [European Space Software Repository](https://essr.esa.int/)
+* [Hackaday.io Satellite Projects](https://hackaday.io/list/4321-satellite-projects)
 * [Public Domain Aeronautical Software](http://www.pdas.com/aerosoft.html)
 * [software.nasa.gov](https://software.nasa.gov/) and [code.nasa.gov](https://code.nasa.gov/)
 
@@ -246,6 +248,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Gaia Sky](https://zah.uni-heidelberg.de/institutes/ari/gaia/outreach/gaiasky/) - Real-time, 3D, astronomy visualization software developed in the framework of ESA's Gaia mission. Runs on Windows, Linux and macOS.
 
 <!-- End Links (do not remove me) -->
+
 
 
 
