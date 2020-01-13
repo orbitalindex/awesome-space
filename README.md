@@ -85,6 +85,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [AstroPy](https://www.astropy.org) - Collection of software packages written in Python and designed for use in astronomy
 * [Rebound](https://github.com/hannorein/rebound) - A multi-purpose N-body integrator
 * [Skyfield](https://rhodesmill.org/skyfield/) - Skyfield computes positions for the stars, planets, and satellites in orbit around the Earth.
+* [Spacekit.js](https://typpo.github.io/spacekit/) - An open-source library for building interactive Javascript- and WebGL-based space visualizations.
 
 ## Community
 
