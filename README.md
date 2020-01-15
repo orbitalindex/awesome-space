@@ -209,6 +209,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [SatSearch](http://satsearch.co), [CubeSatShop](https://www.cubesatshop.com/) - Search engines for satellite parts and their datasheets
 * [Smallsat Parts on Orbit Now (SPOON)](http://spoonsite.com) - A one-stop-shop database of smallsat parts.
 * [UPSat](https://upsat.gr/) - Open source satellite software and hardware
+* [Qubik](https://gitlab.com/librespacefoundation/qubik) - Open source software and hardware pocketqube satellite
 
 #### Radios
 
