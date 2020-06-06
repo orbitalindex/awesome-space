@@ -145,7 +145,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Launch Library](https://launchlibrary.net/docs/1.4/api.html) - A free to use API for a repository of rocket launch information that application developers can use.
 * [Space Launch Now API](https://spacelaunchnow.me/api/3.3.0/) - Retrieve current information on launches, spacecraft, and more.
 * [Unofficial SpaceX REST API](https://docs.spacexdata.com/) - Open Source REST API for rocket, core, capsule, pad, and launch data
-
+* [Space Launch Report](https://www.spacelaunchreport.com/) - Website listing launchers and their specs as well as launch reports dating back decades
 ### Solar System Data
 
 * [Asterank](http://www.asterank.com/) - Asterank is a scientific and economic database of over 600,000 asteroids.
