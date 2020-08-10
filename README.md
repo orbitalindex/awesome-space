@@ -43,13 +43,6 @@ A curated list of space-related code, APIs, data, and other resources.
 
 
 
-
-
-
-
-
-
-
 <!-- Start Links (do not remove me) -->
 
 
@@ -59,8 +52,8 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [AstroBin API](http://www.astrobin.com/help/api/) - AstroBin is an image hosting website specifically targeted to astrophotographers. Its API offers a basic set of RESTful endpoints. Currently the API is read-only, and  allows you to get data about images, and perform basic searches.
 * [astrometry.net](http://astrometry.net/) - "If you have astronomical imaging of the sky with celestial coordinates you do not know—or do not trust—then Astrometry.net is for you. Input an image and we'll give you back astrometric calibration meta-data, plus lists of known objects falling inside the field of view."
-* [SpaceXDB-Api](https://github.com/R4yGM/SpaceXDB-Api) - [SpaceXDB](https://www.spacexdb.cf) is a website containing SpaceX launch information and telemetry.
 * [Open Astronomy Catalog API](https://astrocats.space/) - The Open Astronomy Catalog API (OACAPI) offers a lightweight, simple way to access data available via the Open Astronomy Catalogs (e.g. the Open Supernova, Tidal Disruption, Kilonova, and Fast Stars Catalogs).
+* [SpaceXDB-Api](https://github.com/R4yGM/SpaceXDB-Api) - [SpaceXDB](https://www.spacexdb.cf) is a website containing SpaceX launch information and telemetry.
 
 ### Astronomy Software
 
@@ -144,8 +137,9 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [Launch Library](https://launchlibrary.net/docs/1.4/api.html) - A free to use API for a repository of rocket launch information that application developers can use.
 * [Space Launch Now API](https://spacelaunchnow.me/api/3.3.0/) - Retrieve current information on launches, spacecraft, and more.
-* [Unofficial SpaceX REST API](https://docs.spacexdata.com/) - Open Source REST API for rocket, core, capsule, pad, and launch data
 * [Space Launch Report](https://www.spacelaunchreport.com/) - Website listing launchers and their specs as well as launch reports dating back decades
+* [Unofficial SpaceX REST API](https://docs.spacexdata.com/) - Open Source REST API for rocket, core, capsule, pad, and launch data
+
 ### Solar System Data
 
 * [Asterank](http://www.asterank.com/) - Asterank is a scientific and economic database of over 600,000 asteroids.
@@ -171,6 +165,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [European Space Agency GitHub Repository](https://github.com/esa)
 * [European Space Software Repository](https://essr.esa.int/)
+* [Hack-A-Sat Resource Library](https://github.com/deptofdefense/hack-a-sat-library) has links, videos, and other resources about aerospace security.
 * [Hackaday.io Satellite Projects](https://hackaday.io/list/4321-satellite-projects)
 * [Public Domain Aeronautical Software](http://www.pdas.com/aerosoft.html)
 * [software.nasa.gov](https://software.nasa.gov/) and [code.nasa.gov](https://code.nasa.gov/)
@@ -197,8 +192,8 @@ A curated list of space-related code, APIs, data, and other resources.
 * [NASA Ames Research Center Trajectory Browser](https://trajbrowser.arc.nasa.gov/traj_browser.php) - A tool to find spacecraft trajectories to planets and small-bodies
 * [NOS3](https://github.com/nasa/nos3) - NASA Operational Simulator for Small Satellites
 * [nyx](https://gitlab.com/chrisrabotin/nyx) - Nyx is a high fidelity astrodynamics toolkit for mission design and orbit determination written in Rust, [validated against GMAT](https://gitlab.com/chrisrabotin/nyx/blob/master/VALIDATION.md).
-* [OpenSatKit](https://github.com/OpenSatKit/OpenSatKit) - A complete [Core Flight System](https://github.com/nasa/cfs) training and application development environment that includes [COSMOS](https://cosmosrb.com/) and [42](https://software.nasa.gov/software/GSC-16720-1)
 * [Open Space Toolkit](https://github.com/open-space-collective/open-space-toolkit) - Collection of versatile software libraries for space engineering applications (e.g., environment modeling, orbit and access computation).
+* [OpenSatKit](https://github.com/OpenSatKit/OpenSatKit) - A complete [Core Flight System](https://github.com/nasa/cfs) training and application development environment that includes [COSMOS](https://cosmosrb.com/) and [42](https://software.nasa.gov/software/GSC-16720-1)
 * [poliastro](https://github.com/poliastro/poliastro) - Poliastro is an open source pure Python package dedicated to problems arising in Astrodynamics and Orbital Mechanics. Focuses on interplanetary design.
 * [smd](https://github.com/ChristopherRabotin/smd) - A SPICE-enhanced continuous thrust interplanetary mission propagator and visualizer.
 * [SPICE](https://naif.jpl.nasa.gov/naif/toolkit.html) - Ephemerides library used by JPL for their missions. [SpiceyPy](https://github.com/AndrewAnnex/SpiceyPy) is a Python wrapper.
@@ -209,11 +204,12 @@ A curated list of space-related code, APIs, data, and other resources.
 * [FossaSat-1](https://fossa.systems/fossasat/) - Hardware designs and software for the FossaSat-1 Pocketqube satellite ([GitHub](https://github.com/Bambofy/FossaSat-1))
 * [NASA Outgassing Db](https://data.nasa.gov/resource/r588-f7pr.json) - A dataset of materials intended for spacecraft use from the Goddard Space Flight Center, the Stanford Research Institute, and the Jet Propulsion Laboratory.
 * [PyCubed](https://www.notion.so/PyCubed-4cbfac7e9b684852a2ab2193bd485c4d) - An Open-Source, Radiation-Tested CubeSat Framework Programmable Entirely in Python.
+* [Qubik](https://gitlab.com/librespacefoundation/qubik) - Open source software and hardware pocketqube satellite
 * [Radiation Test Database](http://radwg.web.cern.ch/content/radiation-test-database) - Radiation test results for many components.
 * [SatSearch](http://satsearch.co), [CubeSatShop](https://www.cubesatshop.com/) - Search engines for satellite parts and their datasheets
 * [Smallsat Parts on Orbit Now (SPOON)](http://spoonsite.com) - A one-stop-shop database of smallsat parts.
+* [The AMSAT CubeSat Simulator Project](http://cubesatsim.org/) - a low cost satellite emulator that runs on solar panels and batteries, transmits UHF radio telemetry, has a 3D printed frame, and can be extended by additional sensors and modules.
 * [UPSat](https://upsat.gr/) - Open source satellite software and hardware
-* [Qubik](https://gitlab.com/librespacefoundation/qubik) - Open source software and hardware pocketqube satellite
 
 #### Radios
 
@@ -254,13 +250,6 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Gaia Sky](https://zah.uni-heidelberg.de/institutes/ari/gaia/outreach/gaiasky/) - Real-time, 3D, astronomy visualization software developed in the framework of ESA's Gaia mission. Runs on Windows, Linux and macOS.
 
 <!-- End Links (do not remove me) -->
-
-
-
-
-
-
-
 
 
 
