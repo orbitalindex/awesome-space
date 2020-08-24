@@ -174,6 +174,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [FoxTelem](https://www.g0kla.com/foxtelem/) - FoxTelem is used by a network of ground stations to retrieve the telemetry and experiment data from the Fox Satellites.
 * [Open Satellite Project](https://limemicro.com/community/open-satellite-project/) - Ongoing effort to develop open-source software for the receipt and decoding of satellite data using software-defined radio (SDR) hardware
+* [Phase 4 Ground](https://github.com/phase4ground) - Open source digital broadband satellite and terrestrial radio systems, part of Open Research Institute
 * [SatNOGS](https://satnogs.org/) - A global network of satellite ground stations, designed as an open source participatory project
 
 ### Mission Control
@@ -183,14 +184,11 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### Mission Design
 
-* [42](https://software.nasa.gov/software/GSC-16720-1) - Attitude and trajectory simulation of Spacecraft (NASA)
-* [Basilisk](https://bitbucket.org/avslab/basilisk/src/develop/) - C/C++ astrodynamics and attitude control simulation (includes Python scripting).
 * [Delta V calculator for LEO/MEO/GEO injection](http://www.satsig.net/orbit-research/delta-v-geo-injection-calculator.htm)
 * [Flight Club](https://www2.flightclub.io/) - Orbital launch simulator and trajectory visualisation software
 * [FreeFlyer](https://ai-solutions.com/freeflyer/) - A software application for space mission design, analysis, and operations.
 * [GMAT](https://sourceforge.net/projects/gmat/) - The General Mission Analysis Tool (GMAT) is a space trajectory optimization and mission analysis system (NASA)
 * [NASA Ames Research Center Trajectory Browser](https://trajbrowser.arc.nasa.gov/traj_browser.php) - A tool to find spacecraft trajectories to planets and small-bodies
-* [NOS3](https://github.com/nasa/nos3) - NASA Operational Simulator for Small Satellites
 * [nyx](https://gitlab.com/chrisrabotin/nyx) - Nyx is a high fidelity astrodynamics toolkit for mission design and orbit determination written in Rust, [validated against GMAT](https://gitlab.com/chrisrabotin/nyx/blob/master/VALIDATION.md).
 * [Open Space Toolkit](https://github.com/open-space-collective/open-space-toolkit) - Collection of versatile software libraries for space engineering applications (e.g., environment modeling, orbit and access computation).
 * [OpenSatKit](https://github.com/OpenSatKit/OpenSatKit) - A complete [Core Flight System](https://github.com/nasa/cfs) training and application development environment that includes [COSMOS](https://cosmosrb.com/) and [42](https://software.nasa.gov/software/GSC-16720-1)
@@ -203,6 +201,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [FossaSat-1](https://fossa.systems/fossasat/) - Hardware designs and software for the FossaSat-1 Pocketqube satellite ([GitHub](https://github.com/Bambofy/FossaSat-1))
 * [NASA Outgassing Db](https://data.nasa.gov/resource/r588-f7pr.json) - A dataset of materials intended for spacecraft use from the Goddard Space Flight Center, the Stanford Research Institute, and the Jet Propulsion Laboratory.
+* [Oresat](https://github.com/oresat) - An open source cubesat developed at Oregon Small Satellite Project.
 * [PyCubed](https://www.notion.so/PyCubed-4cbfac7e9b684852a2ab2193bd485c4d) - An Open-Source, Radiation-Tested CubeSat Framework Programmable Entirely in Python.
 * [Qubik](https://gitlab.com/librespacefoundation/qubik) - Open source software and hardware pocketqube satellite
 * [Radiation Test Database](http://radwg.web.cern.ch/content/radiation-test-database) - Radiation test results for many components.
@@ -211,10 +210,25 @@ A curated list of space-related code, APIs, data, and other resources.
 * [The AMSAT CubeSat Simulator Project](http://cubesatsim.org/) - a low cost satellite emulator that runs on solar panels and batteries, transmits UHF radio telemetry, has a 3D printed frame, and can be extended by additional sensors and modules.
 * [UPSat](https://upsat.gr/) - Open source satellite software and hardware
 
+#### GNSS Receivers
+* [libswiftnav](https://github.com/swift-nav/libswiftnav) and [libsbp](https://github.com/swift-nav/libsbp) (Swift binary protocol for communicating with receiver hardware)
+
 #### Radios
 
 * [LFR transceiver](http://lfradio.space/) - Little Free Radio (LFR) is an open source, command, telemetry, and data radio for cubesats.
 * OpenLST transceiver [hardware](https://github.com/OpenLST/openlst-hw) and [firmware](https://github.com/OpenLST/openlst) - OpenLST is an open source, proven radio design for communicating with remote instruments, vehicles, and stations using low-cost commercial components. Based on Planet Labs' telemetry/command radio.
+
+#### Star trackers
+* [Oresat star tracker](https://github.com/oresat/oresat-star-tracker) - Open star tracker hardware [with software](https://github.com/oresat/oresat-star-tracker-software), based on UPNanosatLab's [openstartracker](https://github.com/UBNanosatLab/openstartracker) (which doesn't compile or have hardware)
+* [MIT Tetra](https://github.com/brownj4/Tetra) and its fork, [ESA Tetra](https://github.com/esa/tetra3) - Open source star tracker which relies more extensively on hashes for faster lookups
+
+### Simulation
+
+* [42](https://software.nasa.gov/software/GSC-16720-1) - Attitude and trajectory simulation of Spacecraft (NASA)
+* [Gazebo](https://github.com/osrf/gazebo) - Robotics simulator often used for planetary rovers
+* [Basilisk](https://bitbucket.org/avslab/basilisk/src/develop/) - C/C++ astrodynamics and attitude control simulation (includes Python scripting).
+* [NOS3](https://github.com/nasa/nos3) - NASA Operational Simulator for Small Satellites
+* [Trick](https://github.com/nasa/trick) - End-to-end physics simulation package, useful for simulating missions (but requires orbital dynamics models). C, C++, with Python (SWIG) interface.
 
 ### Spacecraft Software
 
