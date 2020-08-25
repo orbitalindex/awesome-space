@@ -7,7 +7,6 @@ A curated list of space-related code, APIs, data, and other resources.
 ## Table of Contents
 
 <!-- Start TOC (do not remove me) -->
-
 * [Astronomy](#astronomy)
   * [Astronomy APIs](#astronomy-apis)
   * [Astronomy Software](#astronomy-software)
@@ -32,19 +31,19 @@ A curated list of space-related code, APIs, data, and other resources.
   * [Ground Stations](#ground-stations)
   * [Mission Control](#mission-control)
   * [Mission Design](#mission-design)
+  * [Simulation](#simulation)
   * [Spacecraft Hardware](#spacecraft-hardware)
+    * [GNSS Receivers](#gnss-receivers)
     * [Radios](#radios)
+    * [Star Trackers](#star-trackers)
   * [Spacecraft Software](#spacecraft-software)
     * [Legacy](#legacy)
   * [Tracking & Orbit Determination](#tracking--orbit-determination)
 * [Visualization](#visualization)
-
 <!-- End TOC (do not remove me) -->
 
 
-
 <!-- Start Links (do not remove me) -->
-
 
 ## Astronomy
 
@@ -197,6 +196,14 @@ A curated list of space-related code, APIs, data, and other resources.
 * [SPICE](https://naif.jpl.nasa.gov/naif/toolkit.html) - Ephemerides library used by JPL for their missions. [SpiceyPy](https://github.com/AndrewAnnex/SpiceyPy) is a Python wrapper.
 * [SpOCK](https://github.com/deflorio/SpOCK/) - The Spacecraft Orbital Computations Kit is an open source tool for spacecraft mission analysis and simulation.
 
+### Simulation
+
+* [42](https://software.nasa.gov/software/GSC-16720-1) - Attitude and trajectory simulation of Spacecraft (NASA)
+* [Basilisk](https://bitbucket.org/avslab/basilisk/src/develop/) - C/C++ astrodynamics and attitude control simulation (includes Python scripting).
+* [Gazebo](https://github.com/osrf/gazebo) - Robotics simulator often used for planetary rovers
+* [NOS3](https://github.com/nasa/nos3) - NASA Operational Simulator for Small Satellites
+* [Trick](https://github.com/nasa/trick) - End-to-end physics simulation package, useful for simulating missions (but requires orbital dynamics models). C, C++, with Python (SWIG) interface.
+
 ### Spacecraft Hardware
 
 * [FossaSat-1](https://fossa.systems/fossasat/) - Hardware designs and software for the FossaSat-1 Pocketqube satellite ([GitHub](https://github.com/Bambofy/FossaSat-1))
@@ -211,6 +218,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [UPSat](https://upsat.gr/) - Open source satellite software and hardware
 
 #### GNSS Receivers
+
 * [libswiftnav](https://github.com/swift-nav/libswiftnav) and [libsbp](https://github.com/swift-nav/libsbp) (Swift binary protocol for communicating with receiver hardware)
 
 #### Radios
@@ -218,17 +226,10 @@ A curated list of space-related code, APIs, data, and other resources.
 * [LFR transceiver](http://lfradio.space/) - Little Free Radio (LFR) is an open source, command, telemetry, and data radio for cubesats.
 * OpenLST transceiver [hardware](https://github.com/OpenLST/openlst-hw) and [firmware](https://github.com/OpenLST/openlst) - OpenLST is an open source, proven radio design for communicating with remote instruments, vehicles, and stations using low-cost commercial components. Based on Planet Labs' telemetry/command radio.
 
-#### Star trackers
-* [Oresat star tracker](https://github.com/oresat/oresat-star-tracker) - Open star tracker hardware [with software](https://github.com/oresat/oresat-star-tracker-software), based on UPNanosatLab's [openstartracker](https://github.com/UBNanosatLab/openstartracker) (which doesn't compile or have hardware)
+#### Star Trackers
+
 * [MIT Tetra](https://github.com/brownj4/Tetra) and its fork, [ESA Tetra](https://github.com/esa/tetra3) - Open source star tracker which relies more extensively on hashes for faster lookups
-
-### Simulation
-
-* [42](https://software.nasa.gov/software/GSC-16720-1) - Attitude and trajectory simulation of Spacecraft (NASA)
-* [Gazebo](https://github.com/osrf/gazebo) - Robotics simulator often used for planetary rovers
-* [Basilisk](https://bitbucket.org/avslab/basilisk/src/develop/) - C/C++ astrodynamics and attitude control simulation (includes Python scripting).
-* [NOS3](https://github.com/nasa/nos3) - NASA Operational Simulator for Small Satellites
-* [Trick](https://github.com/nasa/trick) - End-to-end physics simulation package, useful for simulating missions (but requires orbital dynamics models). C, C++, with Python (SWIG) interface.
+* [Oresat star tracker](https://github.com/oresat/oresat-star-tracker) - Open star tracker hardware [with software](https://github.com/oresat/oresat-star-tracker-software), based on UPNanosatLab's [openstartracker](https://github.com/UBNanosatLab/openstartracker) (which doesn't compile or have hardware)
 
 ### Spacecraft Software
 
@@ -262,9 +263,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps
 * [Gaia Sky](https://zah.uni-heidelberg.de/institutes/ari/gaia/outreach/gaiasky/) - Real-time, 3D, astronomy visualization software developed in the framework of ESA's Gaia mission. Runs on Windows, Linux and macOS.
-
 <!-- End Links (do not remove me) -->
-
 
 
 ## License

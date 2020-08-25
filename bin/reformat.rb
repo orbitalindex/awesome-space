@@ -23,19 +23,19 @@ readme.each_line do |line|
   elsif state == :toc
     # Nothing to do - we'll regenerate this.
   elsif state == :links
-      if line =~ /^\s*#/
-        header_depth = line[/^\s*(#+)/, 1].length
-        header = line[/^\s*#+\s*(.*?)$/, 1]
+    if line =~ /^\s*#/
+      header_depth = line[/^\s*(#+)/, 1].length
+      header = line[/^\s*#+\s*(.*?)$/, 1]
 
-        parent_section = sections.reverse.find { |section| section[:depth] < header_depth }
-        sort_header = "#{parent_section && parent_section[:sort_header]}-#{header}"
+      parent_section = sections.reverse.find { |section| section[:depth] < header_depth }
+      sort_header = "#{parent_section && parent_section[:sort_header]}-#{header}"
 
-        sections << { depth: header_depth, header: header, sort_header: sort_header, links: [] }
-      elsif line =~ /^\s*\*/
-        sections.last[:links] << line.strip
-      end
+      sections << { depth: header_depth, header: header, sort_header: sort_header, links: [] }
+    elsif line =~ /^\s*\*/
+      sections.last[:links] << line.strip
+    end
   else
-    rewritten_readme << line
+    rewritten_readme << line.strip unless line.strip == '' && rewritten_readme.last == ''
   end
 end
 
@@ -44,13 +44,10 @@ sections.sort_by! { |section| section[:sort_header].downcase }
 File.open(readme_path, 'w') do |f|
   rewritten_readme.each do |line|
     if line == :toc
-      f.puts
       sections.each do |section|
         f.puts "#{'  ' * (section[:depth] - 2)}* [#{section[:header]}](##{section[:header].downcase(:ascii).gsub(/[^\p{Word}\- ]/u, '').tr(' ', '-')})"
       end
-      f.puts
     elsif line == :links
-      f.puts
       sections.each do |section|
         f.puts
         f.puts(('#' * section[:depth]) + ' ' + section[:header])
@@ -61,7 +58,6 @@ File.open(readme_path, 'w') do |f|
           end
         end
       end
-      f.puts
     else
       f.puts line
     end
