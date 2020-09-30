@@ -107,6 +107,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [data.nasa.gov](https://data.nasa.gov/) - Continually growing catalog of publicly available NASA datasets, APIs, visualizations, and more
 * [images.nasa.gov](https://images.nasa.gov/) - Search NASA's informational image and video archive
 * [MAST](https://archive.stsci.edu/index.html) - A NASA-funded site that provides astronomical data archives focused on scientific data sets in the optical, ultraviolet, and near-IR.
+* [Small Satellite Information Search](https://s3vi.ndc.nasa.gov/) - NASA's federated search portal for small spacecraft parts, technologies and conference proceedings.
 
 ### Data Wrangling Tools
 
