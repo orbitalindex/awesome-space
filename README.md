@@ -179,7 +179,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### Mission Control
 
-* [COSMOS](https://cosmosrb.com/) - Open source desktop mission control software
+* [COSMOS](https://cosmosrb.com/) - Open source test satellite test framework for development & verification
 * [Open MCT](https://github.com/nasa/openmct) - Ames's next-generation mission control framework for visualization of data on desktop and mobile devices.
 
 ### Mission Design
