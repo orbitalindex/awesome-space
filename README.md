@@ -179,6 +179,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### Mission Control
 
+* [COSMOS](https://cosmosrb.com/) - Open source test satellite test framework for development & verification
 * [Open MCT](https://github.com/nasa/openmct) - Ames's next-generation mission control framework for visualization of data on desktop and mobile devices.
 
 ### Mission Design
@@ -234,7 +235,6 @@ A curated list of space-related code, APIs, data, and other resources.
 ### Spacecraft Software
 
 * [Core Flight System](https://github.com/nasa/cfs) - NASA portable and extendable flight software framework with extensive flight heritage and a growing suite of applications and platform ports
-* [COSMOS](https://cosmosrb.com/) - Open source satellite hardware test framework for development & verification
 * [FossaSat-1](https://fossa.systems/fossasat/) - Hardware designs and software for the FossaSat-1 Pocketqube satellite ([GitHub](https://github.com/Bambofy/FossaSat-1))
 * [JPL F Prime](https://github.com/nasa/fprime) - F Prime (FÊ¹) is a component-driven framework that enables rapid development and deployment of spaceflight and other embedded software applications, originally developed at the Jet Propulsion Laboratory.
 * [KubOS](https://www.kubos.com/kubos/) - An open-source flight software framework for satellites
