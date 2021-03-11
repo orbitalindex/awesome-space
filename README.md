@@ -197,7 +197,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [smd](https://github.com/ChristopherRabotin/smd) - A SPICE-enhanced continuous thrust interplanetary mission propagator and visualizer.
 * [SPICE](https://naif.jpl.nasa.gov/naif/toolkit.html) - Ephemerides library used by JPL for their missions. [SpiceyPy](https://github.com/AndrewAnnex/SpiceyPy) is a Python wrapper.
 * [SpOCK](https://github.com/deflorio/SpOCK/) - The Spacecraft Orbital Computations Kit is an open source tool for spacecraft mission analysis and simulation.
-* [Systems Tool Kit (STK)](https://www.agi.com/products/stk) - Simulate missions and create reports, graphs, and 3D animations. From Analytical Graphics, Inc.
+* [Systems Tool Kit (STK)](https://www.agi.com/products/stk) - Simulate missions and create reports, graphs, and 3D animations (paid). From Analytical Graphics, Inc.
 
 ### Simulation
 
@@ -255,7 +255,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Gpredict](http://gpredict.oz9aec.net/) - Open source, real-time satellite tracking and orbit prediction application.
 * [jspredict](https://github.com/nsat/jspredict) - A Javascript port of the popular predict satellite tracking library.
 * [Orb Calc](https://github.com/wselwood/orbcalc) - Generate positions of objects from orbital parameters.
-* [Orbit Determination Tool Kit (ODTK)](https://www.agi.com/products/odtk) - Processes traditional and non-traditional measurements using a sequential filter & matched smoother to generate orbits with realistic covariance. From Analytical Graphics, Inc.
+* [Orbit Determination Tool Kit (ODTK)](https://www.agi.com/products/odtk) - Processes traditional and non-traditional measurements using a sequential filter & matched smoother to generate orbits with realistic covariance (paid). From Analytical Graphics, Inc.
 * [Orekit](https://www.orekit.org) - An accurate and efficient core layer for space flight dynamics applications written in Java.
 * [Predict](https://github.com/shupp/Predict) - PHP implementation of the SGP4 and SDP4 models for prediction, based on [Gpredict](http://gpredict.oz9aec.net/)
 * [python-sgp4](https://github.com/brandon-rhodes/python-sgp4) - Python implementation of most recent version of the SGP4 satellite tracking algorithm
