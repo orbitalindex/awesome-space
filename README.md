@@ -137,6 +137,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [NOAA Data Access Viewer](https://coast.noaa.gov/dataviewer/#/)
 * [Office for Coastal Management's Digital Coast](https://coast.noaa.gov/digitalcoast/data/)
 * [Planet API](https://developers.planet.com/docs/api/) - Programmatic support for searching, clipping, ordering, and viewing satellite imagery on a map. Currently offers a free plan with access to low-resolution imagery worldwide.
+* [Remotepixel](https://remotepixel.ca/) - A collection of tools, including the RemotePixel Viewer, Satellite Search tool, and Disasterwatch, for exploring and downloading satellite imagery, maintained by one hardworking volunteer.
 * [Sentinelhub](https://www.sentinel-hub.com/explore/) - ESA's EO Browser and Sentinel Playground offer a complete archive of Sentinel-1, Sentinel-2, Sentinel-3, Sentinel-5P, ESA's archive of Landsat 5, 7 and 8, global coverage of Landsat 8, Envisat Meris, MODIS, Proba-V and GIBS products in one place.
 * [USGS EarthExplorer](https://earthexplorer.usgs.gov/) - A tool that provides users the ability to query, search, and retrieve satellite images, aerial photographs, and cartographic products from several sources
 * [Visible Earth](https://visibleearth.nasa.gov/) - A catalog of NASA images and animations of our home planet
