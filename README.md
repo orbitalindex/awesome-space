@@ -97,13 +97,17 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### Astronomy Data
 
+* [Canadian Astronomy Data Centre](http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/) - CADC is a Science Platform for data-intensive astronomy with many astronomy data products.
+* [ESO Science Archive Facility](http://archive.eso.org/cms.html)
 * [Gaia Data Releases](https://www.cosmos.esa.int/web/gaia/release)
+* [NASA Space Science Data Coordinated Archive](https://nssdc.gsfc.nasa.gov/)
+* [SIMBAD Astronomical Database](http://simbad.u-strasbg.fr/simbad/) - The purpose of Simbad is to provide information on astronomical objects of interest which have been studied in scientific articles.
 * [The Sloan Digital Sky Survey](https://www.sdss.org/) - Three-dimensional maps of the Universe
 
 ### Data Directories
 
 * [api.nasa.gov](https://api.nasa.gov/) - NASA's API portal
-* [Data.gov - NASA](https://catalog.data.gov/dataset?organization=nasa-gov) The US Federal government's open data portal page for NASA data sets. If you search by Bureaus, Organizations, or Publishers, you'll find additional space-related data sets from NASA/GSFC, NOAA, the Space Science Technology Directorate, selected universities, and more.
+* [Data.gov - NASA](https://catalog.data.gov/dataset?organization=nasa-gov) - The US Federal government's open data portal page for NASA data sets. If you search by Bureaus, Organizations, or Publishers, you'll find additional space-related data sets from NASA/GSFC, NOAA, the Space Science Technology Directorate, selected universities, and more.
 * [data.nasa.gov](https://data.nasa.gov/) - Continually growing catalog of publicly available NASA datasets, APIs, visualizations, and more
 * [images.nasa.gov](https://images.nasa.gov/) - Search NASA's informational image and video archive
 * [MAST](https://archive.stsci.edu/index.html) - A NASA-funded site that provides astronomical data archives focused on scientific data sets in the optical, ultraviolet, and near-IR.
@@ -115,16 +119,29 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### Earth
 
+* [Bhuvan](https://bhuvan.nrsc.gov.in/bhuvan_links.php) - ISRO's Geoportal
+* [Copernicus Open Access Hub](https://scihub.copernicus.eu/) - The Copernicus Open Access Hub provides complete, free and open access to Sentinel-1, Sentinel-2, Sentinel-3 and Sentinel-5P user products.
+* [Earth on AWS](https://aws.amazon.com/earth)
 * [earthdata.nasa.gov](https://earthdata.nasa.gov/earth-observation-data) - Portal to NASA's Earth observation data
+* [EOS Land Viewer](https://eos.com/products/landviewer/) - A free GIS database of the most widely used satellite images.
+* [ESA's Earth Online](https://earth.esa.int/eogateway/)
 * [ESA's GEOSS Portal](http://www.geoportal.org/) - Query for Earth imagery across a suite of space systems
 * [Global Forest Watch Open Data Portal](http://data.globalforestwatch.org/) - Identify areas of tree cover loss and gain
+* [Google Earth](https://earth.google.com/)
+* [Google's Earth Engine](https://developers.google.com/earth-engine/datasets) - Earth Engine's public data archive includes more than forty years of historical imagery and scientific datasets, updated and expanded daily.
 * [High Definition Earth-Viewing System (HDEV)](https://eol.jsc.nasa.gov/ESRS/HDEV/) - Realtime stream of Earth from the ISS
 * [Landsat data sources](https://landsat.gsfc.nasa.gov/data/where-to-get-data/)
+* [Maxar Open Data Program](https://www.maxar.com/open-data/) - Maxar releases limited open data during major crisis events.
 * [NASA Land-Cover and Land-Use Change (LCLUC) Program](http://lcluc.umd.edu/content/data-initiatives)
+* [National Environmental Satellite Data and Information Service](https://www.nesdis.noaa.gov/) - Explore NOAA satellite maps and imagery in 2D and 3D.
+* [NOAA Data Access Viewer](https://coast.noaa.gov/dataviewer/#/)
+* [Office for Coastal Management's Digital Coast](https://coast.noaa.gov/digitalcoast/data/)
 * [Planet API](https://developers.planet.com/docs/api/) - Programmatic support for searching, clipping, ordering, and viewing satellite imagery on a map. Currently offers a free plan with access to low-resolution imagery worldwide.
+* [Sentinelhub](https://www.sentinel-hub.com/explore/) - ESA's EO Browser and Sentinel Playground offer a complete archive of Sentinel-1, Sentinel-2, Sentinel-3, Sentinel-5P, ESA's archive of Landsat 5, 7 and 8, global coverage of Landsat 8, Envisat Meris, MODIS, Proba-V and GIBS products in one place.
 * [USGS EarthExplorer](https://earthexplorer.usgs.gov/) - A tool that provides users the ability to query, search, and retrieve satellite images, aerial photographs, and cartographic products from several sources
 * [Visible Earth](https://visibleearth.nasa.gov/) - A catalog of NASA images and animations of our home planet
 * [Worldview](https://worldview.earthdata.nasa.gov/) - A NASA app that provides the capability to interactively browse over 800 global, full-resolution satellite imagery layers and then download the underlying data
+* [Yale's Center for Earth Observation](https://yceo.yale.edu/image-sources) - A directory of imagry and data sources.
 
 ### Extrasolar Planets
 
