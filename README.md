@@ -197,6 +197,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### Mission Control
 
+* [Major Tom](https://www.kubos.com/) - Cloud-based Mission Control As A Service
 * [COSMOS](https://cosmosrb.com/) - Open source mission control and satellite test & development framework
 * [Open MCT](https://github.com/nasa/openmct) - Ames's next-generation mission control framework for visualization of data on desktop and mobile devices.
 * [Yamcs](https://yamcs.org) - Open source mission control framework (works also as backend for OpenMCT).
