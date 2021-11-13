@@ -16,6 +16,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Community](#community)
   * [Learning Materials](#learning-materials)
   * [Space Hackathons and Challenges](#space-hackathons-and-challenges)
+  * [Working Groups](#working-groups)
 * [Data](#data)
   * [Astronomy Data](#astronomy-data)
   * [Data Directories](#data-directories)
@@ -93,6 +94,10 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [ActInSpace](https://entreprises.cnes.fr/fr/actinspace) - A hackathon about space app, every even year, launched by the french CNES.
 * [Space Apps Challenge](https://www.spaceappschallenge.org/) - NASA-led initiative organized in collaboration with Booz Allen Hamilton, Mindgrub and SecondMuse.
+
+### Working Groups
+
+* [Open Source Satellite](https://www.opensourcesatellite.org/) - Ecosystem for sharing ideas and creating a "highly capable, flexible and affordable open source microsatellite platform." Founded by "a team of international space experts" dedicated to open source.
 
 ## Data
 
@@ -286,8 +291,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps
 * [Gaia Sky](https://zah.uni-heidelberg.de/institutes/ari/gaia/outreach/gaiasky/) - Real-time, 3D, astronomy visualization software developed in the framework of ESA's Gaia mission. Runs on Windows, Linux and macOS.
-* [LeoLabs Visualization](https://platform.leolabs.space/visualization) - Low Earth Orbit Catalog Visualization. 
-
+* [LeoLabs Visualization](https://platform.leolabs.space/visualization) - Low Earth Orbit Catalog Visualization.
 <!-- End Links (do not remove me) -->
 
 
