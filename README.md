@@ -235,6 +235,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [FossaSat-1](https://fossa.systems/fossasat/) - Hardware designs and software for the FossaSat-1 Pocketqube satellite ([GitHub](https://github.com/Bambofy/FossaSat-1))
 * [NASA Outgassing Db](https://data.nasa.gov/resource/r588-f7pr.json) - A dataset of materials intended for spacecraft use from the Goddard Space Flight Center, the Stanford Research Institute, and the Jet Propulsion Laboratory.
 * [Oresat](https://github.com/oresat) - An open source cubesat developed at Oregon Small Satellite Project.
+* [ProjectInertia](https://github.com/chrismolli/ProjectInertia) - An open source hardware platform to achieve a FRAM-based radiation-tolerant microcontroller for space application. The firmware is being developed in Rust.
 * [PyCubed](https://www.notion.so/PyCubed-4cbfac7e9b684852a2ab2193bd485c4d) - An Open-Source, Radiation-Tested CubeSat Framework Programmable Entirely in Python.
 * [Qubik](https://gitlab.com/librespacefoundation/qubik) - Open source software and hardware pocketqube satellite
 * [Radiation Test Database](http://radwg.web.cern.ch/content/radiation-test-database) - Radiation test results for many components.
