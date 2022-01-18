@@ -70,6 +70,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [NASA Eyes](https://eyes.nasa.gov/) - Immersible apps to explore the Earth and solar system
 * [Orb Viewer](https://parsecsreach.com/orbviewer) - Visualization of all the asteroids in the MPC database.
 * [Orbit Simulator](http://www.orbitsimulator.com/gravity/articles/what.html) - A powerful numerical integration tool. "By performing n-body simulations, you can study the orbits of planets, moons, asteroids, or any object in the universe."
+* [SpaceEngine](spaceengine.org) : Realistic universe simulator and planetarium. Old versions are [free](http://old.spaceengine.org/load/old_versions/4). 
 * [Stellarium](http://stellarium.org/) - Open source planetarium for your computer
 
 ### SDKs &amp; Software Development Tools
