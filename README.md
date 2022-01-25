@@ -7,40 +7,43 @@ A curated list of space-related code, APIs, data, and other resources.
 ## Table of Contents
 
 <!-- Start TOC (do not remove me) -->
-* [Astronomy](#astronomy)
-  * [Astronomy APIs](#astronomy-apis)
-  * [Astronomy Software](#astronomy-software)
-    * [Radio Astronomy](#radio-astronomy)
-    * [Visualization](#visualization)
-  * [SDKs &amp; Software Development Tools](#sdks-amp-software-development-tools)
-* [Community](#community)
-  * [Learning Materials](#learning-materials)
-  * [Space Hackathons and Challenges](#space-hackathons-and-challenges)
-  * [Working Groups](#working-groups)
-* [Data](#data)
-  * [Astronomy Data](#astronomy-data)
-  * [Data Directories](#data-directories)
-  * [Data Wrangling Tools](#data-wrangling-tools)
-  * [Earth](#earth)
-  * [Extrasolar Planets](#extrasolar-planets)
-  * [Launches](#launches)
-  * [Solar System Data](#solar-system-data)
-    * [Orbits](#orbits)
-  * [Space Debris](#space-debris)
-* [Spacecraft](#spacecraft)
-  * [General Software](#general-software)
-  * [Ground Stations](#ground-stations)
-  * [Mission Control](#mission-control)
-  * [Mission Design](#mission-design)
-  * [Simulation](#simulation)
-  * [Spacecraft Hardware](#spacecraft-hardware)
-    * [GNSS Receivers](#gnss-receivers)
-    * [Radios](#radios)
-    * [Star Trackers](#star-trackers)
-  * [Spacecraft Software](#spacecraft-software)
-    * [Legacy](#legacy)
-  * [Tracking & Orbit Determination](#tracking--orbit-determination)
-* [Visualization](#visualization)
+- [Awesome Space](#awesome-space)
+  - [Table of Contents](#table-of-contents)
+  - [Astronomy](#astronomy)
+    - [Astronomy APIs](#astronomy-apis)
+    - [Astronomy Software](#astronomy-software)
+      - [Radio Astronomy](#radio-astronomy)
+      - [Visualization](#visualization)
+    - [SDKs &amp; Software Development Tools](#sdks--software-development-tools)
+  - [Community](#community)
+    - [Learning Materials](#learning-materials)
+    - [Space Hackathons and Challenges](#space-hackathons-and-challenges)
+    - [Working Groups](#working-groups)
+  - [Data](#data)
+    - [Astronomy Data](#astronomy-data)
+    - [Data Directories](#data-directories)
+    - [Data Wrangling Tools](#data-wrangling-tools)
+    - [Earth](#earth)
+    - [Extrasolar Planets](#extrasolar-planets)
+    - [Launches](#launches)
+    - [Solar System Data](#solar-system-data)
+      - [Orbits](#orbits)
+    - [Space Debris](#space-debris)
+  - [Spacecraft](#spacecraft)
+    - [General Software](#general-software)
+    - [Ground Stations](#ground-stations)
+    - [Mission Control](#mission-control)
+    - [Mission Design](#mission-design)
+    - [Simulation](#simulation)
+    - [Spacecraft Hardware](#spacecraft-hardware)
+      - [GNSS Receivers](#gnss-receivers)
+      - [Radios](#radios)
+      - [Star Trackers](#star-trackers)
+    - [Spacecraft Software](#spacecraft-software)
+      - [Legacy](#legacy)
+    - [Tracking & Orbit Determination](#tracking--orbit-determination)
+  - [Visualization](#visualization-1)
+  - [License](#license)
 <!-- End TOC (do not remove me) -->
 
 
@@ -185,7 +188,9 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Stuff In Space](http://stuffin.space) - Stuff in Space is a realtime 3D map of objects in Earth orbit, visualized using WebGL. Updates daily.
 
 ## Spacecraft
-
+* [Spacex](https://satellitemap.space/?constellation=starlink) - Spacex satellites Orbital location data
+* [Oneweb](https://satellitemap.space/?constellation=oneweb) - Oneweb satellites orbital location data
+* [GPS](https://satellitemap.space/?constellation=GPS) - GPS satellites orbital location data
 ### General Software
 
 * [European Space Agency GitHub Repository](https://github.com/esa)
