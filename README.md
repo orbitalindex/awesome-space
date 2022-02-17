@@ -27,6 +27,7 @@ A curated list of space-related code, APIs, data, and other resources.
   * [Solar System Data](#solar-system-data)
     * [Orbits](#orbits)
   * [Space Debris](#space-debris)
+  * [Space News](#space-news)
 * [Spacecraft](#spacecraft)
   * [General Software](#general-software)
   * [Ground Stations](#ground-stations)
@@ -160,10 +161,10 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### Launches
 
-* [Launch Library](https://launchlibrary.net/docs/1.4/api.html) - A free to use API for a repository of rocket launch information that application developers can use.
-* [Space Launch Now API](https://spacelaunchnow.me/api/3.3.0/) - Retrieve current information on launches, spacecraft, and more.
+* [Launch Library 2](https://thespacedevs.com/llapi) - A free to use API with rocket launches, astronauts, events, etc. that application developers can use. It is the successor of the original Launch Library and Space Launch Now APIs. As it is maintained by [The Space Devs](https://thespacedevs.com/), news and support are provided on their [Discord server](https://discord.gg/wxEGcWXbsD).
 * [Space Launch Report](https://www.spacelaunchreport.com/) - Website listing launchers and their specs as well as launch reports dating back decades
 * [Unofficial SpaceX REST API](https://docs.spacexdata.com/) - Open Source REST API for rocket, core, capsule, pad, and launch data
+* [Launch Dashboard API](https://github.com/shahar603/Launch-Dashboard-API) -  Open Source REST API for rocket launch telemetry
 
 ### Solar System Data
 
@@ -183,6 +184,10 @@ A curated list of space-related code, APIs, data, and other resources.
 ### Space Debris
 
 * [Stuff In Space](http://stuffin.space) - Stuff in Space is a realtime 3D map of objects in Earth orbit, visualized using WebGL. Updates daily.
+
+### Space News
+
+* [Spaceflight News API](https://spaceflightnewsapi.net/) - A free to use API with space-related news articles that application developers can use. As it is maintained by [The Space Devs](https://thespacedevs.com/), news and support are provided on their [Discord server](https://discord.gg/wxEGcWXbsD).
 
 ## Spacecraft
 
