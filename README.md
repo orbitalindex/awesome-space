@@ -221,6 +221,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Flight Club](https://www2.flightclub.io/) - Orbital launch simulator and trajectory visualisation software
 * [FreeFlyer](https://ai-solutions.com/freeflyer/) - A software application for space mission design, analysis, and operations.
 * [GMAT](https://sourceforge.net/projects/gmat/) - The General Mission Analysis Tool (GMAT) is a space trajectory optimization and mission analysis system (NASA)
+* [GO by ienai SPACE](https://go.ienai.space) - A software tool which allows for general design and optimization of missions with electric propulsion systems.
 * [NASA Ames Research Center Trajectory Browser](https://trajbrowser.arc.nasa.gov/traj_browser.php) - A tool to find spacecraft trajectories to planets and small-bodies
 * [nyx](https://gitlab.com/chrisrabotin/nyx) - Nyx is a high fidelity astrodynamics toolkit for mission design and orbit determination written in Rust, [validated against GMAT](https://gitlab.com/chrisrabotin/nyx/blob/master/VALIDATION.md).
 * [Open Space Toolkit](https://github.com/open-space-collective/open-space-toolkit) - Collection of versatile software libraries for space engineering applications (e.g., environment modeling, orbit and access computation).
