@@ -26,7 +26,6 @@ A curated list of space-related code, APIs, data, and other resources.
   * [Launches](#launches)
   * [Solar System Data](#solar-system-data)
     * [Orbits](#orbits)
-  * [Space Debris](#space-debris)
   * [Space News](#space-news)
 * [Spacecraft](#spacecraft)
   * [General Software](#general-software)
@@ -182,10 +181,6 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Celestrak](http://celestrak.com) - Celestrak is the world's oldest source for orbital element sets (and related software and educational materials).
 * [JPL's HORIZONS](https://ssd.jpl.nasa.gov/horizons.cgi) - Generate ephemerides for solar-system bodies
 * [Space Physics Data Facility](https://spdf.gsfc.nasa.gov/data_orbits.html) - Web-based services for survey and high resolution data and trajectories
-
-### Space Debris
-
-* [Stuff In Space](http://stuffin.space) - Stuff in Space is a realtime 3D map of objects in Earth orbit, visualized using WebGL. Updates daily.
 
 ### Space News
 
