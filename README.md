@@ -40,7 +40,6 @@ A curated list of space-related code, APIs, data, and other resources.
   * [Spacecraft Software](#spacecraft-software)
     * [Legacy](#legacy)
   * [Tracking & Orbit Determination](#tracking--orbit-determination)
-* [Visualization](#visualization)
 <!-- End TOC (do not remove me) -->
 
 
@@ -74,6 +73,9 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Orbit Simulator](http://www.orbitsimulator.com/gravity/articles/what.html) - A powerful numerical integration tool. "By performing n-body simulations, you can study the orbits of planets, moons, asteroids, or any object in the universe."
 * [SpaceEngine](spaceengine.org) : Realistic universe simulator and planetarium. Old versions are [free](http://old.spaceengine.org/load/old_versions/4). 
 * [Stellarium](http://stellarium.org/) - Open source planetarium for your computer
+* [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps
+* [Gaia Sky](https://zah.uni-heidelberg.de/institutes/ari/gaia/outreach/gaiasky/) - Real-time, 3D, astronomy visualization software developed in the framework of ESA's Gaia mission. Runs on Windows, Linux and macOS.
+* [LeoLabs Visualization](https://platform.leolabs.space/visualization) - Low Earth Orbit Catalog Visualization.
 
 ### SDKs &amp; Software Development Tools
 
@@ -295,11 +297,6 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Space-Track.org](https://www.space-track.org/documentation#api) - Programmatic access to Two-Line Elements, Orbital Mean-Elements, satellite catalog information, space debris, and more.
 * [Where the ISS at?](https://wheretheiss.at) - Real time tracking of the International Space Station, with email push notifications for upcoming passes and a REST API for integrations.  Based on [Predict](https://github.com/shupp/Predict)
 
-## Visualization
-
-* [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps
-* [Gaia Sky](https://zah.uni-heidelberg.de/institutes/ari/gaia/outreach/gaiasky/) - Real-time, 3D, astronomy visualization software developed in the framework of ESA's Gaia mission. Runs on Windows, Linux and macOS.
-* [LeoLabs Visualization](https://platform.leolabs.space/visualization) - Low Earth Orbit Catalog Visualization.
 <!-- End Links (do not remove me) -->
 
 
