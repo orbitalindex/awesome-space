@@ -67,6 +67,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Celestia](https://celestia.space/) - Free real-time 3D visualization of space. (See also [Celestia Motherlode](http://www.celestiamotherlode.net/) for many add-ons.)
 * [Harmony of the Spheres](https://github.com/TheHappyKoala/Harmony-of-the-Spheres) - Newtonian gravity and space simulator that runs in your browser
 * [KStars](https://edu.kde.org/kstars/) - KStars is free, open source, cross-platform astronomy software. It provides many features, including a graphical simulation of the night sky, observing planner, a sky calendar tool, an FOV editor, and more.
+* [Mars Now](https://mars.nasa.gov/explore/mars-now/) - This visualization shows the current location and communication activity of all operating landers, rovers and orbiters at Mars that transmit data to Earth via NASA’s Mars Relay Network.
 * [NASA Eyes](https://eyes.nasa.gov/) - Immersible apps to explore the Earth and solar system
 * [Orbiter 2016](http://orbit.medphys.ucl.ac.uk/) - Open source spaceflight simulator with many addons for historical missions. [Installation Instructions.](https://www.reddit.com/r/Orbiter/comments/mx2mjz/guide_for_beginners_to_orbiter/)
 * [Orb Viewer](https://parsecsreach.com/orbviewer) - Visualization of all the asteroids in the MPC database.
