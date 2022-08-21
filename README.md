@@ -275,6 +275,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [LibreCube](https://librecube.org/) - Open source space and Earth exploration. Defining a generic architecture of system of systems that have standardized interfaces makes it possible to combine and reuse elements for various applications
 * [NanoSat MO Framework](http://nanosat-mo-framework.github.io) - A software framework for nanosatellites based on the latest CCSDS standards. Developed by ESA and used in OPS-SAT mission ([GitHub](https://github.com/esa/nanosat-mo-framework))
 * [OpenSatKit](https://github.com/OpenSatKit/OpenSatKit) - A complete [Core Flight System](https://github.com/nasa/cfs) training and application development environment that includes [COSMOS](https://cosmosrb.com/) and [42](https://software.nasa.gov/software/GSC-16720-1)
+* [SatCat5](https://github.com/the-aerospace-corporation/satcat5) - A mixed-media Ethernet switch for connecting smallsat payloads
 * [UPSat](https://upsat.gr/) - Open source satellite software and hardware
 
 #### Legacy
