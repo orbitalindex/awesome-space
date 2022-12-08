@@ -249,7 +249,6 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Qubik](https://gitlab.com/librespacefoundation/qubik) - Open source software and hardware pocketqube satellite
 * [Radiation Test Database](http://radwg.web.cern.ch/content/radiation-test-database) - Radiation test results for many components.
 * [SatSearch](http://satsearch.co), [CubeSatShop](https://www.cubesatshop.com/) - Search engines for satellite parts and their datasheets
-* [Smallsat Parts on Orbit Now (SPOON)](http://spoonsite.com) - A one-stop-shop database of smallsat parts.
 * [The AMSAT CubeSat Simulator Project](http://cubesatsim.org/) - a low cost satellite emulator that runs on solar panels and batteries, transmits UHF radio telemetry, has a 3D printed frame, and can be extended by additional sensors and modules.
 * [UPSat](https://upsat.gr/) - Open source satellite software and hardware
 
