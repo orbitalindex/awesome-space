@@ -145,6 +145,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Landsat data sources](https://landsat.gsfc.nasa.gov/data/where-to-get-data/)
 * [Maxar Open Data Program](https://www.maxar.com/open-data/) - Maxar releases limited open data during major crisis events.
 * [MetaEarth](https://github.com/bair-climate-initiative/metaearth) - Download any remote sensing data from any provider using a single config.
+* [Moonshine](https://moonshineai.readthedocs.io) - Machine learning models pretrained on remote sensing data.
 * [NASA Land-Cover and Land-Use Change (LCLUC) Program](http://lcluc.umd.edu/content/data-initiatives)
 * [National Environmental Satellite Data and Information Service](https://www.nesdis.noaa.gov/) - Explore NOAA satellite maps and imagery in 2D and 3D.
 * [NOAA Data Access Viewer](https://coast.noaa.gov/dataviewer/#/)
