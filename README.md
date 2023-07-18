@@ -28,6 +28,7 @@ A curated list of space-related code, APIs, data, and other resources.
     * [Orbits](#orbits)
   * [Space News](#space-news)
 * [Spacecraft](#spacecraft)
+  * [Full Satellites](#full-satellites)
   * [General Software](#general-software)
   * [Ground Stations](#ground-stations)
   * [Mission Control](#mission-control)
@@ -64,18 +65,18 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [100,000 Stars](https://stars.chromeexperiments.com/) - 100,000 Stars is an interactive visualization of the stellar neighborhood showing the location of 119,617 nearby stars.
 * [Celestia](https://celestia.space/) - Free real-time 3D visualization of space. (See also [Celestia Motherlode](http://www.celestiamotherlode.net/) for many add-ons.)
-* [Harmony of the Spheres](https://github.com/TheHappyKoala/Harmony-of-the-Spheres) - Newtonian gravity and space simulator that runs in your browser
-* [KStars](https://edu.kde.org/kstars/) - KStars is free, open source, cross-platform astronomy software. It provides many features, including a graphical simulation of the night sky, observing planner, a sky calendar tool, an FOV editor, and more.
-* [Mars Now](https://mars.nasa.gov/explore/mars-now/) - This visualization shows the current location and communication activity of all operating landers, rovers and orbiters at Mars that transmit data to Earth via NASA’s Mars Relay Network.
-* [NASA Eyes](https://eyes.nasa.gov/) - Immersible apps to explore the Earth and solar system
-* [Orbiter 2016](http://orbit.medphys.ucl.ac.uk/) - Open source spaceflight simulator with many addons for historical missions. [Installation Instructions.](https://www.reddit.com/r/Orbiter/comments/mx2mjz/guide_for_beginners_to_orbiter/)
-* [Orb Viewer](https://parsecsreach.com/orbviewer) - Visualization of all the asteroids in the MPC database.
-* [Orbit Simulator](http://www.orbitsimulator.com/gravity/articles/what.html) - A powerful numerical integration tool. "By performing n-body simulations, you can study the orbits of planets, moons, asteroids, or any object in the universe."
-* [SpaceEngine](spaceengine.org) : Realistic universe simulator and planetarium. Old versions are [free](http://old.spaceengine.org/load/old_versions/4). 
-* [Stellarium](http://stellarium.org/) - Open source planetarium for your computer
 * [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps
 * [Gaia Sky](https://zah.uni-heidelberg.de/institutes/ari/gaia/outreach/gaiasky/) - Real-time, 3D, astronomy visualization software developed in the framework of ESA's Gaia mission. Runs on Windows, Linux and macOS.
+* [Harmony of the Spheres](https://github.com/TheHappyKoala/Harmony-of-the-Spheres) - Newtonian gravity and space simulator that runs in your browser
+* [KStars](https://edu.kde.org/kstars/) - KStars is free, open source, cross-platform astronomy software. It provides many features, including a graphical simulation of the night sky, observing planner, a sky calendar tool, an FOV editor, and more.
 * [LeoLabs Visualization](https://platform.leolabs.space/visualization) - Low Earth Orbit Catalog Visualization.
+* [Mars Now](https://mars.nasa.gov/explore/mars-now/) - This visualization shows the current location and communication activity of all operating landers, rovers and orbiters at Mars that transmit data to Earth via NASA’s Mars Relay Network.
+* [NASA Eyes](https://eyes.nasa.gov/) - Immersible apps to explore the Earth and solar system
+* [Orb Viewer](https://parsecsreach.com/orbviewer) - Visualization of all the asteroids in the MPC database.
+* [Orbit Simulator](http://www.orbitsimulator.com/gravity/articles/what.html) - A powerful numerical integration tool. "By performing n-body simulations, you can study the orbits of planets, moons, asteroids, or any object in the universe."
+* [Orbiter 2016](http://orbit.medphys.ucl.ac.uk/) - Open source spaceflight simulator with many addons for historical missions. [Installation Instructions.](https://www.reddit.com/r/Orbiter/comments/mx2mjz/guide_for_beginners_to_orbiter/)
+* [SpaceEngine](spaceengine.org) : Realistic universe simulator and planetarium. Old versions are [free](http://old.spaceengine.org/load/old_versions/4).
+* [Stellarium](http://stellarium.org/) - Open source planetarium for your computer
 
 ### SDKs &amp; Software Development Tools
 
@@ -167,10 +168,10 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### Launches
 
+* [Launch Dashboard API](https://github.com/shahar603/Launch-Dashboard-API) -  Open Source REST API for rocket launch telemetry
 * [Launch Library 2](https://thespacedevs.com/llapi) - A free to use API with rocket launches, astronauts, events, etc. that application developers can use. It is the successor of the original Launch Library and Space Launch Now APIs. As it is maintained by [The Space Devs](https://thespacedevs.com/), news and support are provided on their [Discord server](https://discord.gg/wxEGcWXbsD).
 * [Space Launch Report](https://www.spacelaunchreport.com/) - Website listing launchers and their specs as well as launch reports dating back decades
 * [Unofficial SpaceX REST API](https://docs.spacexdata.com/) - Open Source REST API for rocket, core, capsule, pad, and launch data
-* [Launch Dashboard API](https://github.com/shahar603/Launch-Dashboard-API) -  Open Source REST API for rocket launch telemetry
 
 ### Solar System Data
 
@@ -192,6 +193,10 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Spaceflight News API](https://spaceflightnewsapi.net/) - A free to use API with space-related news articles that application developers can use. As it is maintained by [The Space Devs](https://thespacedevs.com/), news and support are provided on their [Discord server](https://discord.gg/wxEGcWXbsD).
 
 ## Spacecraft
+
+### Full Satellites
+
+* [Quetzal-1](https://github.com/Quetzal-1-CubeSat-Team) - Quetzal-1 was a 1U CubeSat developed by an engineering team from Universidad del Valle de Guatemala (UVG). Quetzal-1 operated successfully in space for 211 days.
 
 ### General Software
 
@@ -236,9 +241,9 @@ A curated list of space-related code, APIs, data, and other resources.
 * [42](https://software.nasa.gov/software/GSC-16720-1) - Attitude and trajectory simulation of Spacecraft (NASA)
 * [Basilisk](https://bitbucket.org/avslab/basilisk/src/develop/) - C/C++ astrodynamics and attitude control simulation (includes Python scripting).
 * [Gazebo](https://github.com/osrf/gazebo) - Robotics simulator often used for planetary rovers
+* [LunCo](https://lunco.space) – An open-source full-cycle  Lunar Colony & space operations sim tool for engineers and enthusiasts
 * [NOS3](https://github.com/nasa/nos3) - NASA Operational Simulator for Small Satellites
 * [Trick](https://github.com/nasa/trick) - End-to-end physics simulation package, useful for simulating missions (but requires orbital dynamics models). C, C++, with Python (SWIG) interface.
-* [LunCo](https://lunco.space) – An open-source full-cycle  Lunar Colony & space operations sim tool for engineers and enthusiasts
 
 ### Spacecraft Hardware
 
@@ -269,12 +274,13 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### Spacecraft Software
 
+* [cFS Basecamp](https://github.com/cfs-tools/cfs-basecamp) - Provides a lightweight environment to help you learn NASA’s cFS and create app-based solutions for your projects. The built-in hands-on tutorials shorten the path to productivity.
 * [Core Flight System](https://github.com/nasa/cfs) - NASA portable and extendable flight software framework with extensive flight heritage and a growing suite of applications and platform ports
-* [cFS Basecamp](https://github.com/cfs-tools/cfs-basecamp) - Provides a lightweight environment to help you learn NASA’s cFS and create app-based solutions for your projects. The built-in hands-on tutorials shorten the path to productivity. 
 * [FossaSat-1](https://fossa.systems/fossasat/) - Hardware designs and software for the FossaSat-1 Pocketqube satellite ([GitHub](https://github.com/Bambofy/FossaSat-1))
 * [JPL F Prime](https://github.com/nasa/fprime) - F Prime (FÊ¹) is a component-driven framework that enables rapid development and deployment of spaceflight and other embedded software applications, originally developed at the Jet Propulsion Laboratory.
 * [KubOS](https://www.kubos.com/kubos/) - An open-source flight software framework for satellites
 * [LibreCube](https://librecube.org/) - Open source space and Earth exploration. Defining a generic architecture of system of systems that have standardized interfaces makes it possible to combine and reuse elements for various applications
+* [Linux4Space](https://linux4space.org/) - Open source Yocto based Linux distribution suitable for space applications
 * [NanoSat MO Framework](http://nanosat-mo-framework.github.io) - A software framework for nanosatellites based on the latest CCSDS standards. Developed by ESA and used in OPS-SAT mission ([GitHub](https://github.com/esa/nanosat-mo-framework))
 * [OpenSatKit](https://github.com/OpenSatKit/OpenSatKit) - A complete [Core Flight System](https://github.com/nasa/cfs) training and application development environment that includes [COSMOS](https://cosmosrb.com/) and [42](https://software.nasa.gov/software/GSC-16720-1)
 * [SatCat5](https://github.com/the-aerospace-corporation/satcat5) - A mixed-media Ethernet switch for connecting smallsat payloads
@@ -299,7 +305,6 @@ A curated list of space-related code, APIs, data, and other resources.
 * [satellite.js](https://github.com/shashwatak/satellite-js) - A library to make satellite propagation via TLEs possible on the web. Provides the functions necessary for SGP4/SDP4 calculations, as callable javascript. Also provides functions for coordinate transforms.
 * [Space-Track.org](https://www.space-track.org/documentation#api) - Programmatic access to Two-Line Elements, Orbital Mean-Elements, satellite catalog information, space debris, and more.
 * [Where the ISS at?](https://wheretheiss.at) - Real time tracking of the International Space Station, with email push notifications for upcoming passes and a REST API for integrations.  Based on [Predict](https://github.com/shupp/Predict)
-
 <!-- End Links (do not remove me) -->
 
 
