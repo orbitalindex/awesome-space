@@ -298,6 +298,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [jspredict](https://github.com/nsat/jspredict) - A Javascript port of the popular predict satellite tracking library.
 * [Orb Calc](https://github.com/wselwood/orbcalc) - Generate positions of objects from orbital parameters.
 * [Orbit Determination Tool Kit (ODTK)](https://www.agi.com/products/odtk) - Processes traditional and non-traditional measurements using a sequential filter & matched smoother to generate orbits with realistic covariance (paid). From Analytical Graphics, Inc.
+* [Orbital Object Tool Kit](https://github.com/thkruz/ootk) - TypeScript port of python-sgp4 plus additional features for working with TLEs, satellites, and sensors.
 * [Orekit](https://www.orekit.org) - An accurate and efficient core layer for space flight dynamics applications written in Java.
 * [perturb](https://github.com/gunvirranu/perturb) - A modern C++ library for SGP4 orbit propagation of TLEs
 * [Predict](https://github.com/shupp/Predict) - PHP implementation of the SGP4 and SDP4 models for prediction, based on [Gpredict](http://gpredict.oz9aec.net/)
