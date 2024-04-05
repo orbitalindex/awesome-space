@@ -64,6 +64,7 @@ A curated list of space-related code, APIs, data, and other resources.
 #### Visualization
 
 * [100,000 Stars](https://stars.chromeexperiments.com/) - 100,000 Stars is an interactive visualization of the stellar neighborhood showing the location of 119,617 nearby stars.
+* [ANISE](https://github.com/nyx-space/anise) - ANISE provides a toolkit and files for Attitude, Navigation, Instrument, Spacecraft, and Ephemeris data. It's a modern replacement of the NAIF SPICE toolkit.
 * [Celestia](https://celestia.space/) - Free real-time 3D visualization of space. (See also [Celestia Motherlode](http://www.celestiamotherlode.net/) for many add-ons.)
 * [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps
 * [Gaia Sky](https://zah.uni-heidelberg.de/institutes/ari/gaia/outreach/gaiasky/) - Real-time, 3D, astronomy visualization software developed in the framework of ESA's Gaia mission. Runs on Windows, Linux and macOS.
@@ -230,10 +231,9 @@ A curated list of space-related code, APIs, data, and other resources.
 * [GMAT](https://sourceforge.net/projects/gmat/) - The General Mission Analysis Tool (GMAT) is a space trajectory optimization and mission analysis system (NASA)
 * [GO by ienai SPACE](https://go.ienai.space) - A software tool which allows for general design and optimization of missions with electric propulsion systems.
 * [NASA Ames Research Center Trajectory Browser](https://trajbrowser.arc.nasa.gov/traj_browser.php) - A tool to find spacecraft trajectories to planets and small-bodies
-* [nyx](https://gitlab.com/chrisrabotin/nyx) - Nyx is a high fidelity astrodynamics toolkit for mission design and orbit determination written in Rust, [validated against GMAT](https://gitlab.com/chrisrabotin/nyx/blob/master/VALIDATION.md).
+* [Nyx](https://github.com/nyx-space/nyx) - Nyx is a high fidelity astrodynamics toolkit for mission design and orbit determination in Rust and Python, used on several lunar missions.
 * [Open Space Toolkit](https://github.com/open-space-collective/open-space-toolkit) - Collection of versatile software libraries for space engineering applications (e.g., environment modeling, orbit and access computation).
 * [poliastro](https://github.com/poliastro/poliastro) - Poliastro is an open source pure Python package dedicated to problems arising in Astrodynamics and Orbital Mechanics. Focuses on interplanetary design.
-* [smd](https://github.com/ChristopherRabotin/smd) - A SPICE-enhanced continuous thrust interplanetary mission propagator and visualizer.
 * [SPICE](https://naif.jpl.nasa.gov/naif/toolkit.html) - Ephemerides library used by JPL for their missions. [SpiceyPy](https://github.com/AndrewAnnex/SpiceyPy) is a Python wrapper.
 * [SpOCK](https://github.com/deflorio/SpOCK/) - The Spacecraft Orbital Computations Kit is an open source tool for spacecraft mission analysis and simulation.
 * [Systems Tool Kit (STK)](https://www.agi.com/products/stk) - Simulate missions and create reports, graphs, and 3D animations (paid). From Analytical Graphics, Inc.
