@@ -216,6 +216,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Open Satellite Project](https://limemicro.com/community/open-satellite-project/) - Ongoing effort to develop open-source software for the receipt and decoding of satellite data using software-defined radio (SDR) hardware
 * [Phase 4 Ground](https://github.com/phase4ground) - Open source digital broadband satellite and terrestrial radio systems, part of Open Research Institute
 * [SatNOGS](https://satnogs.org/) - A global network of satellite ground stations, designed as an open source participatory project
+* [TinyGS](https://tinygs.com/) - Open network of ground stations to receive and operate LoRa satellites using cheap and versatile modules
 
 ### Mission Control
 
