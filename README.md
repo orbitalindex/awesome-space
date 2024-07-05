@@ -243,7 +243,7 @@ A curated list of space-related code, APIs, data, and other resources.
 ### Simulation
 
 * [42](https://software.nasa.gov/software/GSC-16720-1) - Attitude and trajectory simulation of Spacecraft (NASA)
-* [Basilisk](https://bitbucket.org/avslab/basilisk/src/develop/) - C/C++ astrodynamics and attitude control simulation (includes Python scripting).
+* [Basilisk](https://github.com/AVSLab/basilisk) - C/C++ astrodynamics and attitude control simulation (includes Python scripting).
 * [Gazebo](https://github.com/osrf/gazebo) - Robotics simulator often used for planetary rovers
 * [LunCo](https://lunco.space) – An open-source full-cycle  Lunar Colony & space operations sim tool for engineers and enthusiasts
 * [NOS3](https://github.com/nasa/nos3) - NASA Operational Simulator for Small Satellites
