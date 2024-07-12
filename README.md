@@ -173,7 +173,6 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [Launch Dashboard API](https://github.com/shahar603/Launch-Dashboard-API) -  Open Source REST API for rocket launch telemetry
 * [Launch Library 2](https://thespacedevs.com/llapi) - A free to use API with rocket launches, astronauts, events, etc. that application developers can use. It is the successor of the original Launch Library and Space Launch Now APIs. As it is maintained by [The Space Devs](https://thespacedevs.com/), news and support are provided on their [Discord server](https://discord.gg/wxEGcWXbsD).
-* [Space Launch Report](https://www.spacelaunchreport.com/) - Website listing launchers and their specs as well as launch reports dating back decades
 * [Unofficial SpaceX REST API](https://docs.spacexdata.com/) - Open Source REST API for rocket, core, capsule, pad, and launch data
 
 ### Solar System Data
