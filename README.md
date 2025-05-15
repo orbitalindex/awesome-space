@@ -18,6 +18,7 @@ A curated list of space-related code, APIs, data, and other resources.
   * [Space Hackathons and Challenges](#space-hackathons-and-challenges)
   * [Working Groups](#working-groups)
 * [Data](#data)
+  * [Analytics & Visualization](#analytics--visualization)
   * [Astronomy Data](#astronomy-data)
   * [Data Directories](#data-directories)
   * [Data Wrangling Tools](#data-wrangling-tools)
@@ -110,6 +111,11 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ## Data
 
+### Analytics & Visualization
+
+* [obdh.space](https://obdh.space/) - An interactive, all-in-one space data platform with charts and live statistics about satellites, launches and more, updated every day.
+* [Satcat.com](https://satcat.com) - Satcat is a web application by Kayhan Space that provides search, visualizations, and orbital design tools
+
 ### Astronomy Data
 
 * [Canadian Astronomy Data Centre](http://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/) - CADC is a Science Platform for data-intensive astronomy with many astronomy data products.
@@ -189,7 +195,6 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Celestrak](http://celestrak.com) - Celestrak is the world's oldest source for orbital element sets (and related software and educational materials).
 * [JPL's HORIZONS](https://ssd.jpl.nasa.gov/horizons.cgi) - Generate ephemerides for solar-system bodies
 * [Space Physics Data Facility](https://spdf.gsfc.nasa.gov/data_orbits.html) - Web-based services for survey and high resolution data and trajectories
-* [Satcat.com](https://satcat.com) - Satcat is a web application by Kayhan Space that provides search, visualizations, and orbital design tools
 
 ### Space News
 
