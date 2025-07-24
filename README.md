@@ -233,6 +233,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### Mission Design
 
+* [Copernicus](https://www.nasa.gov/general/copernicus/) - Copernicus, a generalized spacecraft trajectory design and optimization system, is capable of solving a wide range of trajectory problems such as planet or moon centered trajectories, libration point trajectories, planet-moon transfers and tours, and all types of interplanetary and asteroid/comet missions. (NASA)
 * [Delta V calculator for LEO/MEO/GEO injection](http://www.satsig.net/orbit-research/delta-v-geo-injection-calculator.htm)
 * [Flight Club](https://www2.flightclub.io/) - Orbital launch simulator and trajectory visualisation software
 * [FreeFlyer](https://ai-solutions.com/freeflyer/) - A software application for space mission design, analysis, and operations.
@@ -241,6 +242,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [NASA Ames Research Center Trajectory Browser](https://trajbrowser.arc.nasa.gov/traj_browser.php) - A tool to find spacecraft trajectories to planets and small-bodies
 * [Nyx](https://github.com/nyx-space/nyx) - Nyx is a high fidelity astrodynamics toolkit for mission design and orbit determination in Rust and Python, used on several lunar missions.
 * [Open Space Toolkit](https://github.com/open-space-collective/open-space-toolkit) - Collection of versatile software libraries for space engineering applications (e.g., environment modeling, orbit and access computation).
+* [OTIS](https://software.nasa.gov/software/LEW-20403-1) - Optimal Trajectories by Implicit Simulation is a general purpose 3DOF trajectory simulation and optimization software package that is focused on the optimization of aerospace vehicle trajectories and associated vehicle design parameters. (NASA)
 * [poliastro](https://github.com/poliastro/poliastro) - Poliastro is an open source pure Python package dedicated to problems arising in Astrodynamics and Orbital Mechanics. Focuses on interplanetary design.
 * [SPICE](https://naif.jpl.nasa.gov/naif/toolkit.html) - Ephemerides library used by JPL for their missions. [SpiceyPy](https://github.com/AndrewAnnex/SpiceyPy) is a Python wrapper.
 * [SpOCK](https://github.com/deflorio/SpOCK/) - The Spacecraft Orbital Computations Kit is an open source tool for spacecraft mission analysis and simulation.
