@@ -55,6 +55,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [astrometry.net](http://astrometry.net/) - "If you have astronomical imaging of the sky with celestial coordinates you do not know—or do not trust—then Astrometry.net is for you. Input an image and we'll give you back astrometric calibration meta-data, plus lists of known objects falling inside the field of view."
 * [Open Astronomy Catalog API](https://astrocats.space/) - The Open Astronomy Catalog API (OACAPI) offers a lightweight, simple way to access data available via the Open Astronomy Catalogs (e.g. the Open Supernova, Tidal Disruption, Kilonova, and Fast Stars Catalogs).
 * [SpaceXDB-Api](https://github.com/R4yGM/SpaceXDB-Api) - [SpaceXDB](https://www.spacexdb.cf) is a website containing SpaceX launch information and telemetry.
+* [Vedika](https://vedika.io) - AI-powered Vedic astrology API providing Swiss Ephemeris calculations for planetary positions, panchang (Hindu calendar), and astronomical ephemeris data in 22 languages.
 
 ### Astronomy Software
 
