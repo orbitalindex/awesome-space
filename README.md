@@ -96,6 +96,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [NewSpace Startup Legal Guide](https://www.buzko.legal/practices-eng/space#newspace-startup-legal-guide) – A guide tailored for space industry startups. It covers licensing of space activities, public-private partnerships in space, legal intricacies of launching payloads, space risk insurance, etc.
 * [NITARP](https://nitarp.ipac.caltech.edu/page/other_epo_programs) - NITARP, the NASA/IPAC Teacher Archive Research Program, gets teachers & students involved in authentic astronomical research.
+* [Project Helios](https://github.com/DmitryNasikanov/infinite-energy) - Hard sci-fi novel with a full engineering appendix designing a Mercury-based solar swarm (1.1B mirrors, mass drivers, autonomous robots). Includes detailed calculations for MRE electrolysis, orbital mechanics, and energy transmission.
 * [RDFvocab](https://github.com/chronos-pramantha/RDFvocab) - A collection of linked data ontologies (semantically linked representations) that describe astronomical and space engineering concepts. Can be used to link popular data sets like [DBPedia](https://wiki.dbpedia.org).
 * [Resources and references on the topic of space exploration](https://space.meta.stackexchange.com/questions/249/resources-and-references-on-the-topic-of-space-exploration) - StackExchange list of books, manuals, courses, and more.
 * [Space Jargon Cheatsheet](https://github.com/LunCoSim/lunco-space-jargon) – list of space-related terms and jargon
