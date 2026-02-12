@@ -244,6 +244,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Open Space Toolkit](https://github.com/open-space-collective/open-space-toolkit) - Collection of versatile software libraries for space engineering applications (e.g., environment modeling, orbit and access computation).
 * [OTIS](https://software.nasa.gov/software/LEW-20403-1) - Optimal Trajectories by Implicit Simulation is a general purpose 3DOF trajectory simulation and optimization software package that is focused on the optimization of aerospace vehicle trajectories and associated vehicle design parameters. (NASA)
 * [poliastro](https://github.com/poliastro/poliastro) - Poliastro is an open source pure Python package dedicated to problems arising in Astrodynamics and Orbital Mechanics. Focuses on interplanetary design.
+* [SPENVIS](https://www.spenvis.oma.be/) - SPENVIS is ESA's SPace ENVironment Information System, a web interface to models of the space environment and its effects; including galactic cosmic rays, solar energetic particles, natural radiation belts, plasmas, gases, meteoroids and debris.
 * [SPICE](https://naif.jpl.nasa.gov/naif/toolkit.html) - Ephemerides library used by JPL for their missions. [SpiceyPy](https://github.com/AndrewAnnex/SpiceyPy) is a Python wrapper.
 * [SpOCK](https://github.com/deflorio/SpOCK/) - The Spacecraft Orbital Computations Kit is an open source tool for spacecraft mission analysis and simulation.
 * [Systems Tool Kit (STK)](https://www.agi.com/products/stk) - Simulate missions and create reports, graphs, and 3D animations (paid). From Analytical Graphics, Inc.
@@ -268,7 +269,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Radiation Test Database](http://radwg.web.cern.ch/content/radiation-test-database) - Radiation test results for many components.
 * [SatSearch](http://satsearch.co), [CubeSatShop](https://www.cubesatshop.com/) - Search engines for satellite parts and their datasheets
 * [The AMSAT CubeSat Simulator Project](http://cubesatsim.org/) - a low cost satellite emulator that runs on solar panels and batteries, transmits UHF radio telemetry, has a 3D printed frame, and can be extended by additional sensors and modules.
-* [UPSat](https://upsat.gr/) - Open source satellite software and hardware
+* [Vesper](https://vesperastro.com) - Vesper is a free spacecraft system design & analysis toolkit, and a spacecraft hardware library.
 
 #### GNSS Receivers
 
