@@ -258,7 +258,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [NOS3](https://github.com/nasa/nos3) - NASA Operational Simulator for Small Satellites
 * [Orbital Compute](https://github.com/ShipItAndPray/orbital-compute) - Satellite constellation compute simulator with orbital mechanics, power/thermal, eclipse-aware scheduling, ISL networking, radiation, data pipeline, cost modeling, and interactive web demos.
 * [Trick](https://github.com/nasa/trick) - End-to-end physics simulation package, useful for simulating missions (but requires orbital dynamics models). C, C++, with Python (SWIG) interface.
-* [space-ml-sim](https://github.com/yaitsmesj/space-ml-sim) - Simulate radiation effects on AI inference aboard orbital satellites. PyTorch/ONNX fault injection, TMR fault tolerance, 7 chip profiles. Python.
+* [space-ml-sim](https://github.com/orbital-sim-lab/space-ml-sim) - Simulate AI inference on orbital satellite constellations under space radiation. PyTorch/ONNX fault injection, TMR & distributed fault tolerance, ground station/ISL network modeling, link budget, ECSS/MIL-STD report generation, 7 hardware chip profiles. Python.
 
 ### Spacecraft Hardware
 
