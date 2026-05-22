@@ -255,6 +255,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Basilisk](https://github.com/AVSLab/basilisk) - C/C++ astrodynamics and attitude control simulation (includes Python scripting).
 * [Gazebo](https://github.com/osrf/gazebo) - Robotics simulator often used for planetary rovers
 * [LunCo](https://lunco.space) – An open-source full-cycle  Lunar Colony & space operations sim tool for engineers and enthusiasts
+* [NodalArc](https://github.com/dotchance/nodalarc) - Satellite network emulator running real Linux routing stacks (FRR with IS-IS, OSPF, BGP, and MPLS) against moving LEO topology. Each satellite is a Linux network namespace; orbital mechanics drive interface state, link latency, and ground-station handoffs.
 * [NOS3](https://github.com/nasa/nos3) - NASA Operational Simulator for Small Satellites
 * [Orbital Compute](https://github.com/ShipItAndPray/orbital-compute) - Satellite constellation compute simulator with orbital mechanics, power/thermal, eclipse-aware scheduling, ISL networking, radiation, data pipeline, cost modeling, and interactive web demos.
 * [Trick](https://github.com/nasa/trick) - End-to-end physics simulation package, useful for simulating missions (but requires orbital dynamics models). C, C++, with Python (SWIG) interface.
