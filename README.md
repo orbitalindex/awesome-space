@@ -90,6 +90,8 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Skyfield](https://rhodesmill.org/skyfield/) - Skyfield computes positions for the stars, planets, and satellites in orbit around the Earth.
 * [Spacekit.js](https://typpo.github.io/spacekit/) - An open-source library for building interactive Javascript- and WebGL-based space visualizations.
 
+* [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring MCP server for AI agents on Solana. Verify agent wallet identity before x402 micropayments. Relevant for agentic space data pipelines where agents need verified identity. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## Community
 
 ### Learning Materials
