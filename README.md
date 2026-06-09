@@ -114,6 +114,7 @@ A curated list of space-related code, APIs, data, and other resources.
 ### Analytics & Visualization
 
 * [obdh.space](https://obdh.space/) - An interactive, all-in-one space data platform with charts and live statistics about satellites, launches and more, updated every day.
+* [Orbit Codex](https://orbitcodex.com) - An open browser-based directory of 14,000+ spaceflight entities (satellites, launches, agencies, astronauts, landing sites, missions) paired with a CesiumJS 3D viewer. Aggregates The Space Devs, JPL Horizons, CelesTrak, Space-Track, and ESA DISCOS into a single interactive interface.
 * [Satcat.com](https://satcat.com) - Satcat is a web application by Kayhan Space that provides search, visualizations, and orbital design tools
 
 ### Astronomy Data
