@@ -261,8 +261,8 @@ A curated list of space-related code, APIs, data, and other resources.
 * [NodalArc](https://github.com/dotchance/nodalarc) - Satellite network emulator running real Linux routing stacks (FRR with IS-IS, OSPF, BGP, and MPLS) against moving LEO topology. Each satellite is a Linux network namespace; orbital mechanics drive interface state, link latency, and ground-station handoffs.
 * [NOS3](https://github.com/nasa/nos3) - NASA Operational Simulator for Small Satellites
 * [Orbital Compute](https://github.com/ShipItAndPray/orbital-compute) - Satellite constellation compute simulator with orbital mechanics, power/thermal, eclipse-aware scheduling, ISL networking, radiation, data pipeline, cost modeling, and interactive web demos.
-* [Trick](https://github.com/nasa/trick) - End-to-end physics simulation package, useful for simulating missions (but requires orbital dynamics models). C, C++, with Python (SWIG) interface.
 * [space-ml-sim](https://github.com/orbital-sim-lab/space-ml-sim) - Simulate AI inference on orbital satellite constellations under space radiation. PyTorch/ONNX fault injection, TMR & distributed fault tolerance, ground station/ISL network modeling, link budget, ECSS/MIL-STD report generation, 7 hardware chip profiles. Python.
+* [Trick](https://github.com/nasa/trick) - End-to-end physics simulation package, useful for simulating missions (but requires orbital dynamics models). C, C++, with Python (SWIG) interface.
 
 ### Spacecraft Hardware
 
@@ -329,6 +329,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [satellite.js](https://github.com/shashwatak/satellite-js) - A library to make satellite propagation via TLEs possible on the web. Provides the functions necessary for SGP4/SDP4 calculations, as callable javascript. Also provides functions for coordinate transforms.
 * [SatGuard](https://github.com/cesabici-bit/satguard) - Open-source satellite conjunction assessment pipeline with SGP4 propagation, collision probability (Foster/Chan/Alfano), CDM generation, and interactive 3D CesiumJS globe. Python, MIT licensed.
 * [Space-Track.org](https://www.space-track.org/documentation#api) - Programmatic access to Two-Line Elements, Orbital Mean-Elements, satellite catalog information, space debris, and more.
+* [spacedata](https://github.com/oscarjpicazo/spacedata) - AI-friendly CLI aggregating public space data — orbital elements with derived perigee/apogee/period, satellite catalog, conjunction and launch data from CelesTrak, Space-Track and Launch Library 2 — as single JSON documents with built-in caching and upstream rate-limit protection.
 * [Where the ISS at?](https://wheretheiss.at) - Real time tracking of the International Space Station, with email push notifications for upcoming passes and a REST API for integrations.  Based on [Predict](https://github.com/shupp/Predict)
 <!-- End Links (do not remove me) -->
 
