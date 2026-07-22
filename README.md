@@ -322,6 +322,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Orbit Determination Tool Kit (ODTK)](https://www.agi.com/products/odtk) - Processes traditional and non-traditional measurements using a sequential filter & matched smoother to generate orbits with realistic covariance (paid). From Analytical Graphics, Inc.
 * [Orbital Object Toolkit](https://github.com/thkruz/ootk) - TypeScript port of python-sgp4 plus additional features for working with TLEs, satellites, and sensors.
 * [Orbital Radar](https://orbitalradar.com) - A real-time, browser-based satellite tracking and space situational awareness platform. Visualises every catalogued object in Earth orbit on an interactive 3D globe using TLE data, with constellation filtering, live re-entry forecasting, conjunction screening, and a space encyclopaedia.
+* [OrbitalWiki](https://orbitalwiki.com) - Public satellite catalog fusing CelesTrak, GCAT, and Wikidata into one source-cited dataset of ~16,000 objects, with a free REST API.
 * [Orekit](https://www.orekit.org) - An accurate and efficient core layer for space flight dynamics applications written in Java.
 * [perturb](https://github.com/gunvirranu/perturb) - A modern C++ library for SGP4 orbit propagation of TLEs
 * [Predict](https://github.com/shupp/Predict) - PHP implementation of the SGP4 and SDP4 models for prediction, based on [Gpredict](http://gpredict.oz9aec.net/)
