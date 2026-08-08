@@ -135,6 +135,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [data.nasa.gov](https://data.nasa.gov/) - Continually growing catalog of publicly available NASA datasets, APIs, visualizations, and more
 * [images.nasa.gov](https://images.nasa.gov/) - Search NASA's informational image and video archive
 * [MAST](https://archive.stsci.edu/index.html) - A NASA-funded site that provides astronomical data archives focused on scientific data sets in the optical, ultraviolet, and near-IR.
+* [Orbit Sentinel](https://www.viventine.com/orbit-sentinel/) - Searchable database and API of 950K+ space regulatory filings from the FCC, ITU, UNOOSA, and FAA-AST, with an open-source MCP server for AI-assistant access.
 * [Small Satellite Information Search](https://s3vi.ndc.nasa.gov/) - NASA's federated search portal for small spacecraft parts, technologies and conference proceedings.
 
 ### Data Wrangling Tools
