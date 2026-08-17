@@ -266,6 +266,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [NodalArc](https://github.com/dotchance/nodalarc) - Satellite network emulator running real Linux routing stacks (FRR with IS-IS, OSPF, BGP, and MPLS) against moving LEO topology. Each satellite is a Linux network namespace; orbital mechanics drive interface state, link latency, and ground-station handoffs.
 * [NOS3](https://github.com/nasa/nos3) - NASA Operational Simulator for Small Satellites
 * [Orbital Compute](https://github.com/ShipItAndPray/orbital-compute) - Satellite constellation compute simulator with orbital mechanics, power/thermal, eclipse-aware scheduling, ISL networking, radiation, data pipeline, cost modeling, and interactive web demos.
+* [Space Robotics Bench](https://github.com/AndrejOrsula/space_robotics_bench) - Simulation environments and tasks for developing and validating autonomous systems in orbital and planetary robotics scenarios.
 * [space-ml-sim](https://github.com/orbital-sim-lab/space-ml-sim) - Simulate AI inference on orbital satellite constellations under space radiation. PyTorch/ONNX fault injection, TMR & distributed fault tolerance, ground station/ISL network modeling, link budget, ECSS/MIL-STD report generation, 7 hardware chip profiles. Python.
 * [Trick](https://github.com/nasa/trick) - End-to-end physics simulation package, useful for simulating missions (but requires orbital dynamics models). C, C++, with Python (SWIG) interface.
 
