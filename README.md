@@ -311,6 +311,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [SatCat5](https://github.com/the-aerospace-corporation/satcat5) - A mixed-media Ethernet switch for connecting smallsat payloads
 * [Space ROS](https://github.com/space-ros/space-ros) - ROS 2-based framework for space robotics software, testing, and interoperability.
 * [SUCHAI FS](https://gitlab.com/spel-uchile/suchai-flight-software) - The SUCHAI Flight Software is a FOSS framework for developing flight and ground software for nanosatellites. It has been used in the SUCHAI-1, SUCHAI-2, SUCHAI-3 and PlantSat CubeSat missions.
+* [SYNOPSIS](https://github.com/NASA-AMMOS/synopsis) - NASA-AMMOS framework for onboard data-product generation and downlink prioritization, including autonomous science products and cFS integration.
 * [UPSat](https://upsat.gr/) - Open source satellite software and hardware
 
 #### Legacy
