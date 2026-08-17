@@ -309,6 +309,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [NanoSat MO Framework](http://nanosat-mo-framework.github.io) - A software framework for nanosatellites based on the latest CCSDS standards. Developed by ESA and used in OPS-SAT mission ([GitHub](https://github.com/esa/nanosat-mo-framework))
 * [OpenSatKit](https://github.com/OpenSatKit/OpenSatKit) - A complete [Core Flight System](https://github.com/nasa/cfs) training and application development environment that includes [COSMOS](https://cosmosrb.com/) and [42](https://software.nasa.gov/software/GSC-16720-1)
 * [SatCat5](https://github.com/the-aerospace-corporation/satcat5) - A mixed-media Ethernet switch for connecting smallsat payloads
+* [Space ROS](https://github.com/space-ros/space-ros) - ROS 2-based framework for space robotics software, testing, and interoperability.
 * [SUCHAI FS](https://gitlab.com/spel-uchile/suchai-flight-software) - The SUCHAI Flight Software is a FOSS framework for developing flight and ground software for nanosatellites. It has been used in the SUCHAI-1, SUCHAI-2, SUCHAI-3 and PlantSat CubeSat missions.
 * [UPSat](https://upsat.gr/) - Open source satellite software and hardware
 
