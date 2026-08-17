@@ -96,6 +96,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### Learning Materials
 
+* [Awesome Space Autonomy](https://github.com/sylvesterkaczmarek/awesome-space-autonomy) - Curated research, flight demonstrations, software, tools, and guidance for autonomous spacecraft and space robots.
 * [NewSpace Startup Legal Guide](https://www.buzko.legal/practices-eng/space#newspace-startup-legal-guide) – A guide tailored for space industry startups. It covers licensing of space activities, public-private partnerships in space, legal intricacies of launching payloads, space risk insurance, etc.
 * [NITARP](https://nitarp.ipac.caltech.edu/page/other_epo_programs) - NITARP, the NASA/IPAC Teacher Archive Research Program, gets teachers & students involved in authentic astronomical research.
 * [RDFvocab](https://github.com/chronos-pramantha/RDFvocab) - A collection of linked data ontologies (semantically linked representations) that describe astronomical and space engineering concepts. Can be used to link popular data sets like [DBPedia](https://wiki.dbpedia.org).
