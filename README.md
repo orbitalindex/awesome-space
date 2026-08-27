@@ -42,6 +42,7 @@ A curated list of space-related code, APIs, data, and other resources.
   * [Spacecraft Software](#spacecraft-software)
     * [Legacy](#legacy)
   * [Tracking & Orbit Determination](#tracking--orbit-determination)
+* [Standards & Specifications](#standards--specifications)
 <!-- End TOC (do not remove me) -->
 
 
@@ -344,6 +345,13 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Where the ISS at?](https://wheretheiss.at) - Real time tracking of the International Space Station, with email push notifications for upcoming passes and a REST API for integrations.  Based on [Predict](https://github.com/shupp/Predict)
 <!-- End Links (do not remove me) -->
 
+
+## Standards & Specifications
+
+* [Beamed Power Interface (BPI)](https://github.com/BeamDesk/beamed-power-interface) - Draft specification, explicitly not a standard, for the interface between a power-beaming spacecraft and the receiver it delivers to. Covers capability exchange, delivery scheduling, a dead-man safety interlock, metering and regulatory attestation. Ships JSON Schemas and a dated survey of why no standards body currently covers this.
+* [CCSDS](https://ccsds.org/) - The Consultative Committee for Space Data Systems, whose Blue Books define the formats most flight dynamics and ground software interoperate on, including the Orbit Data Messages (OPM/OMM/OEM/OCM), the Tracking Data Message, the Conjunction Data Message and the Space Link Extension services. Free to download.
+* [ITU Radio Regulations](https://www.itu.int/pub/R-REG-RR) - The treaty instrument governing spectrum allocation, including the Article 21 power flux-density limits that bind any space station transmitting toward Earth.
+* [SANA](https://sanaregistry.org/) - The Space Assigned Numbers Authority, the registry of identifiers and enumerations referenced by CCSDS standards.
 
 ## License
 
