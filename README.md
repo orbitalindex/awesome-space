@@ -342,6 +342,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [SIMPLETON](https://github.com/Salad109/SIMPLETON) - All-vs-all conjunction screener inspired by and validated against CelesTrak SOCRATES. Scans the entire catalog in under 30 seconds on consumer hardware.
 * [Space-Track.org](https://www.space-track.org/documentation#api) - Programmatic access to Two-Line Elements, Orbital Mean-Elements, satellite catalog information, space debris, and more.
 * [spacedata](https://github.com/oscarjpicazo/spacedata) - AI-friendly CLI aggregating public space data — orbital elements with derived perigee/apogee/period, satellite catalog, conjunction and launch data from CelesTrak, Space-Track and Launch Library 2 — as single JSON documents with built-in caching and upstream rate-limit protection.
+* [StarLeak](https://starleak.london.li) - Real-time Starlink satellite tracker (10,000+ objects), no account, no third-party trackers, self-hosted analytics.
 * [Where the ISS at?](https://wheretheiss.at) - Real time tracking of the International Space Station, with email push notifications for upcoming passes and a REST API for integrations.  Based on [Predict](https://github.com/shupp/Predict)
 <!-- End Links (do not remove me) -->
 
