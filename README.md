@@ -91,6 +91,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Rebound](https://github.com/hannorein/rebound) - A multi-purpose N-body integrator
 * [Skyfield](https://rhodesmill.org/skyfield/) - Skyfield computes positions for the stars, planets, and satellites in orbit around the Earth.
 * [Spacekit.js](https://typpo.github.io/spacekit/) - An open-source library for building interactive Javascript- and WebGL-based space visualizations.
+* [star_timescales](https://github.com/Andrea07072000/S.T.A.R.-) - Python library for UTC, TAI, TT and GPS time, GPS weeks and CCSDS CUC time codes, with an explicit leap-second validity domain; cross-checked against ERFA.
 
 ## Community
 
