@@ -187,6 +187,8 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [Launch Dashboard API](https://github.com/shahar603/Launch-Dashboard-API) -  Open Source REST API for rocket launch telemetry
 * [Launch Library 2](https://thespacedevs.com/llapi) - A free to use API with rocket launches, astronauts, events, etc. that application developers can use. It is the successor of the original Launch Library and Space Launch Now APIs. As it is maintained by [The Space Devs](https://thespacedevs.com/), news and support are provided on their [Discord server](https://discord.gg/wxEGcWXbsD).
+
+* [Calder Brief — Space Hub](https://calder-brief.pages.dev/space-hub.html) - News and explainers on Artemis, the ISS, and the new space race.
 * [Launches and the satellites they carried](https://mcval.org/launches/data) - Every orbital and suborbital launch since Sputnik and every payload in CelesTrak's catalogue, each satellite linked to its launch by COSPAR number, with users and operators from GCAT. Two CSVs, CC BY 4.0, rebuilt weekly.
 * [RocketLaunch.Live](https://www.rocketlaunch.live/api) - JSON API of upcoming and past rocket launches, hand-curated in real time, with launch windows, vehicles, pads, missions, and est. dates for unscheduled launches. Free tier returns the next 5 launches.
 * [Unofficial SpaceX REST API](https://docs.spacexdata.com/) - Open Source REST API for rocket, core, capsule, pad, and launch data
@@ -210,6 +212,8 @@ A curated list of space-related code, APIs, data, and other resources.
 ### Space News
 
 * [Spaceflight News API](https://spaceflightnewsapi.net/) - A free to use API with space-related news articles that application developers can use. As it is maintained by [The Space Devs](https://thespacedevs.com/), news and support are provided on their [Discord server](https://discord.gg/wxEGcWXbsD).
+
+* [Calder Brief — Space Hub](https://calder-brief.pages.dev/space-hub.html) - News and explainers on Artemis, the ISS, and the new space race.
 
 ## Spacecraft
 
