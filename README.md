@@ -55,7 +55,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [astrometry.net](http://astrometry.net/) - "If you have astronomical imaging of the sky with celestial coordinates you do not know—or do not trust—then Astrometry.net is for you. Input an image and we'll give you back astrometric calibration meta-data, plus lists of known objects falling inside the field of view."
 * [Markarian Multiwavelength Data Center (MMDC)](https://mmdc.am/) - Multiwavelength SEDs and light curves of blazars from archival catalogues and new Swift, NuSTAR and Fermi-LAT analyses, with a REST API, a Python client ([astro-mmdc](https://github.com/icranet/astro-mmdc)) and SSC/EIC/hadronic modeling.
 * [Open Astronomy Catalog API](https://astrocats.space/) - The Open Astronomy Catalog API (OACAPI) offers a lightweight, simple way to access data available via the Open Astronomy Catalogs (e.g. the Open Supernova, Tidal Disruption, Kilonova, and Fast Stars Catalogs).
-* [SpaceXDB-Api](https://github.com/R4yGM/SpaceXDB-Api) - [SpaceXDB](https://www.spacexdb.cf) is a website containing SpaceX launch information and telemetry.
+* [SpaceXDB-Api](https://github.com/R4yGM/SpaceXDB-Api) - [SpaceXData](https://docs.spacexdata.com/) is a community API with SpaceX launch information and telemetry.
 
 ### Astronomy Software
 
@@ -70,18 +70,18 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Celestia](https://celestia.space/) - Free real-time 3D visualization of space. (See also [Celestia Motherlode](http://www.celestiamotherlode.net/) for many add-ons.)
 * [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps
 * [Cosmic Timeline](https://cosmic-timeline.netlify.app/) - Interactive journey through the history of the universe, from the Planck epoch to today, with the physical values at each instant computed from the Planck 2018 cosmological model.
-* [Gaia Sky](https://zah.uni-heidelberg.de/institutes/ari/gaia/outreach/gaiasky/) - Real-time, 3D, astronomy visualization software developed in the framework of ESA's Gaia mission. Runs on Windows, Linux and macOS.
+* [Gaia Sky](https://gaiasky.space/) - Real-time, 3D, astronomy visualization software developed in the framework of ESA's Gaia mission. Runs on Windows, Linux and macOS.
 * [Harmony of the Spheres](https://github.com/TheHappyKoala/Harmony-of-the-Spheres) - Newtonian gravity and space simulator that runs in your browser
 * [KStars](https://edu.kde.org/kstars/) - KStars is free, open source, cross-platform astronomy software. It provides many features, including a graphical simulation of the night sky, observing planner, a sky calendar tool, an FOV editor, and more.
 * [LeoLabs Visualization](https://platform.leolabs.space/visualization) - Low Earth Orbit Catalog Visualization.
 * [Mars Now](https://mars.nasa.gov/explore/mars-now/) - This visualization shows the current location and communication activity of all operating landers, rovers and orbiters at Mars that transmit data to Earth via NASA’s Mars Relay Network.
 * [NASA Eyes](https://eyes.nasa.gov/) - Immersible apps to explore the Earth and solar system
-* [Orb Viewer](https://parsecsreach.com/orbviewer) - Visualization of all the asteroids in the MPC database.
+* [JPL Orbit Viewer](https://ssd.jpl.nasa.gov/tools/orbit_viewer.html) - Visualization of asteroid and small-body orbits from NASA JPL.
 * [Orbit Simulator](http://www.orbitsimulator.com/gravity/articles/what.html) - A powerful numerical integration tool. "By performing n-body simulations, you can study the orbits of planets, moons, asteroids, or any object in the universe."
-* [Orbiter 2016](http://orbit.medphys.ucl.ac.uk/) - Open source spaceflight simulator with many addons for historical missions. [Installation Instructions.](https://www.reddit.com/r/Orbiter/comments/mx2mjz/guide_for_beginners_to_orbiter/)
+* [OpenOrbiter](https://github.com/orbitersim/orbiter) - Open source spaceflight simulator with many addons for historical missions (community-maintained fork of Orbiter). [Installation Instructions.](https://www.reddit.com/r/Orbiter/comments/mx2mjz/guide_for_beginners_to_orbiter/)
 * [Overhead](https://overheadexplorer.com/) - A browser-based real-time night sky map and interactive 3D rocket explorer (Saturn V, Artemis II, Falcon 9), part of a combined astronautics/aviation tracking site.
 * [Solar Wanderer](https://sw.icodestar.net) - A 1:1 real-time, browser-based solar system explorer using NASA JPL ephemerides. Seamless landing from orbit to walking on the surface, ray-marched atmospheres, and coverage out to the Oort Cloud. ([source](https://github.com/hyqzz/Solar-Wanderer))
-* [SpaceEngine](https://spaceengine.org) : Realistic universe simulator and planetarium. Old versions are [free](http://old.spaceengine.org/load/old_versions/4).
+* [SpaceEngine](https://spaceengine.org) : Realistic universe simulator and planetarium.
 * [Stellarium](http://stellarium.org/) - Open source planetarium for your computer
 
 ### SDKs &amp; Software Development Tools
@@ -144,7 +144,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### Data Wrangling Tools
 
-* [orbital-cotwo-web](https://github.com/chronos-pramantha/orbital-cotwo-web) - A data processing pipeline and web server that can dump [HDF5](https://earthdata.nasa.gov/esdis/eso/standards-and-references/hdf5) files from NASA's [Orbital Carbon Observatory 2](https://www.nasa.gov/mission_pages/oco2/index.html) mission into an SQL database.
+* [orbital-cotwo-web](https://github.com/chronos-pramantha/orbital-cotwo-web) - A data processing pipeline and web server that can dump [HDF5](https://earthdata.nasa.gov/about/esdis/esco/standards-practices/hdf5) files from NASA's [Orbital Carbon Observatory 2](https://science.nasa.gov/mission/oco-2/) mission into an SQL database.
 * [pyspaceweather](https://github.com/ben-n93/pyspaceweather) - A Python wrapper for getting space weather data from Australia's Bureau of Meteorology.
 
 ### Earth
@@ -164,7 +164,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Maxar Open Data Program](https://www.maxar.com/open-data/) - Maxar releases limited open data during major crisis events.
 * [MetaEarth](https://github.com/bair-climate-initiative/metaearth) - Download any remote sensing data from any provider using a single config.
 * [Moonshine](https://moonshineai.readthedocs.io) - Machine learning models pretrained on remote sensing data.
-* [NASA Land-Cover and Land-Use Change (LCLUC) Program](http://lcluc.umd.edu/content/data-initiatives)
+* [NASA Land-Cover and Land-Use Change (LCLUC) Program](https://lcluc.umd.edu/)
 * [National Environmental Satellite Data and Information Service](https://www.nesdis.noaa.gov/) - Explore NOAA satellite maps and imagery in 2D and 3D.
 * [NOAA Data Access Viewer](https://coast.noaa.gov/dataviewer/#/)
 * [Office for Coastal Management's Digital Coast](https://coast.noaa.gov/digitalcoast/data/)
@@ -174,7 +174,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [USGS EarthExplorer](https://earthexplorer.usgs.gov/) - A tool that provides users the ability to query, search, and retrieve satellite images, aerial photographs, and cartographic products from several sources
 * [Visible Earth](https://visibleearth.nasa.gov/) - A catalog of NASA images and animations of our home planet
 * [Worldview](https://worldview.earthdata.nasa.gov/) - A NASA app that provides the capability to interactively browse over 800 global, full-resolution satellite imagery layers and then download the underlying data
-* [Yale's Center for Earth Observation](https://yceo.yale.edu/image-sources) - A directory of imagry and data sources.
+* [Yale Center for Geospatial Solutions](https://geospatial.yale.edu/find-data) - A directory of imagry and data sources.
 
 ### Extrasolar Planets
 
@@ -231,7 +231,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [FoxTelem](https://www.g0kla.com/foxtelem/) - FoxTelem is used by a network of ground stations to retrieve the telemetry and experiment data from the Fox Satellites.
 * [GRID](https://www.gridgs.com/) - Commercial network of satellite groundstations with simple to use [Python SDK](https://github.com/5OKB/grid-python-sdk).
-* [Open Satellite Project](https://limemicro.com/community/open-satellite-project/) - Ongoing effort to develop open-source software for the receipt and decoding of satellite data using software-defined radio (SDR) hardware
+* [Open Satellite Project](https://github.com/opensatelliteproject/OpenSatelliteProject) - Ongoing effort to develop open-source software for the receipt and decoding of satellite data using software-defined radio (SDR) hardware
 * [Phase 4 Ground](https://github.com/phase4ground) - Open source digital broadband satellite and terrestrial radio systems, part of Open Research Institute
 * [SatNOGS](https://satnogs.org/) - A global network of satellite ground stations, designed as an open source participatory project
 * [TinyGS](https://tinygs.com/) - Open network of ground stations to receive and operate LoRa satellites using cheap and versatile modules
@@ -247,7 +247,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [Copernicus](https://www.nasa.gov/general/copernicus/) - Copernicus, a generalized spacecraft trajectory design and optimization system, is capable of solving a wide range of trajectory problems such as planet or moon centered trajectories, libration point trajectories, planet-moon transfers and tours, and all types of interplanetary and asteroid/comet missions. (NASA)
 * [Delta V calculator for LEO/MEO/GEO injection](http://www.satsig.net/orbit-research/delta-v-geo-injection-calculator.htm)
-* [Flight Club](https://www2.flightclub.io/) - Orbital launch simulator and trajectory visualisation software
+* [Flight Club](https://www.flightclub.io/) - Orbital launch simulator and trajectory visualisation software
 * [FreeFlyer](https://ai-solutions.com/freeflyer/) - A software application for space mission design, analysis, and operations.
 * [GMAT](https://sourceforge.net/projects/gmat/) - The General Mission Analysis Tool (GMAT) is a space trajectory optimization and mission analysis system (NASA)
 * [GO by ienai SPACE](https://go.ienai.space) - A software tool which allows for general design and optimization of missions with electric propulsion systems.
@@ -277,8 +277,8 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### Spacecraft Hardware
 
-* [FossaSat-1](https://fossa.systems/fossasat/) - Hardware designs and software for the FossaSat-1 Pocketqube satellite ([GitHub](https://github.com/Bambofy/FossaSat-1))
-* [NASA Outgassing Db](https://data.nasa.gov/resource/r588-f7pr.json) - A dataset of materials intended for spacecraft use from the Goddard Space Flight Center, the Stanford Research Institute, and the Jet Propulsion Laboratory.
+* [FossaSat-1](https://fossa.systems/our-history/) - Hardware designs and software for the FossaSat-1 Pocketqube satellite ([GitHub](https://github.com/Bambofy/FossaSat-1))
+* [NASA Outgassing Db](https://etd.gsfc.nasa.gov/capabilities/outgassing-database/) - A dataset of materials intended for spacecraft use from the Goddard Space Flight Center, the Stanford Research Institute, and the Jet Propulsion Laboratory.
 * [Oresat](https://github.com/oresat) - An open source cubesat developed at Oregon Small Satellite Project.
 * [ProjectInertia](https://github.com/chrismolli/ProjectInertia) - An open source hardware platform to achieve a FRAM-based radiation-tolerant microcontroller for space application. The firmware is being developed in Rust.
 * [PyCubed](https://www.notion.so/PyCubed-4cbfac7e9b684852a2ab2193bd485c4d) - An Open-Source, Radiation-Tested CubeSat Framework Programmable Entirely in Python.
@@ -306,7 +306,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [cFS Basecamp](https://github.com/cfs-tools/cfs-basecamp) - Provides a lightweight environment to help you learn NASA’s cFS and create app-based solutions for your projects. The built-in hands-on tutorials shorten the path to productivity.
 * [Core Flight System](https://github.com/nasa/cfs) - NASA portable and extendable flight software framework with extensive flight heritage and a growing suite of applications and platform ports
-* [FossaSat-1](https://fossa.systems/fossasat/) - Hardware designs and software for the FossaSat-1 Pocketqube satellite ([GitHub](https://github.com/Bambofy/FossaSat-1))
+* [FossaSat-1](https://fossa.systems/our-history/) - Hardware designs and software for the FossaSat-1 Pocketqube satellite ([GitHub](https://github.com/Bambofy/FossaSat-1))
 * [JPL F Prime](https://github.com/nasa/fprime) - F Prime (FÊ¹) is a component-driven framework that enables rapid development and deployment of spaceflight and other embedded software applications, originally developed at the Jet Propulsion Laboratory.
 * [KubOS](https://www.kubos.com/kubos/) - An open-source flight software framework for satellites
 * [LibreCube](https://librecube.org/) - Open source space and Earth exploration. Defining a generic architecture of system of systems that have standardized interfaces makes it possible to combine and reuse elements for various applications
