@@ -210,6 +210,7 @@ A curated list of space-related code, APIs, data, and other resources.
 ### Space News
 
 * [Spaceflight News API](https://spaceflightnewsapi.net/) - A free to use API with space-related news articles that application developers can use. As it is maintained by [The Space Devs](https://thespacedevs.com/), news and support are provided on their [Discord server](https://discord.gg/wxEGcWXbsD).
+* [Calder Brief - Space Hub](https://calder-brief.pages.dev/space-hub.html) - Daily space news hub covering NASA, Artemis, launches, and commercial spaceflight.
 
 ## Spacecraft
 
