@@ -146,6 +146,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [orbital-cotwo-web](https://github.com/chronos-pramantha/orbital-cotwo-web) - A data processing pipeline and web server that can dump [HDF5](https://earthdata.nasa.gov/esdis/eso/standards-and-references/hdf5) files from NASA's [Orbital Carbon Observatory 2](https://www.nasa.gov/mission_pages/oco2/index.html) mission into an SQL database.
 * [pyspaceweather](https://github.com/ben-n93/pyspaceweather) - A Python wrapper for getting space weather data from Australia's Bureau of Meteorology.
+* [SETU](https://github.com/pragyaangaur/SETU) - Forecasts geomagnetically induced currents in the North East Indian power grid from space weather data. Its live nowcast issued 114 forecasts with no false alarms.
 
 ### Earth
 
