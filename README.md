@@ -179,6 +179,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### Extrasolar Planets
 
+* [exostab](https://github.com/mimitoz62/exostab) - Hill spacing, angular momentum deficit and N-body (REBOUND/MEGNO) stability indicators for known multi-planet systems from the NASA Exoplanet Archive
 * [Kepler Confirmed Planets Information](https://archive.stsci.edu/kepler/published_planets/search.php)
 * [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/docs/data.html)
 * [Open Exoplanet Catalogue](http://www.openexoplanetcatalogue.com/) - an open source database of all discovered extrasolar planets
