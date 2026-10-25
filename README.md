@@ -56,6 +56,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Markarian Multiwavelength Data Center (MMDC)](https://mmdc.am/) - Multiwavelength SEDs and light curves of blazars from archival catalogues and new Swift, NuSTAR and Fermi-LAT analyses, with a REST API, a Python client ([astro-mmdc](https://github.com/icranet/astro-mmdc)) and SSC/EIC/hadronic modeling.
 * [Open Astronomy Catalog API](https://astrocats.space/) - The Open Astronomy Catalog API (OACAPI) offers a lightweight, simple way to access data available via the Open Astronomy Catalogs (e.g. the Open Supernova, Tidal Disruption, Kilonova, and Fast Stars Catalogs).
 * [SpaceXDB-Api](https://github.com/R4yGM/SpaceXDB-Api) - [SpaceXDB](https://www.spacexdb.cf) is a website containing SpaceX launch information and telemetry.
+* [Sunrise Sunset API](https://sunrise-sunset.org/api) - Free REST API with sunrise, sunset, civil, nautical and astronomical twilight, solar position, moonrise and moon phase for any coordinates and date, with no key and date ranges of up to 366 days.
 
 ### Astronomy Software
 
