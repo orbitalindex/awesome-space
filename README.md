@@ -81,6 +81,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Orbiter 2016](http://orbit.medphys.ucl.ac.uk/) - Open source spaceflight simulator with many addons for historical missions. [Installation Instructions.](https://www.reddit.com/r/Orbiter/comments/mx2mjz/guide_for_beginners_to_orbiter/)
 * [Overhead](https://overheadexplorer.com/) - A browser-based real-time night sky map and interactive 3D rocket explorer (Saturn V, Artemis II, Falcon 9), part of a combined astronautics/aviation tracking site.
 * [Solar Wanderer](https://sw.icodestar.net) - A 1:1 real-time, browser-based solar system explorer using NASA JPL ephemerides. Seamless landing from orbit to walking on the surface, ray-marched atmospheres, and coverage out to the Oort Cloud. ([source](https://github.com/hyqzz/Solar-Wanderer))
+* [Space Radar](https://www.spaceradar.ai/) - Open-source 3D map of space in the browser: about 17,000 tracked satellites propagated with SGP4 from public elements, the planets and 21 moons, 109,000 stars and 30 narrated trips, with every picture labelled as measured, modelled or illustrative. ([source](https://github.com/Sara-Managed-Projects/space-radar))
 * [SpaceEngine](https://spaceengine.org) : Realistic universe simulator and planetarium. Old versions are [free](http://old.spaceengine.org/load/old_versions/4).
 * [Stellarium](http://stellarium.org/) - Open source planetarium for your computer
 
