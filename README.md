@@ -204,6 +204,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Planetary Atlas](https://planetatlas.org) - Zoomable maps of 14 worlds built from open NASA, USGS, ESA and JAXA imagery, with IAU nomenclature and surface mission landing sites
 * [planetary-dem-to-stl](https://github.com/SimplySolid3D/planetary-dem-to-stl) - Turns any area of the Moon or Mars into a 3D-printable STL from NASA LOLA and MOLA elevation data
 * [PSR-Net](https://psr-net.vercel.app/psr/) - Recovers terrain inside the Moon's permanently shadowed craters from Chandrayaan-2 OHRC images, with a seven-stage pipeline and a trained network that run in the browser ([source](https://github.com/AtharvaLakhe/PSR-Net))
+* [SpaceMiningData](https://spaceminingdata.com/) - Source-linked records of space-resource missions, companies and laws, separating what has been demonstrated from what is only planned, with CSV and JSON downloads and a 3D Moon.
 
 #### Orbits
 
