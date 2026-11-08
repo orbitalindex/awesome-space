@@ -1,0 +1,109 @@
+---
+import { PlusIcon } from "@heroicons/react/16/solid";
+import ContributeActions from "../components/ContributeActions.astro";
+import Directory from "../components/Directory";
+import GitHubMark from "../components/GitHubMark.astro";
+import Logo from "../components/Logo.astro";
+import Layout from "../layouts/Layout.astro";
+import { loadDirectory, UPSTREAM_REPO } from "../lib/source";
+
+const directory = await loadDirectory();
+const sectionCount = directory.sections.filter((s) => s.depth > 2).length;
+const contributeUrl = `${UPSTREAM_REPO}/blob/master/contributing.md`;
+const siteRepo = "https://github.com/StivenKN/awesome-space-index";
+const base = import.meta.env.BASE_URL.replace(/\/?$/, "/");
+const builtOn = new Date().toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric", timeZone: "UTC" });
+
+const stats = [
+  { value: directory.entries.length, label: "resources" },
+  { value: directory.categories.length, label: "categories" },
+  { value: sectionCount, label: "sections" },
+];
+---
+
+<Layout
+  title="Awesome Space · Code, data and APIs for space"
+  description={`Search ${directory.entries.length} curated open resources for astronomy, Earth observation, mission design and spacecraft engineering, from The Orbital Index's Awesome Space list.`}
+>
+  <header class="mx-auto flex h-14 max-w-6xl items-center justify-between px-4 sm:px-6">
+    <a href={base} class="flex items-center gap-2 text-[15px] font-semibold tracking-[-0.01em]">
+      <Logo class="size-5" />
+      Awesome Space
+    </a>
+    <nav class="flex items-center gap-1 text-[13px] font-medium text-muted">
+      <a href={UPSTREAM_REPO} class="flex items-center gap-1.5 rounded-md px-2.5 py-1.5 transition-colors hover:text-fg">
+        <GitHubMark class="size-4" />
+        GitHub
+      </a>
+      <a
+        href={contributeUrl}
+        class="flex items-center gap-1 rounded-lg bg-fg px-3 py-1.5 text-bg transition-opacity hover:opacity-85"
+      >
+        <PlusIcon aria-hidden className="size-3.5" />
+        Submit
+      </a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="relative isolate overflow-hidden">
+      <div aria-hidden="true" class="pointer-events-none absolute inset-x-0 top-0 -z-10 h-[560px] [mask-image:linear-gradient(to_bottom,black_40%,transparent)]">
+        <div class="absolute left-1/2 top-[-180px] h-[520px] w-[900px] -translate-x-1/2 rounded-full bg-[radial-gradient(closest-side,var(--glow),transparent)]"></div>
+        <svg viewBox="0 0 1200 400" class="absolute left-1/2 top-6 w-[1200px] max-w-none -translate-x-1/2 text-line-strong">
+          <path d="M 40 200 A 560 150 0 1 0 1160 200 A 560 150 0 1 0 40 200" fill="none" stroke="currentColor" stroke-dasharray="2 6"></path>
+          <ellipse cx="600" cy="200" rx="380" ry="96" fill="none" stroke="currentColor" opacity="0.6"></ellipse>
+          <circle r="3.5" class="satellite" fill="var(--accent)"></circle>
+        </svg>
+      </div>
+
+      <div class="mx-auto max-w-6xl px-4 pb-16 pt-20 sm:px-6 sm:pb-20 sm:pt-28">
+        <h1 class="max-w-3xl text-[2.75rem] font-semibold leading-[1.02] tracking-[-0.045em] text-balance sm:text-7xl">
+          Code, data and APIs for exploring space.
+        </h1>
+        <p class="mt-6 max-w-xl text-lg leading-7 text-muted text-pretty">
+          A community list of open resources for astronomy, Earth observation, mission design and spacecraft
+          engineering. Search it, browse by section, or submit what's missing.
+        </p>
+        <ContributeActions contributeUrl={contributeUrl} class="mt-8" />
+        <dl class="mt-12 flex gap-6 text-sm sm:gap-10">
+          {
+            stats.map((stat) => (
+              <div class="flex items-baseline gap-1.5">
+                <dt class="order-last text-muted">{stat.label}</dt>
+                <dd class="text-2xl font-semibold tabular-nums tracking-[-0.03em] text-fg">{stat.value}</dd>
+              </div>
+            ))
+          }
+        </dl>
+      </div>
+    </section>
+
+    <Directory client:load {...directory} contributeUrl={contributeUrl}>
+      <section aria-labelledby="contribute-title" class="mx-4 rounded-2xl border border-line bg-surface p-6 sm:p-8">
+        <h2 id="contribute-title" class="text-2xl font-semibold tracking-[-0.025em] text-balance">
+          Know a resource the list is missing?
+        </h2>
+        <p class="mt-2 max-w-xl text-[15px] leading-6 text-muted text-pretty">
+          The list lives on GitHub and grows through pull requests. Once a pull request to orbitalindex/awesome-space is
+          merged, the resource shows up here after the next daily rebuild.
+        </p>
+        <ContributeActions contributeUrl={contributeUrl} class="mt-6" />
+      </section>
+    </Directory>
+  </main>
+
+  <footer class="border-t border-line">
+    <div class="mx-auto flex max-w-6xl flex-col gap-4 px-4 py-10 text-[13px] text-muted sm:flex-row sm:items-center sm:justify-between sm:px-6">
+      <p class="flex items-center gap-2">
+        <Logo class="size-4 text-fg" />
+        <span>
+          Content from <a href={UPSTREAM_REPO} class="text-fg hover:underline">orbitalindex/awesome-space</a>, released
+          under <a href="https://creativecommons.org/publicdomain/zero/1.0/" class="text-fg hover:underline">CC0</a>.
+        </span>
+      </p>
+      <p>
+        Built {builtOn} · <a href={siteRepo} class="text-fg hover:underline">Site source</a>
+      </p>
+    </div>
+  </footer>
+</Layout>

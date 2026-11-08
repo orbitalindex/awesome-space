@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none">
+  <style>.p{fill:#0d0e10}.o{stroke:#0d0e10}@media (prefers-color-scheme:dark){.p{fill:#f4f5f6}.o{stroke:#f4f5f6}}</style>
+  <circle class="p" cx="12" cy="12" r="4.25"/>
+  <ellipse class="o" cx="12" cy="12" rx="10.25" ry="4.5" transform="rotate(-24 12 12)" stroke-width="1.5" opacity=".5"/>
+  <circle cx="20.4" cy="7.6" r="1.8" fill="#f07a26"/>
+</svg>
