@@ -10,7 +10,7 @@ import { loadDirectory, UPSTREAM_REPO } from "../lib/source";
 const directory = await loadDirectory();
 const sectionCount = directory.sections.filter((s) => s.depth > 2).length;
 const contributeUrl = `${UPSTREAM_REPO}/blob/master/contributing.md`;
-const siteRepo = "https://github.com/StivenKN/awesome-space-index";
+const siteSource = `${UPSTREAM_REPO}/tree/master/site`;
 const base = import.meta.env.BASE_URL.replace(/\/?$/, "/");
 const builtOn = new Date().toLocaleDateString("en-US", { month: "short", day: "numeric", year: "numeric", timeZone: "UTC" });
 
@@ -84,8 +84,8 @@ const stats = [
           Know a resource the list is missing?
         </h2>
         <p class="mt-2 max-w-xl text-[15px] leading-6 text-muted text-pretty">
-          The list lives on GitHub and grows through pull requests. Once a pull request to orbitalindex/awesome-space is
-          merged, the resource shows up here after the next daily rebuild.
+          The list lives on GitHub and grows through pull requests. When a pull request to orbitalindex/awesome-space is
+          merged, the site rebuilds and the resource shows up here a few minutes later.
         </p>
         <ContributeActions contributeUrl={contributeUrl} class="mt-6" />
       </section>
@@ -102,7 +102,7 @@ const stats = [
         </span>
       </p>
       <p>
-        Built {builtOn} · <a href={siteRepo} class="text-fg hover:underline">Site source</a>
+        Built {builtOn} · <a href={siteSource} class="text-fg hover:underline">Site source</a>
       </p>
     </div>
   </footer>

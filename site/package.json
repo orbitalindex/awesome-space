@@ -1,5 +1,6 @@
 {
-  "name": "awesome-space-index",
+  "name": "awesome-space-site",
+  "private": true,
   "type": "module",
   "version": "0.0.1",
   "engines": {

@@ -13,4 +13,6 @@ Please make sure that your pull request follows the following guidelines:
 - Make sure your text editor is set to remove trailing whitespace.
 - New categories, or improvements to the existing categories, are encouraged. (After adding your links, you can optionally run `ruby ./bin/reformat.rb` to regenerate the table of contents and ensure correct sorting.)
 
+Pull requests run a check named "Site" that builds the [website](https://orbitalindex.github.io/awesome-space/) from your change. For a first-time contributor, it runs once a maintainer approves it. If it fails, its log shows the line the site could not read. Entries need a link and must sit under a `###` or `####` section, so a new `##` category needs at least one `###` section.
+
 Thank you for contributing!
