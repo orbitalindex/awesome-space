@@ -52,7 +52,8 @@ export default function Directory({ categories, sections, entries, contributeUrl
 
   // When the user's own filter change shrinks the list under a scrolled page,
   // bring the first result up to just below the toolbar. State restored from
-  // the URL on load does not count; useUrlState restores the #section instead.
+  // the URL, on load or on Back and Forward, does not count; useUrlState
+  // restores the #section instead.
   const userChanged = useRef(false);
   const changeQuery = (value: string) => {
     if (value.trim() !== query.trim()) userChanged.current = true;
@@ -350,19 +351,20 @@ type UrlState = {
 };
 
 /**
- * Reads ?q= and ?category= once after hydration, then mirrors state back with
- * replaceState. The write effect skips its first run, which still sees the
- * pre-URL state and would otherwise strip the params before they apply.
+ * Reads ?q= and ?category= after hydration and again on Back and Forward, then
+ * mirrors state back with replaceState. The write effect skips its first run,
+ * which still sees the pre-URL state and would otherwise strip the params
+ * before they apply.
  *
- * The browser scrolls to a #section in the full server-rendered list, before
- * the filter shortens it. So when the URL also filters, scroll to the hash
- * again once the filtered list has rendered.
+ * The browser scrolls to a #section before the URL's filters change the list.
+ * On load that is the full server-rendered list. So when the URL changes the
+ * filters, scroll to the hash again once the new list has rendered.
  */
 function useUrlState({ query, setQuery, category, setCategory, categories, settled }: UrlState) {
   const ready = useRef(false);
   const pendingHash = useRef<string | undefined>(undefined);
 
-  // Declared before the read effect so the mount commit, which still shows the full list, skips it.
+  // Declared before the read effects so the mount commit, which still shows the full list, skips it.
   useEffect(() => {
     if (!pendingHash.current || !settled) return;
     // Section ids are ASCII slugs, so the raw hash needs no decoding (which can throw).
@@ -373,15 +375,26 @@ function useUrlState({ query, setQuery, category, setCategory, categories, settl
     pendingHash.current = undefined;
   }, [settled, query, category]);
 
-  useEffect(() => {
+  // Applies the URL's filters when they differ from the current ones. A missing or unknown category means all.
+  const restore = () => {
     const params = new URLSearchParams(window.location.search);
     const q = params.get("q") ?? "";
     const fromUrl = params.get("category");
-    const validCategory = fromUrl && categories.some((c) => c.id === fromUrl) ? fromUrl : undefined;
+    const urlCategory = fromUrl && categories.some((c) => c.id === fromUrl) ? fromUrl : ALL;
+    if (q.trim() === query.trim() && urlCategory === category) return;
     setQuery(q);
-    if (validCategory) setCategory(validCategory);
-    if ((q.trim() || validCategory) && window.location.hash) pendingHash.current = window.location.hash.slice(1);
-  }, []);
+    setCategory(urlCategory);
+    if (window.location.hash) pendingHash.current = window.location.hash.slice(1);
+  };
+
+  useEffect(restore, []);
+
+  // A section link adds a history entry, so Back and Forward can land on an entry with other filters.
+  // Subscribed again on each change so `restore` compares against the current filters.
+  useEffect(() => {
+    window.addEventListener("popstate", restore);
+    return () => window.removeEventListener("popstate", restore);
+  }, [query, category]);
 
   useEffect(() => {
     if (!ready.current) {
