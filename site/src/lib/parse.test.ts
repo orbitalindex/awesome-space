@@ -98,14 +98,17 @@ describe("parseReadme", () => {
     expect(parseReadme(withDash).entries).toHaveLength(9);
   });
 
-  it("fails loudly on a link it would otherwise drop", () => {
+  it("fails loudly on text it would otherwise drop", () => {
     const prose = readme.replace("* [AstroPy]", "See [AstroPy]");
     expect(() => parseReadme(prose)).toThrow(/outside a bullet/);
+    const wrapped = readme.replace("Realistic universe simulator.", "Realistic universe\n  simulator.");
+    expect(() => parseReadme(wrapped)).toThrow(/outside a bullet:   simulator\./);
   });
 
   it("fails loudly on headings and bullets it cannot place", () => {
     expect(() => parseReadme(readme.replace("#### Visualization", "##### Visualization"))).toThrow(/heading level/);
     expect(() => parseReadme(readme.replace("### General Software", ""))).toThrow(/outside a ###/);
+    expect(() => parseReadme(readme.replace("## Astronomy", ""))).toThrow(/outside a ## category/);
   });
 
   it("fails loudly on a bullet without a link", () => {

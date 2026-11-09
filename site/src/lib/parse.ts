@@ -171,8 +171,10 @@ const LINKS_END = "<!-- End Links";
  * Parses the Awesome Space README into categories, sections and entries.
  * Only reads the region between the "Start Links" and "End Links" markers.
  * Throws on anything it would otherwise drop or misfile: a bullet without a
- * link, a link outside a bullet, a heading outside ## to ####, and a bullet
- * directly under a ## category (the page renders entries by section).
+ * link, text outside a bullet (such as a description wrapped onto a second
+ * line), a heading outside ## to ####, a section before the first ## category,
+ * and a bullet directly under a ## category. The page renders entries by
+ * section, and sections by category.
  */
 export function parseReadme(markdown: string): Directory {
   const startIndex = markdown.indexOf(LINKS_START);
@@ -202,6 +204,7 @@ export function parseReadme(markdown: string): Directory {
       const title = decode(heading[2]);
       const id = uniqueId(slugify(title));
       trail.length = Math.min(trail.length, depth - 2);
+      if (depth > 2 && trail.length === 0) throw new Error(`Section outside a ## category: ${line}`);
       const parent = trail.at(-1);
       current = {
         id,
@@ -220,8 +223,9 @@ export function parseReadme(markdown: string): Directory {
 
     const bullet = /^\s*[-*+]\s+(.+)$/.exec(line);
     if (!bullet) {
-      if (line.includes("](")) throw new Error(`Link outside a bullet: ${line}`);
-      continue;
+      // Blank lines and one-line HTML comments, such as the Links markers, are the only other lines allowed.
+      if (line.trim() === "" || /^\s*<!--.*-->\s*$/.test(line)) continue;
+      throw new Error(`Text outside a bullet: ${line}`);
     }
     if (!current || current.depth === 2) throw new Error(`Entry outside a ### or #### section: ${line}`);
 
