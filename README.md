@@ -142,6 +142,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [MAST](https://archive.stsci.edu/index.html) - A NASA-funded site that provides astronomical data archives focused on scientific data sets in the optical, ultraviolet, and near-IR.
 * [Orbit Sentinel](https://www.viventine.com/orbit-sentinel/) - Searchable database and API of 950K+ space regulatory filings from the FCC, ITU, UNOOSA, and FAA-AST, with an open-source MCP server for AI-assistant access.
 * [Small Satellite Information Search](https://s3vi.ndc.nasa.gov/) - NASA's federated search portal for small spacecraft parts, technologies and conference proceedings.
+* [Space Mushroom](https://spacemushroom.com) - Open materials database with sourced values, units and test conditions, including space materials data for vacuum, radiation, atomic oxygen and thermal cycling. Data licensed CC BY 4.0.
 
 ### Data Wrangling Tools
 
