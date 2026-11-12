@@ -1,0 +1,25 @@
+---
+import { PlusIcon } from "@heroicons/react/16/solid";
+import { UPSTREAM_REPO } from "../lib/source";
+import GitHubMark from "./GitHubMark.astro";
+
+/**
+ * The submit and repo buttons, used in the hero and the closing call to action.
+ * They stack full width on phones and sit in a row from `sm` up.
+ */
+type Props = { contributeUrl: string; class?: string };
+const { contributeUrl, class: className } = Astro.props;
+
+const button = "inline-flex h-10 items-center justify-center rounded-lg px-4 text-sm font-medium";
+---
+
+<div class:list={["flex flex-col gap-3 sm:flex-row", className]}>
+  <a href={contributeUrl} class:list={[button, "gap-1.5 bg-fg text-bg transition-opacity hover:opacity-85"]}>
+    <PlusIcon aria-hidden className="size-4" />
+    Submit a resource
+  </a>
+  <a href={UPSTREAM_REPO} class:list={[button, "gap-2 border border-line-strong text-fg transition-colors hover:bg-fg/5"]}>
+    <GitHubMark class="size-4" />
+    View on GitHub
+  </a>
+</div>

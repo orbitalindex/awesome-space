@@ -1,0 +1,89 @@
+@import "@fontsource-variable/inter";
+@import "tailwindcss";
+
+/* Color tokens. Light by default, dark when the OS asks for it. */
+:root {
+  --bg: #ffffff;
+  --surface: #f6f6f7;
+  --elevated: #ffffff;
+  --line: rgb(15 16 18 / 0.08);
+  --line-strong: rgb(15 16 18 / 0.14);
+  --fg: #0d0e10;
+  --muted: #52565e;
+  --faint: #696d75;
+  --accent: #c2570c;
+  --mark: rgb(234 120 30 / 0.18);
+  --glow: rgb(120 140 255 / 0.12);
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #08090a;
+    --surface: #111214;
+    --elevated: #16171a;
+    --line: rgb(255 255 255 / 0.07);
+    --line-strong: rgb(255 255 255 / 0.13);
+    --fg: #f4f5f6;
+    --muted: #9a9ea6;
+    --faint: #878b93;
+    --accent: #ff9a4d;
+    --mark: rgb(255 154 77 / 0.22);
+    --glow: rgb(110 130 255 / 0.16);
+    color-scheme: dark;
+  }
+}
+
+@theme inline {
+  --font-sans: "Inter Variable", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, monospace;
+  --color-bg: var(--bg);
+  --color-surface: var(--surface);
+  --color-elevated: var(--elevated);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+  --color-fg: var(--fg);
+  --color-muted: var(--muted);
+  --color-faint: var(--faint);
+  --color-accent: var(--accent);
+  --color-mark: var(--mark);
+}
+
+@layer base {
+  html {
+    background: var(--bg);
+    color: var(--fg);
+    font-feature-settings: "cv11", "ss03";
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+  }
+
+  ::selection {
+    background: var(--mark);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+    border-radius: 4px;
+  }
+}
+
+/* A dot that travels the hero orbit. Still for people who prefer less motion. */
+.satellite {
+  offset-path: path("M 40 200 A 560 150 0 1 0 1160 200 A 560 150 0 1 0 40 200");
+  animation: orbit 60s linear infinite;
+}
+
+@keyframes orbit {
+  to {
+    offset-distance: 100%;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .satellite {
+    animation: none;
+    offset-distance: 30%;
+  }
+}
