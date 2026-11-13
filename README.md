@@ -106,6 +106,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [RDFvocab](https://github.com/chronos-pramantha/RDFvocab) - A collection of linked data ontologies (semantically linked representations) that describe astronomical and space engineering concepts. Can be used to link popular data sets like [DBPedia](https://wiki.dbpedia.org).
 * [Resources and references on the topic of space exploration](https://space.meta.stackexchange.com/questions/249/resources-and-references-on-the-topic-of-space-exploration) - StackExchange list of books, manuals, courses, and more.
 * [Space Jargon Cheatsheet](https://github.com/LunCoSim/lunco-space-jargon) – list of space-related terms and jargon
+  - [Look Up and Understand: A Beginner's Guide to Seeing the Sky Through a Small Telescope](https://tailoredread.com/book/look-up-understand-beginner-guide-seeing-7ae9b90295ab) - Free complete book on beginner astronomy with a small telescope, written with AI. Read online or download the PDF or EPUB.
 
 ### Space Hackathons and Challenges
 
