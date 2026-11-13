@@ -82,6 +82,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Overhead](https://overheadexplorer.com/) - A browser-based real-time night sky map and interactive 3D rocket explorer (Saturn V, Artemis II, Falcon 9), part of a combined astronautics/aviation tracking site.
 * [SkyLive](https://skylive.world/) - Live sky cams, aurora cams and launch webcasts, each with a map of the sky above the camera showing the Moon phase, the naked-eye planets and the brightest stars. Also has a calendar of sky events and a feed for sharing astrophotos. Free to watch without an account.
 * [Solar Wanderer](https://sw.icodestar.net) - A 1:1 real-time, browser-based solar system explorer using NASA JPL ephemerides. Seamless landing from orbit to walking on the surface, ray-marched atmospheres, and coverage out to the Oort Cloud. ([source](https://github.com/hyqzz/Solar-Wanderer))
+* [Space Radar](https://www.spaceradar.ai/) - Open source live 3D map of space that runs in the browser, phones included: about 17,000 satellites where they are this minute, the planets and their moons, 2.5 million stars in 3D, the ground at Moon and Mars landing sites, the sky from your own street, and narrated guided trips. Built from public data (CelesTrak, JPL Horizons, NASA), with the source of every number on its card.
 * [SpaceEngine](https://spaceengine.org) : Realistic universe simulator and planetarium. Old versions are [free](http://old.spaceengine.org/load/old_versions/4).
 * [Stellarium](http://stellarium.org/) - Open source planetarium for your computer
 
