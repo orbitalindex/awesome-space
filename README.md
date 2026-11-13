@@ -66,6 +66,7 @@ A curated list of space-related code, APIs, data, and other resources.
 #### Visualization
 
 * [100,000 Stars](https://stars.chromeexperiments.com/) - 100,000 Stars is an interactive visualization of the stellar neighborhood showing the location of 119,617 nearby stars.
+* [3D Solar System Simulator](https://www.3dsolarsystem.net/) - Free browser-based 3D model of the Sun and planets: switch between a compressed view and true distances and sizes, speed up time to see real orbital periods, and explore the Moon and Mars in first person. Built with Three.js; no login. ([source](https://github.com/sweesama/Mzu-3D-Solar-System--Interactive-Solar-System-Simulator))
 * [ANISE](https://github.com/nyx-space/anise) - ANISE provides a toolkit and files for Attitude, Navigation, Instrument, Spacecraft, and Ephemeris data. It's a modern replacement of the NAIF SPICE toolkit.
 * [Celestia](https://celestia.space/) - Free real-time 3D visualization of space. (See also [Celestia Motherlode](http://www.celestiamotherlode.net/) for many add-ons.)
 * [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps
