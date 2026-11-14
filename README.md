@@ -14,6 +14,7 @@ A curated list of space-related code, APIs, data, and other resources.
     * [Visualization](#visualization)
   * [SDKs &amp; Software Development Tools](#sdks-amp-software-development-tools)
 * [Community](#community)
+  * [Careers](#careers)
   * [Learning Materials](#learning-materials)
   * [Space Hackathons and Challenges](#space-hackathons-and-challenges)
   * [Working Groups](#working-groups)
@@ -96,6 +97,10 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Spacekit.js](https://typpo.github.io/spacekit/) - An open-source library for building interactive Javascript- and WebGL-based space visualizations.
 
 ## Community
+
+### Careers
+
+* [Summer 2027 Space Internships](https://github.com/spacejobsnow/Summer2027-Space-Internships) - Daily-updated list of every open internship and co-op at space companies, with posted pay and program deadlines; a companion list covers entry-level roles for new graduates.
 
 ### Learning Materials
 
