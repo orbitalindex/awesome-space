@@ -224,6 +224,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [Quetzal-1](https://github.com/Quetzal-1-CubeSat-Team) - Quetzal-1 was a 1U CubeSat developed by an engineering team from Universidad del Valle de Guatemala (UVG). Quetzal-1 operated successfully in space for 211 days.
 * [SUCHAI-2](https://gitlab.com/spel-uchile/suchai-2-software) - SUCHAI 2, 3, and PlantSat were 3U CubeSats developed at the Space and Planetary Exploration Laboratory (SPEL) of the University of Chile. This is the complete flight software and ground software used for these satellites.
+* [BIRDS Series](https://github.com/BIRDSOpenSource) - The BIRDS program, developed by Kyushu Institute of Technology, is an educational initiative focused on CubeSat development. The repository serves as a central hub for open-sourcing files, code, and designs from the BIRDS program, enabling other entities to utilize and contribute to the advancement of CubeSat technology. 
 
 ### General Software
 
