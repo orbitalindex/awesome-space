@@ -70,7 +70,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [ANISE](https://github.com/nyx-space/anise) - ANISE provides a toolkit and files for Attitude, Navigation, Instrument, Spacecraft, and Ephemeris data. It's a modern replacement of the NAIF SPICE toolkit.
 * [Celestia](https://celestia.space/) - Free real-time 3D visualization of space. (See also [Celestia Motherlode](http://www.celestiamotherlode.net/) for many add-ons.)
 * [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps
-* [Chronosphere](https://chronospherex.com/) - Browser viewer that lays NASA SPHEREx images of any spot on one grid with older 2MASS and WISE images of the same spot, to watch nearby stars and brown dwarfs move over up to 27 years and measure their motion ([source](https://github.com/muhammetmucahitsoylu/chronosphere), GPL-3.0).
+* [Chronosphere](https://chronospherex.com/) - Browser viewer that lays NASA SPHEREx images of any spot on one grid with older 2MASS and WISE images of the same spot, to watch nearby stars and brown dwarfs move over up to 27 years and measure their motion.
 * [Cosmic Timeline](https://cosmic-timeline.netlify.app/) - Interactive journey through the history of the universe, from the Planck epoch to today, with the physical values at each instant computed from the Planck 2018 cosmological model.
 * [Gaia Sky](https://zah.uni-heidelberg.de/institutes/ari/gaia/outreach/gaiasky/) - Real-time, 3D, astronomy visualization software developed in the framework of ESA's Gaia mission. Runs on Windows, Linux and macOS.
 * [Harmony of the Spheres](https://github.com/TheHappyKoala/Harmony-of-the-Spheres) - Newtonian gravity and space simulator that runs in your browser
