@@ -52,6 +52,7 @@ A curated list of space-related code, APIs, data, and other resources.
 ### Astronomy APIs
 
 * [AstroBin API](http://www.astrobin.com/help/api/) - AstroBin is an image hosting website specifically targeted to astrophotographers. Its API offers a basic set of RESTful endpoints. Currently the API is read-only, and  allows you to get data about images, and perform basic searches.
+* [Astroletra](https://astroletra.com/datos/api/) - Keyless JSON API with the Moon's phase, illumination and zodiac sign, planetary positions and exact aspects, retrograde periods and the next lunation for any IANA time zone, computed from JPL DE440. CC BY 4.0.
 * [astrometry.net](http://astrometry.net/) - "If you have astronomical imaging of the sky with celestial coordinates you do not know—or do not trust—then Astrometry.net is for you. Input an image and we'll give you back astrometric calibration meta-data, plus lists of known objects falling inside the field of view."
 * [CycleCalcs](https://www.cyclecalcs.com/api.html) - Free astronomy API for moon phase, sunrise and sunset, rise and set times, planet positions, eclipses and conjunctions from 1700 to 2200. No key needed on the free tier, and also available as an MCP server.
 * [Markarian Multiwavelength Data Center (MMDC)](https://mmdc.am/) - Multiwavelength SEDs and light curves of blazars from archival catalogues and new Swift, NuSTAR and Fermi-LAT analyses, with a REST API, a Python client ([astro-mmdc](https://github.com/icranet/astro-mmdc)) and SSC/EIC/hadronic modeling.
