@@ -108,6 +108,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [RDFvocab](https://github.com/chronos-pramantha/RDFvocab) - A collection of linked data ontologies (semantically linked representations) that describe astronomical and space engineering concepts. Can be used to link popular data sets like [DBPedia](https://wiki.dbpedia.org).
 * [Resources and references on the topic of space exploration](https://space.meta.stackexchange.com/questions/249/resources-and-references-on-the-topic-of-space-exploration) - StackExchange list of books, manuals, courses, and more.
 * [Space Jargon Cheatsheet](https://github.com/LunCoSim/lunco-space-jargon) – list of space-related terms and jargon
+* [truedistance.org](https://www.truedistance.org/) - Calculator and printable sheets for a true-scale solar system model: one scale factor for sizes and distances, matched to the room you have. CC BY 4.0.
 
 ### Space Hackathons and Challenges
 
