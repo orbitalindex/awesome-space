@@ -107,6 +107,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [NITARP](https://nitarp.ipac.caltech.edu/page/other_epo_programs) - NITARP, the NASA/IPAC Teacher Archive Research Program, gets teachers & students involved in authentic astronomical research.
 * [RDFvocab](https://github.com/chronos-pramantha/RDFvocab) - A collection of linked data ontologies (semantically linked representations) that describe astronomical and space engineering concepts. Can be used to link popular data sets like [DBPedia](https://wiki.dbpedia.org).
 * [Resources and references on the topic of space exploration](https://space.meta.stackexchange.com/questions/249/resources-and-references-on-the-topic-of-space-exploration) - StackExchange list of books, manuals, courses, and more.
+* [Rocket Equation Lesson](https://artigram.cafeboon.com/p/6622k79) - Interactive lesson on the rocket equation: guess the fuel share needed to reach orbit, then build a rocket and see why about 90% of it must be fuel.
 * [Space Jargon Cheatsheet](https://github.com/LunCoSim/lunco-space-jargon) – list of space-related terms and jargon
 
 ### Space Hackathons and Challenges
