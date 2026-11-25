@@ -101,6 +101,8 @@ A curated list of space-related code, APIs, data, and other resources.
 
 ### Learning Materials
 
+
+* [ArabSkyPedia](https://arabskypedia.com/) - Free Arabic-language astronomy encyclopedia with an interactive sky atlas, sky-time calculators, lessons, and educational games.
 * [Awesome Assured Autonomy](https://github.com/sylvesterkaczmarek/awesome-assured-autonomy) - Curated research, tools, benchmarks, standards, and open-source systems for assuring autonomous systems.
 * [Awesome Space Autonomy](https://github.com/sylvesterkaczmarek/awesome-space-autonomy) - Curated research, flight demonstrations, software, tools, and guidance for autonomous spacecraft and space robots.
 * [NewSpace Startup Legal Guide](https://www.buzko.legal/practices-eng/space#newspace-startup-legal-guide) – A guide tailored for space industry startups. It covers licensing of space activities, public-private partnerships in space, legal intricacies of launching payloads, space risk insurance, etc.
