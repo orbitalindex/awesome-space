@@ -72,6 +72,7 @@ A curated list of space-related code, APIs, data, and other resources.
 * [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps
 * [ChronosphereX](https://chronospherex.com/) - Browser viewer that lays NASA SPHEREx images of any spot on one grid with older 2MASS and WISE images of the same spot, to watch nearby stars and brown dwarfs move over up to 27 years and measure their motion.
 * [Cosmic Timeline](https://cosmic-timeline.netlify.app/) - Interactive journey through the history of the universe, from the Planck epoch to today, with the physical values at each instant computed from the Planck 2018 cosmological model.
+* [Farbound](https://farbound.fyi/) - Browser-based interactive 3D space exhibits and illustrated stories covering the solar system, missions, telescopes and black holes, in eight languages. Many exhibits are free; the full set is paid.
 * [Gaia Sky](https://zah.uni-heidelberg.de/institutes/ari/gaia/outreach/gaiasky/) - Real-time, 3D, astronomy visualization software developed in the framework of ESA's Gaia mission. Runs on Windows, Linux and macOS.
 * [Harmony of the Spheres](https://github.com/TheHappyKoala/Harmony-of-the-Spheres) - Newtonian gravity and space simulator that runs in your browser
 * [KStars](https://edu.kde.org/kstars/) - KStars is free, open source, cross-platform astronomy software. It provides many features, including a graphical simulation of the night sky, observing planner, a sky calendar tool, an FOV editor, and more.
