@@ -68,6 +68,7 @@ A curated list of space-related code, APIs, data, and other resources.
 
 * [100,000 Stars](https://stars.chromeexperiments.com/) - 100,000 Stars is an interactive visualization of the stellar neighborhood showing the location of 119,617 nearby stars.
 * [ANISE](https://github.com/nyx-space/anise) - ANISE provides a toolkit and files for Attitude, Navigation, Instrument, Spacecraft, and Ephemeris data. It's a modern replacement of the NAIF SPICE toolkit.
+* [ArabSkyPedia Interactive Sky Atlas](https://arabskypedia.com/atlas/) - Free Arabic-language sky atlas for phones and browsers: point the device at the sky to see star and planet names for your location, with a field-of-view frame for binoculars, telescopes and cameras.
 * [Celestia](https://celestia.space/) - Free real-time 3D visualization of space. (See also [Celestia Motherlode](http://www.celestiamotherlode.net/) for many add-ons.)
 * [Cesium.js](https://cesiumjs.org/) - An open-source JavaScript library for world-class 3D globes and maps
 * [ChronosphereX](https://chronospherex.com/) - Browser viewer that lays NASA SPHEREx images of any spot on one grid with older 2MASS and WISE images of the same spot, to watch nearby stars and brown dwarfs move over up to 27 years and measure their motion.
